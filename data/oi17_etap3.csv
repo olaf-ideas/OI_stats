@@ -44,45 +44,45 @@ lp.,imię i nazwisko,klasa,szkoła,miejscowość,mon*,gra,jed,lat,mos,pil,zab,su
 43,Wojtek Łopata,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,10,100,0,0,0,100,0,200
 44,Wojciech Marczenko,2,XXVII Liceum Ogólnokształcące im. Tadeusza Czackiego,Warszawa,10,100,0,20,40,10,30,200
 45,Michał Zając,1,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,40,100,0,0,0,0,100,200
-46,Marcin Baczyński,3,VIII Liceum Ogólnokształcące im. Władysława IV,Warszawa
-47,Paweł Banaszewski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia
-48,Aleksandra Baranowska,3,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok
-49,Piotr Bejda,1,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków
-50,Piotr Bryk,3,VIII Liceum Ogólnokształcące,Kraków
-51,Aleksander Bułanowski,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa
-52,Piotr Chabierski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia
-53,Andrzej Dorobisz,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków
-54,Michał Flendrich,3,I Liceum Ogólnokształcące,Legnica
-55,Adam Furmanek,3,I Liceum Ogólnokształcące,Jasło
-56,Rafał Gaweł,3,Zespół Szkół,Zawoja
-57,Karol Grodzicki,3,Gdańskie Liceum Autonomiczne,Gdańsk
-58,Patrick Hess,2,II Liceum Ogólnokształcące,Kraków
-59,Mateusz Jurczyk,2,VIII Liceum Ogólnokształcące,Katowice
-60,Aleksander Kędzierski,3,XIII Liceum Ogólnokształcące,Szczecin
-61,Mateusz Konieczny,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków
-62,Radosław Kotowski,2,VI Liceum Ogólnokształcące im. Króla Zygmunta Augusta,Białystok
-63,Michał Kowalczyk,3,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz
-64,Aleksander Kramarz,1,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz
-65,Wiktor Kuropatwa,1,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków
-66,Jan Kwaśniak,3,Zespół Szkół Sióstr Nazaretanek,Kielce
-67,Mateusz Lewandowski,3,II Liceum Ogólnokształcące  im. Marii Konopnickiej,Inowrocław
-68,Anna Lewicka,3,Publiczne Liceum Ogólnokształcące,Chorzów
-69,Miłosz Makowski,1,ZS UMK Gimnazjum i Liceum Akademickie,Toruń
-70,Tomasz Obuchowski,3,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok
-71,Damian Orlef,2,III Liceum Ogólnokształcące,Zabrze
-72,Piotr Pakosz,2,Zespół Szkół nr 1 im Jana Pawła II w Przysusze,Przysucha
-73,Łukasz Piotrowski,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa
-74,Paweł Przytarski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia
-75,Marcin Regdos,2,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków
-76,Michał Richter,3,Publiczne Liceum Ogólnokształcące nr 2 z Oddziałami Dwujęzycznymi im. Marii Konopnickiej, Opole
-77,Andrzej Rumiński,1,ZS UMK Gimnazjum i Liceum Akademickie,Toruń
-78,Paweł Seta,3,VI Liceum Ogólnokształcące,Radom
-79,Łukasz Solak,3,VIII Liceum Ogólnokształcące,Katowice
-80,Krzysztof Story,1,Zespół Szkół nr 14,Wrocław
-81,Kamil Sutkowski,3,X Liceum Ogólnokształcące,Wrocław
-82,Maciej Szeptuch,2,Zespół Szkół nr 14,Wrocław
-83,Aleksander Szymanek,3,Zespół Szkół nr 14,Wrocław
-84,Bartosz Tarnawski,1,Katolickie Liceum Ogólnokształcące,Katowice
-85,Mateusz Wasilewski,3,Zespół Szkół Elektronicznych i Samochodowych,Zielona Góra
-86,Paweł Wawruch,3,Liceum Ogólnokształcące,Milanówek
-87,Jakub Woyke,3,XIII Liceum Ogólnokształcące,Szczecin
+46,Marcin Baczyński,3,VIII Liceum Ogólnokształcące im. Władysława IV,Warszawa,?,?,?,?,?,?,?,?
+47,Paweł Banaszewski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?,?
+48,Aleksandra Baranowska,3,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,?,?,?,?,?,?,?,?
+49,Piotr Bejda,1,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,?,?,?,?,?,?,?,?
+50,Piotr Bryk,3,VIII Liceum Ogólnokształcące,Kraków,?,?,?,?,?,?,?,?
+51,Aleksander Bułanowski,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,?,?,?,?,?,?,?,?
+52,Piotr Chabierski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?,?
+53,Andrzej Dorobisz,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,?,?,?,?,?,?,?,?
+54,Michał Flendrich,3,I Liceum Ogólnokształcące,Legnica,?,?,?,?,?,?,?,?
+55,Adam Furmanek,3,I Liceum Ogólnokształcące,Jasło,?,?,?,?,?,?,?,?
+56,Rafał Gaweł,3,Zespół Szkół,Zawoja,?,?,?,?,?,?,?,?
+57,Karol Grodzicki,3,Gdańskie Liceum Autonomiczne,Gdańsk,?,?,?,?,?,?,?,?
+58,Patrick Hess,2,II Liceum Ogólnokształcące,Kraków,?,?,?,?,?,?,?,?
+59,Mateusz Jurczyk,2,VIII Liceum Ogólnokształcące,Katowice,?,?,?,?,?,?,?,?
+60,Aleksander Kędzierski,3,XIII Liceum Ogólnokształcące,Szczecin,?,?,?,?,?,?,?,?
+61,Mateusz Konieczny,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,?,?,?,?,?,?,?,?
+62,Radosław Kotowski,2,VI Liceum Ogólnokształcące im. Króla Zygmunta Augusta,Białystok,?,?,?,?,?,?,?,?
+63,Michał Kowalczyk,3,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,?,?,?,?,?,?,?,?
+64,Aleksander Kramarz,1,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,?,?,?,?,?,?,?,?
+65,Wiktor Kuropatwa,1,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,?,?,?,?,?,?,?,?
+66,Jan Kwaśniak,3,Zespół Szkół Sióstr Nazaretanek,Kielce,?,?,?,?,?,?,?,?
+67,Mateusz Lewandowski,3,II Liceum Ogólnokształcące  im. Marii Konopnickiej,Inowrocław,?,?,?,?,?,?,?,?
+68,Anna Lewicka,3,Publiczne Liceum Ogólnokształcące,Chorzów,?,?,?,?,?,?,?,?
+69,Miłosz Makowski,1,ZS UMK Gimnazjum i Liceum Akademickie,Toruń,?,?,?,?,?,?,?,?
+70,Tomasz Obuchowski,3,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,?,?,?,?,?,?,?,?
+71,Damian Orlef,2,III Liceum Ogólnokształcące,Zabrze,?,?,?,?,?,?,?,?
+72,Piotr Pakosz,2,Zespół Szkół nr 1 im Jana Pawła II w Przysusze,Przysucha,?,?,?,?,?,?,?,?
+73,Łukasz Piotrowski,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,?,?,?,?,?,?,?,?
+74,Paweł Przytarski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?,?
+75,Marcin Regdos,2,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,?,?,?,?,?,?,?,?
+76,Michał Richter,3,Publiczne Liceum Ogólnokształcące nr 2 z Oddziałami Dwujęzycznymi im. Marii Konopnickiej, Opole,?,?,?,?,?,?,?,?
+77,Andrzej Rumiński,1,ZS UMK Gimnazjum i Liceum Akademickie,Toruń,?,?,?,?,?,?,?,?
+78,Paweł Seta,3,VI Liceum Ogólnokształcące,Radom,?,?,?,?,?,?,?,?
+79,Łukasz Solak,3,VIII Liceum Ogólnokształcące,Katowice,?,?,?,?,?,?,?,?
+80,Krzysztof Story,1,Zespół Szkół nr 14,Wrocław,?,?,?,?,?,?,?,?
+81,Kamil Sutkowski,3,X Liceum Ogólnokształcące,Wrocław,?,?,?,?,?,?,?,?
+82,Maciej Szeptuch,2,Zespół Szkół nr 14,Wrocław,?,?,?,?,?,?,?,?
+83,Aleksander Szymanek,3,Zespół Szkół nr 14,Wrocław,?,?,?,?,?,?,?,?
+84,Bartosz Tarnawski,1,Katolickie Liceum Ogólnokształcące,Katowice,?,?,?,?,?,?,?,?
+85,Mateusz Wasilewski,3,Zespół Szkół Elektronicznych i Samochodowych,Zielona Góra,?,?,?,?,?,?,?,?
+86,Paweł Wawruch,3,Liceum Ogólnokształcące,Milanówek,?,?,?,?,?,?,?,?
+87,Jakub Woyke,3,XIII Liceum Ogólnokształcące,Szczecin,?,?,?,?,?,?,?,?

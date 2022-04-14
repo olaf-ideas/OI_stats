@@ -32,42 +32,42 @@ lp.,imię i nazwisko,szkoła,miejscowość,dzi*,akc,dwa,dwu,aut,lus,pra,suma
 31,Adrian Galewski,Zespół Szkół Technicznych,Wodzisław Śl.,0,0,0,14,100,0,0,114
 32,Oskar Strączkowski,VI LO im. W. Sierpińskiego,Gdynia,0,0,0,100,13,0,0,113
 33,Bolesław Kulbabiński,Gimnazjum im. Św. Jadwigi Królowej,Kielce,0,0,0,13,100,0,0,113
-34,Kamil Adamczyk,I LO im. St. Staszica,Lublin
-35,Kamil Anikiej,XIV LO im. S. Staszica,Warszawa
-36,Jacek Caban,III LO,Wrocław
-37,Grzegorz Chilkiewicz,I LO im. Stefana Żeromskiego,Goleniów
-38,Sebastian Chojniak,I Liceum Ogólnokształcące,Pisz
-39,Adam Choma,III LO im. Marynarki Wojennej RP,Gdynia
-40,Bartosz Dąbrowski,XIV LO im. St. Staszica,Warszawa
-41,Mateusz Gajczewski,III LO im. Stefana Batorego,Chorzów
-42,Piotr Gurgul,V LO im. A. Witkowskiego,Kraków
-43,Miłosz Kordecki,II LO im. Piastów Śląskich,Wrocław
-44,Przemysław Kosiak,I Liceum Ogólnokształcące,Bydgoszcz
-45,Grzegorz Kossowski,XIV LO im. St. Staszica,Warszawa
-46,Krzysztof Kotuła,I LO im. St. Staszica,Lublin
-47,Kamil Kraszewski,V LO im. A. Witkowskiego,Kraków
-48,Krzysztof Krygiel,IV LO im. Tadeusza Kościuszki,Toruń
-49,Karol Kurach,XIV LO im. S. Staszica,Warszawa
-50,Wojciech Leja,LO WSIiZ,Rzeszów
-51,Dariusz Leniowski,IV LO,Rzeszów
-52,Krzysztof Magiera,II LO im. Jana III Sobieskiego,Kraków
-53,Jakub Muszyński,V LO im. Jana III Sobieskiego,Białystok
-54,Robert Nasiadek,XIV LO im. S. Staszica,Warszawa
-55,Jakub Neumann,V LO im. A. Witkowskiego,Kraków
-56,Kamil Nowosad,I Liceum Ogólnokształcące,Gliwice
-57,Hubert Orlik-Grzesik,V LO im. A. Witkowskiego,Kraków
-58,Grzegorz Paszt,XIII LO,Szczecin
-59,Maciej Pawlisz,III LO im. Marynarki Wojennej RP,Gdynia
-60,Kamil Serwus,VIII LO im. A. Mickiewicza,Poznań
-61,Filip Skalski,67 LO przy wydziale UW,Warszawa
-62,Karol Sobczak,LO im. K. I. Gałczyńskiego,Otwock
-63,Juliusz Sompolski,Gimnazjum i Liceum Akademickie,Toruń
-64,Jakub Staszak,VIII LO im. A. Mickiewicza,Poznań
-65,Bartosz Szreder,VI LO im. W. Sierpińskiego,Gdynia
-66,Marek Szykuła,Prywatne Salezjańskie LO,Wrocław
-67,Wojciech Śmietanka,III LO im. Marynarki Wojennej RP,Gdynia
-68,Łukasz Wiatrak,V LO im. A. Witkowskiego,Kraków
-69,Przemysław Witek,I LO im. K. Miarki,Żory
-70,Michał Wróbel,III LO im. Adama Mickiewicza,Wrocław
-71,Bartosz Zaborowski,XVIII LO im. J. Zamoyskiego,Warszawa
-72,Grzegorz Ziemiański,IV LO im. M. Kopernika,Rzeszów
+34,Kamil Adamczyk,I LO im. St. Staszica,Lublin,?,?,?,?,?,?,?,?
+35,Kamil Anikiej,XIV LO im. S. Staszica,Warszawa,?,?,?,?,?,?,?,?
+36,Jacek Caban,III LO,Wrocław,?,?,?,?,?,?,?,?
+37,Grzegorz Chilkiewicz,I LO im. Stefana Żeromskiego,Goleniów,?,?,?,?,?,?,?,?
+38,Sebastian Chojniak,I Liceum Ogólnokształcące,Pisz,?,?,?,?,?,?,?,?
+39,Adam Choma,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?,?
+40,Bartosz Dąbrowski,XIV LO im. St. Staszica,Warszawa,?,?,?,?,?,?,?,?
+41,Mateusz Gajczewski,III LO im. Stefana Batorego,Chorzów,?,?,?,?,?,?,?,?
+42,Piotr Gurgul,V LO im. A. Witkowskiego,Kraków,?,?,?,?,?,?,?,?
+43,Miłosz Kordecki,II LO im. Piastów Śląskich,Wrocław,?,?,?,?,?,?,?,?
+44,Przemysław Kosiak,I Liceum Ogólnokształcące,Bydgoszcz,?,?,?,?,?,?,?,?
+45,Grzegorz Kossowski,XIV LO im. St. Staszica,Warszawa,?,?,?,?,?,?,?,?
+46,Krzysztof Kotuła,I LO im. St. Staszica,Lublin,?,?,?,?,?,?,?,?
+47,Kamil Kraszewski,V LO im. A. Witkowskiego,Kraków,?,?,?,?,?,?,?,?
+48,Krzysztof Krygiel,IV LO im. Tadeusza Kościuszki,Toruń,?,?,?,?,?,?,?,?
+49,Karol Kurach,XIV LO im. S. Staszica,Warszawa,?,?,?,?,?,?,?,?
+50,Wojciech Leja,LO WSIiZ,Rzeszów,?,?,?,?,?,?,?,?
+51,Dariusz Leniowski,IV LO,Rzeszów,?,?,?,?,?,?,?,?
+52,Krzysztof Magiera,II LO im. Jana III Sobieskiego,Kraków,?,?,?,?,?,?,?,?
+53,Jakub Muszyński,V LO im. Jana III Sobieskiego,Białystok,?,?,?,?,?,?,?,?
+54,Robert Nasiadek,XIV LO im. S. Staszica,Warszawa,?,?,?,?,?,?,?,?
+55,Jakub Neumann,V LO im. A. Witkowskiego,Kraków,?,?,?,?,?,?,?,?
+56,Kamil Nowosad,I Liceum Ogólnokształcące,Gliwice,?,?,?,?,?,?,?,?
+57,Hubert Orlik-Grzesik,V LO im. A. Witkowskiego,Kraków,?,?,?,?,?,?,?,?
+58,Grzegorz Paszt,XIII LO,Szczecin,?,?,?,?,?,?,?,?
+59,Maciej Pawlisz,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?,?
+60,Kamil Serwus,VIII LO im. A. Mickiewicza,Poznań,?,?,?,?,?,?,?,?
+61,Filip Skalski,67 LO przy wydziale UW,Warszawa,?,?,?,?,?,?,?,?
+62,Karol Sobczak,LO im. K. I. Gałczyńskiego,Otwock,?,?,?,?,?,?,?,?
+63,Juliusz Sompolski,Gimnazjum i Liceum Akademickie,Toruń,?,?,?,?,?,?,?,?
+64,Jakub Staszak,VIII LO im. A. Mickiewicza,Poznań,?,?,?,?,?,?,?,?
+65,Bartosz Szreder,VI LO im. W. Sierpińskiego,Gdynia,?,?,?,?,?,?,?,?
+66,Marek Szykuła,Prywatne Salezjańskie LO,Wrocław,?,?,?,?,?,?,?,?
+67,Wojciech Śmietanka,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?,?
+68,Łukasz Wiatrak,V LO im. A. Witkowskiego,Kraków,?,?,?,?,?,?,?,?
+69,Przemysław Witek,I LO im. K. Miarki,Żory,?,?,?,?,?,?,?,?
+70,Michał Wróbel,III LO im. Adama Mickiewicza,Wrocław,?,?,?,?,?,?,?,?
+71,Bartosz Zaborowski,XVIII LO im. J. Zamoyskiego,Warszawa,?,?,?,?,?,?,?,?
+72,Grzegorz Ziemiański,IV LO im. M. Kopernika,Rzeszów,?,?,?,?,?,?,?,?

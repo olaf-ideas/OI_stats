@@ -36,6 +36,7 @@ with open(f'data/oi{OI_NUMER}_etap{OI_ETAP}.csv', 'w', encoding='UTF-8') as f:
 		row = []
 		for column in element.find_all("td"):
 			data = column.text.replace('\n', '').replace('\r', '')
+
 			if data == "":
 				data = "0"
 			
@@ -46,6 +47,9 @@ with open(f'data/oi{OI_NUMER}_etap{OI_ETAP}.csv', 'w', encoding='UTF-8') as f:
 
 		if row == []:
 			continue
+
+		while len(row) < len(header):
+			row.append('?')
 
 		writer.writerow(row)
 

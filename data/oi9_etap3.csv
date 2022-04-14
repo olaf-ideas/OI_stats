@@ -18,32 +18,32 @@ lp.,imię i nazwisko,klasa,szkoła,miejscowość,min*,lic,nar,naw,szy,wag,suma
 17,Bartłomiej Romański,2,XIV L. O. im. St. Staszica,Warszawa,100,24,30,60,22,18,154
 18,Marcin Wielgus,3,I L. O. im B. Nowodworskiego,Kraków,100,33,0,20,100,0,153
 19,Jan Prażuch,3,V L. O. im. A. Witkowskiego,Kraków,100,25,30,20,55,19,149
-20,Tomasz Batkiewicz,4,IV L. O. im. C. K. Norwida,Ostrowiec Św.
-21,Piotr Cerobski,3,XIV L. O. im. St. Staszica,Warszawa
-22,Andrzej Chodor,3,IV LO im. Hanki Sawickiej,Kielce
-23,Przemysław Dębiak,4,IX L. O.,Gdańsk
-24,Robert Dyczkowski,2,XIV L. O. im. St. Staszica,Warszawa
-25,Przemysław Dzierżak,4,VI Liceum Ogólnokształcące,Gdynia
-26,Mateusz Goryca,4,VI L. O. Im. J. Kochanowskiego,Radom
-27,Paweł Grajewski,4,I Liceum Ogólnokształcące,Suwałki
-28,Nhat Viet Ha,3,LXXX L. O. im. L. Staffa,Warszawa
-29,Tomasz Idziaszek,4,XLI L. O. im. J. Lelewela,Warszawa
-30,Jan Kaczmarczyk,3,V L. O. im. A. Witkowskiego,Kraków
-31,Piotr Karłowicz,4,L. O. Niepubliczne nr. 27,Stara Miłosna
-32,Tomasz Kazimierczuk,3,I L. O. im. M. Kopernika,Krosno
-33,Marek Kirejczyk,3,l. O. im. T. Reytan,Warszawa
-34,Marcin Kosieradzki,3,V Liceum Ogólnokształcące,Warszawa
-35,Marcin Koszów,4,I Liceum Ogólnokształcące,Głogów
-36,Łukasz Krygier,4,III L. O. im. B. Lindego,Toruń
-37,Łukasz Pobereżnik,3,V L. O. im. A. Witkowskiego,Kraków
-38,Robert Rychcicki,3,X L. O.,Szczecin
-39,Wojciech Samotij,4,XIV L. O. im. Polonii Belgijskiej,Wrocław
-40,Dawid Sieradzki,2,VIII L. O. im. A. Mickiewicza,Poznań
-41,Sebastian Stafiej,4,II L.O. im. M. Konopnickiej,Inowrocław
-42,Jakub Suder,4,V L. O. im. A. Witkowskiego,Kraków
-43,Wiktor Tomczak,4,I L. O. im. M. Kopernika,Gdańsk
-44,Szymon Wąsik,3,VIII L. O. im. A. Mickiewicza,Poznań
-45,Piotr Włodarczyk,4,XIV L. O. im. St. Staszica,Warszawa
-46,Rafał Wojtak,3,Zespół Szkół Elektronicznych,Rzeszów
-47,Jarosław Wrona,4,I L. O. im. M. Kopernika,Krosno
-48,Marcin Zawadzki,4,III L. O. im. Marynarki Wojennej RP,Gdynia
+20,Tomasz Batkiewicz,4,IV L. O. im. C. K. Norwida,Ostrowiec Św.,?,?,?,?,?,?,?
+21,Piotr Cerobski,3,XIV L. O. im. St. Staszica,Warszawa,?,?,?,?,?,?,?
+22,Andrzej Chodor,3,IV LO im. Hanki Sawickiej,Kielce,?,?,?,?,?,?,?
+23,Przemysław Dębiak,4,IX L. O.,Gdańsk,?,?,?,?,?,?,?
+24,Robert Dyczkowski,2,XIV L. O. im. St. Staszica,Warszawa,?,?,?,?,?,?,?
+25,Przemysław Dzierżak,4,VI Liceum Ogólnokształcące,Gdynia,?,?,?,?,?,?,?
+26,Mateusz Goryca,4,VI L. O. Im. J. Kochanowskiego,Radom,?,?,?,?,?,?,?
+27,Paweł Grajewski,4,I Liceum Ogólnokształcące,Suwałki,?,?,?,?,?,?,?
+28,Nhat Viet Ha,3,LXXX L. O. im. L. Staffa,Warszawa,?,?,?,?,?,?,?
+29,Tomasz Idziaszek,4,XLI L. O. im. J. Lelewela,Warszawa,?,?,?,?,?,?,?
+30,Jan Kaczmarczyk,3,V L. O. im. A. Witkowskiego,Kraków,?,?,?,?,?,?,?
+31,Piotr Karłowicz,4,L. O. Niepubliczne nr. 27,Stara Miłosna,?,?,?,?,?,?,?
+32,Tomasz Kazimierczuk,3,I L. O. im. M. Kopernika,Krosno,?,?,?,?,?,?,?
+33,Marek Kirejczyk,3,l. O. im. T. Reytan,Warszawa,?,?,?,?,?,?,?
+34,Marcin Kosieradzki,3,V Liceum Ogólnokształcące,Warszawa,?,?,?,?,?,?,?
+35,Marcin Koszów,4,I Liceum Ogólnokształcące,Głogów,?,?,?,?,?,?,?
+36,Łukasz Krygier,4,III L. O. im. B. Lindego,Toruń,?,?,?,?,?,?,?
+37,Łukasz Pobereżnik,3,V L. O. im. A. Witkowskiego,Kraków,?,?,?,?,?,?,?
+38,Robert Rychcicki,3,X L. O.,Szczecin,?,?,?,?,?,?,?
+39,Wojciech Samotij,4,XIV L. O. im. Polonii Belgijskiej,Wrocław,?,?,?,?,?,?,?
+40,Dawid Sieradzki,2,VIII L. O. im. A. Mickiewicza,Poznań,?,?,?,?,?,?,?
+41,Sebastian Stafiej,4,II L.O. im. M. Konopnickiej,Inowrocław,?,?,?,?,?,?,?
+42,Jakub Suder,4,V L. O. im. A. Witkowskiego,Kraków,?,?,?,?,?,?,?
+43,Wiktor Tomczak,4,I L. O. im. M. Kopernika,Gdańsk,?,?,?,?,?,?,?
+44,Szymon Wąsik,3,VIII L. O. im. A. Mickiewicza,Poznań,?,?,?,?,?,?,?
+45,Piotr Włodarczyk,4,XIV L. O. im. St. Staszica,Warszawa,?,?,?,?,?,?,?
+46,Rafał Wojtak,3,Zespół Szkół Elektronicznych,Rzeszów,?,?,?,?,?,?,?
+47,Jarosław Wrona,4,I L. O. im. M. Kopernika,Krosno,?,?,?,?,?,?,?
+48,Marcin Zawadzki,4,III L. O. im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?

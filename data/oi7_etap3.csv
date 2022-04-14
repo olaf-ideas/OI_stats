@@ -18,28 +18,28 @@ lp.,imię i nazwisko,szkoła,miejscowość,jaj,pol,age,pow,pro,suma
 17,Wojciech Matyjewicz,III L. O. im. A. Mickiewicza,Tarnów,36,0,23,40,0,99
 18,Paweł Walter,V L. O. im. A. Witkowskiego,Kraków,12,60,0,24,0,96
 19,Piotr Skibiński,IV L. O. im. M. Kopernika,Rzeszów,36,0,40,16,0,92
-20,Adrian Adamiak,I L. O. im. KEN,Sanok
-21,Jan Chmiel,VIII L. O. im. A. Mickiewicza,Poznań
-22,Karol Cwalina,XIV L. O. im. S. Staszica,Warszawa
-23,Jacek Erd,VI L. O. im. J. Kochanowskiego,Radom
-24,Marek Gibek,Technikum Łączności,Kraków
-25,Igor Gocaliński,III L.O.,Zabrze
-26,Tomasz Kolinko,Z. S. Elektr. I Telek.,Olsztyn
-27,Michał Kosek,V L. O. im. A. Witkowskiego,Kraków
-28,Piotr Kowalski,II L. O. im. J. Chreptowicza,Ostrowiec Świętokrzyski
-29,Michał Kozłowski,II L. O. im. A. F. Modrzewskiego,Włodawa
-30,Roman Łomowski,VI L. O. im. J. i J. Śniadeckich,Bydgoszcz
-31,Grzegorz Łukasik,V L. O. im. A. Witkowskiego,Kraków
-32,Michał Malinowski,I L. O. im. J. Śniadeckiego,Pabianice
-33,Piotr Malinowski,I L. O. im. J. Śniadeckiego,Pabianice
-34,Michał Michalski,II  L. O. im. M. Konopnickiej,Opole
-35,Filip Noworyta,II L. O. im. M. Konopnickiej,Katowice
-36,Rafał Piechocki,XIII L. O. im. C. Ratajskiego,Poznań
-37,Tomasz Pyra,Gdyńskie Liceum Autorskie,Gdynia
-38,Sławomir Sadziak,XIV L. O. im. S. Staszica,Warszawa
-39,Kamil Skalski,V L. O. im. L. Kruczkowskiego,Bydgoszcz
-40,Paweł Stawicki,Z. S. Elektronicznych im. S. Staszica,Zduńska Wola
-41,Stanisław Wierchoła,I L. O. im. S. Staszica,Lublin
-42,Marcin Wojnarski,Katolickie L. O. Księży Pijarów,Kraków
-43,Dominik Wojtczak,III L. O. im. Marynarki Wojennej RP,Gdynia
-44,Marcin Zawadzki,III L. O. im. Marynarki Wojennej RP,Gdynia
+20,Adrian Adamiak,I L. O. im. KEN,Sanok,?,?,?,?,?,?
+21,Jan Chmiel,VIII L. O. im. A. Mickiewicza,Poznań,?,?,?,?,?,?
+22,Karol Cwalina,XIV L. O. im. S. Staszica,Warszawa,?,?,?,?,?,?
+23,Jacek Erd,VI L. O. im. J. Kochanowskiego,Radom,?,?,?,?,?,?
+24,Marek Gibek,Technikum Łączności,Kraków,?,?,?,?,?,?
+25,Igor Gocaliński,III L.O.,Zabrze,?,?,?,?,?,?
+26,Tomasz Kolinko,Z. S. Elektr. I Telek.,Olsztyn,?,?,?,?,?,?
+27,Michał Kosek,V L. O. im. A. Witkowskiego,Kraków,?,?,?,?,?,?
+28,Piotr Kowalski,II L. O. im. J. Chreptowicza,Ostrowiec Świętokrzyski,?,?,?,?,?,?
+29,Michał Kozłowski,II L. O. im. A. F. Modrzewskiego,Włodawa,?,?,?,?,?,?
+30,Roman Łomowski,VI L. O. im. J. i J. Śniadeckich,Bydgoszcz,?,?,?,?,?,?
+31,Grzegorz Łukasik,V L. O. im. A. Witkowskiego,Kraków,?,?,?,?,?,?
+32,Michał Malinowski,I L. O. im. J. Śniadeckiego,Pabianice,?,?,?,?,?,?
+33,Piotr Malinowski,I L. O. im. J. Śniadeckiego,Pabianice,?,?,?,?,?,?
+34,Michał Michalski,II  L. O. im. M. Konopnickiej,Opole,?,?,?,?,?,?
+35,Filip Noworyta,II L. O. im. M. Konopnickiej,Katowice,?,?,?,?,?,?
+36,Rafał Piechocki,XIII L. O. im. C. Ratajskiego,Poznań,?,?,?,?,?,?
+37,Tomasz Pyra,Gdyńskie Liceum Autorskie,Gdynia,?,?,?,?,?,?
+38,Sławomir Sadziak,XIV L. O. im. S. Staszica,Warszawa,?,?,?,?,?,?
+39,Kamil Skalski,V L. O. im. L. Kruczkowskiego,Bydgoszcz,?,?,?,?,?,?
+40,Paweł Stawicki,Z. S. Elektronicznych im. S. Staszica,Zduńska Wola,?,?,?,?,?,?
+41,Stanisław Wierchoła,I L. O. im. S. Staszica,Lublin,?,?,?,?,?,?
+42,Marcin Wojnarski,Katolickie L. O. Księży Pijarów,Kraków,?,?,?,?,?,?
+43,Dominik Wojtczak,III L. O. im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?
+44,Marcin Zawadzki,III L. O. im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?

@@ -36,38 +36,38 @@ lp.,imię i nazwisko,klasa,szkoła,miejscowość,lam*,kup,tro,pod,sta,per,suma
 35,Łukasz Wołochowski,3,III LO im. Marynarki Wojennej RP,Gdynia,30,0,45,0,100,44,189
 36,Mateusz Baranowski,3,III LO im. Marynarki Wojennej RP,Gdynia,30,30,27,30,100,0,187
 37,Maciej Dębski,3,Gimnazjum nr 59 ,Warszawa,20,20,27,68,60,12,187
-38,Przemysław Bągard,3,Zespół Szkół,Strzyżów
-39,Tomasz Boczkowski,3,VIII Liceum Ogólnokształcące,Poznań
-40,Jan Burka,3,III LO im. Marynarki Wojennej RP,Gdynia
-41,Szymon Cofalik,2,II LO A. Frycza-Modrzewskiego,Rybnik
-42,Marcin Fatyga,2,I LO im. Stefana Żeromskiego,Kielce
-43,Grzegorz Graczyk,3,I LO im. Mikołaja Kopernika,Łódź
-44,Paweł Grynienko,3,Zespół Szkół Ogólnokształcących,Strzegom
-45,Piotr Karasiński,2,I Liceum Ogólnokształcące,Bełchatów
-46,Karol Konaszyński,2,XIV LO im. Polonii Belgijskiej,Wrocław
-47,Alan Kutniewski,1,XIII Liceum Ogólnokształcące,Szczecin
-48,Bartosz Lewiński,3,III LO im. Marynarki Wojennej RP,Gdynia
-49,Sebastian Łach,1,V LO im. Augusta Witkowskiego,Kraków
-50,Daniel Malinowski,2,VIII Liceum Ogólnokształcące,Katowice
-51,Grzegorz Marcinkowski,3,III LO im. Marynarki Wojennej RP,Gdynia
-52,Łukasz Mazurek,3,XIV LO im. St. Staszica,Warszawa
-53,Adam Obuchowicz,1,I LO ,Zielona Góra
-54,Krzysztof Pasek,3,I LO im. S. Żeromskiego,Zawiercie
-55,Krzysztof Pieprzak,2,XIV LO im. Polonii Belgijskiej,Wrocław
-56,Paweł Przytuła,3,III LO im. Marynarki Wojennej RP,Gdynia
-57,Marek Rogalski,3,XXXII LO im. H. Poświatowskiej,Łódź
-58,Damian Rusak,3,I LO im. T. Kościuszki,Legnica
-59,Bartłomiej Ryniec,1,I Liceum Ogólnokształcące,Łańcut
-60,Arkadiusz Socała,3,VIII Liceum Ogólnokształcące,Katowice
-61,Filip Stachura,3,III LO im. Marynarki Wojennej RP,Gdynia
-62,Piotr Suwara,1,XIV LO im. Stanisława Staszica,Warszawa
-63,Jacek Tomasiewicz,3,I LO im. A. Mickiewicza,Białystok
-64,Norbert Tusiński,3,ZSM-E ,Żywiec
-65,Paweł Walczak,1,III LO im. Marynarki Wojennej RP,Gdynia
-66,Paweł Wanat,2,V LO im. Augusta Witkowskiego,Kraków
-67,Eryk Wieliczko,2,III LO im. Marynarki Wojennej RP,Gdynia
-68,Michał Włodarczyk,3,XIV LO im. Stanisława Staszica,Warszawa
-69,Konrad Zabłocki,2,XIII Liceum Ogólnokształcące,Szczecin
-70,Łukasz Zatorski,3,X Liceum Ogólnokształcące,Wrocław
-71,Mateusz Zgierski,3,LO im. KEN,Stalowa Wola
-72,Paweł Żuk,1,I Liceum Ogólnokształcące,Słupsk
+38,Przemysław Bągard,3,Zespół Szkół,Strzyżów,?,?,?,?,?,?,?
+39,Tomasz Boczkowski,3,VIII Liceum Ogólnokształcące,Poznań,?,?,?,?,?,?,?
+40,Jan Burka,3,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?
+41,Szymon Cofalik,2,II LO A. Frycza-Modrzewskiego,Rybnik,?,?,?,?,?,?,?
+42,Marcin Fatyga,2,I LO im. Stefana Żeromskiego,Kielce,?,?,?,?,?,?,?
+43,Grzegorz Graczyk,3,I LO im. Mikołaja Kopernika,Łódź,?,?,?,?,?,?,?
+44,Paweł Grynienko,3,Zespół Szkół Ogólnokształcących,Strzegom,?,?,?,?,?,?,?
+45,Piotr Karasiński,2,I Liceum Ogólnokształcące,Bełchatów,?,?,?,?,?,?,?
+46,Karol Konaszyński,2,XIV LO im. Polonii Belgijskiej,Wrocław,?,?,?,?,?,?,?
+47,Alan Kutniewski,1,XIII Liceum Ogólnokształcące,Szczecin,?,?,?,?,?,?,?
+48,Bartosz Lewiński,3,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?
+49,Sebastian Łach,1,V LO im. Augusta Witkowskiego,Kraków,?,?,?,?,?,?,?
+50,Daniel Malinowski,2,VIII Liceum Ogólnokształcące,Katowice,?,?,?,?,?,?,?
+51,Grzegorz Marcinkowski,3,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?
+52,Łukasz Mazurek,3,XIV LO im. St. Staszica,Warszawa,?,?,?,?,?,?,?
+53,Adam Obuchowicz,1,I LO ,Zielona Góra,?,?,?,?,?,?,?
+54,Krzysztof Pasek,3,I LO im. S. Żeromskiego,Zawiercie,?,?,?,?,?,?,?
+55,Krzysztof Pieprzak,2,XIV LO im. Polonii Belgijskiej,Wrocław,?,?,?,?,?,?,?
+56,Paweł Przytuła,3,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?
+57,Marek Rogalski,3,XXXII LO im. H. Poświatowskiej,Łódź,?,?,?,?,?,?,?
+58,Damian Rusak,3,I LO im. T. Kościuszki,Legnica,?,?,?,?,?,?,?
+59,Bartłomiej Ryniec,1,I Liceum Ogólnokształcące,Łańcut,?,?,?,?,?,?,?
+60,Arkadiusz Socała,3,VIII Liceum Ogólnokształcące,Katowice,?,?,?,?,?,?,?
+61,Filip Stachura,3,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?
+62,Piotr Suwara,1,XIV LO im. Stanisława Staszica,Warszawa,?,?,?,?,?,?,?
+63,Jacek Tomasiewicz,3,I LO im. A. Mickiewicza,Białystok,?,?,?,?,?,?,?
+64,Norbert Tusiński,3,ZSM-E ,Żywiec,?,?,?,?,?,?,?
+65,Paweł Walczak,1,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?
+66,Paweł Wanat,2,V LO im. Augusta Witkowskiego,Kraków,?,?,?,?,?,?,?
+67,Eryk Wieliczko,2,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?
+68,Michał Włodarczyk,3,XIV LO im. Stanisława Staszica,Warszawa,?,?,?,?,?,?,?
+69,Konrad Zabłocki,2,XIII Liceum Ogólnokształcące,Szczecin,?,?,?,?,?,?,?
+70,Łukasz Zatorski,3,X Liceum Ogólnokształcące,Wrocław,?,?,?,?,?,?,?
+71,Mateusz Zgierski,3,LO im. KEN,Stalowa Wola,?,?,?,?,?,?,?
+72,Paweł Żuk,1,I Liceum Ogólnokształcące,Słupsk,?,?,?,?,?,?,?

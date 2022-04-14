@@ -242,7 +242,7 @@ lp.,imię,nazwisko,szkoła,miejscowość,gra,pin,szn,szp,zaw,suma
 241,Boguslaw,Faja,II LO im. W.  Reymonta, Ostrów Wlkp.,0,100,40,74,30,244
 242,Michał,Gawryluk,XIV LO im. St. Staszica, Warszawa,7,100,0,57,80,244
 243,Damian,Łoziński,I LO im. A. Mickiewicza, Białystok,0,100,0,84,60,244
-244,Bartosz,Mordaka,18,100,0,56,70,244
+244,Bartosz,Mordaka,18,100,0,56,70,244,?,?
 245,Maciej,Pawlisz,III LO im. Marynarki Wojennej RP, Gdynia,0,36,20,100,88,244
 246,Jarek,Kawiak,III LO im. Marynarki Wojennej RP, Gdynia,0,100,0,100,42,242
 247,Juliusz,Kopczewski,II Społeczne LO, Warszawa,100,100,0,32,10,242
@@ -286,7 +286,7 @@ lp.,imię,nazwisko,szkoła,miejscowość,gra,pin,szn,szp,zaw,suma
 285,Marek,Materzok,LO im. H. Sienkiewicza, Nowa Ruda,12,100,10,41,60,223
 286,Łukasz,Wołochowski,Gimnazjum nr 24, Gdynia,18,28,30,100,47,223
 287,Jan,Polak,Gimnazjum i Liceum Akademickie, Toruń,6,64,0,74,78,222
-288,Milosz,Kmieciak,18,100,0,40,63,221
+288,Milosz,Kmieciak,18,100,0,40,63,221,?,?
 289,Rafał,Kozik,I LO, Wałbrzych,12,100,10,59,40,221
 290,Adam,Choma,III LO im. Marynarki Wojennej RP, Gdynia,0,100,0,83,37,220
 291,Michał,Kurowski,III LO im. M. Kopernika, Olsztyn,12,81,0,67,60,220

@@ -34,49 +34,49 @@ lp.,imię i nazwisko,klasa,szkoła,miejscowość,wie*,tab,slo,wys,kod,pos,suma
 33,Piotr Suwara,2,XIV LO im. Stanisława Staszica,Warszawa,76,10,0,0,20,100,130
 34,Adam Błaszkiewicz,3,XV Liceum Ogólnokształcące,Wrocław,0,100,10,0,20,0,130
 35,Mateusz Litwin,3,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,0,0,28,128
-36,Marcin Sebastian Baczyński,2,VIII LO im. Władysława IV,Warszawa
-37,Konrad Baumgart,3,VI LO im. J. i J. Śniadeckich,Bydgoszcz
-38,Arkadiusz Betkier,3,XIV LO im. Stanisława Staszica,Warszawa
-39,Maciej Borsz,1,VI LO im. J. i J. Śniadeckich,Bydgoszcz
-40,Marcin Cyran,3,I Liceum Ogólnokształcące,Bełchatów
-41,Radosław Dembkowski,2,III LO im. Marynarki Wojennej RP,Gdynia
-42,Andrzej Dorobisz,2,V LO im. Augusta Witkowskiego,Kraków
-43,Bartłomiej Dudek,3gim,Gimnazjum Dwujęzyczne nr 49,Wrocław
-44,Szymon Gut,3,V Liceum Ogólnokształcące,Gliwice
-45,Michał Hordecki,2,VIII LO im. Adama Mickiewicza,Poznań
-46,Adam Iwaniuk,3,VI Liceum Ogólnokształcące,Białystok
-47,Wiktor Jakubiuk,3,Dulwich College,London
-48,Krzysztof Jan Kiewicz,3gim,Gimnazjum nr 58 im. Władysława IV,Warszawa
-49,Karol Konaszyński,3,XIV LO im. Polonii Belgijskiej,Wrocław
-50,Michał Kosnowski,1,Gimnazjum i Liceum Akademickie,Toruń
-51,Artur Kozak,1,III LO im. Marynarki Wojennej RP,Gdynia
-52,Paweł Kubiak,1,I Liceum Ogólnokształcące,Katowice
-53,Adam Kunysz,3,XII LO im. Bolesława Chrobrego,Wrocław
-54,Alan Kutniewski,2,XIII Liceum Ogólnokształcące,Szczecin
-55,Mateusz Kwapich,3,VIII LO im. Marii Skłodowskiej,Katowice
-56,Jan Kwaśniak,2,LO im. Św. Jadwigi Królowej,Kielce
-57,Anna Lewicka,2,Zespół Szkół Stowarzyszenia Rodzin Katolickich Archidiecezji Katowickiej,Chorzów
-58,Paweł Lipski,1,"LO ""Filomata""",Gliwice
-59,Jan Milczek,1,III LO im. Marynarki Wojennej RP,Gdynia
-60,Marcin Niestrój,3,Publiczne LO nr 2,Opole
-61,Adam Obuchowicz,2,I Liceum Ogólnokształcące,Zielona Góra
-62,Tomasz Obuchowski,2,I LO im. Adama Mickiewicza,Białystok
-63,Maciej Piekarz,2,V LO im. Augusta Witkowskiego,Kraków
-64,Dawid Pustułka,3,V LO im. Augusta Witkowskiego,Kraków
-65,Rafał Ruciński,3,XIII Liceum Ogólnokształcące,Szczecin
-66,Kamil Sałaś,2,II LO im. Jana III Sobieskiego,Kraków
-67,Michał Sapalski,3,V LO im. Augusta Witkowskiego,Kraków
-68,Wojciech Sirko,3,XIV LO im. Stanisława Staszica,Warszawa
-69,Mateusz Skowron,3,V LO im. Augusta Witkowskiego,Kraków
-70,Konrad Strack,3,V Liceum Ogólnokształcące,Bielsko-Biała
-71,Adam Śpiewak,2,Ogólnokształcące Liceum Jezuitów,Gdynia
-72,Michał Trybus,3,V Liceum Ogólnokształcące,Gliwice
-73,Karol Trzcionka,3,VIII LO im. Marii Skłodowskiej,Katowice
-74,Jakub Tyrcha,3,V LO im. Augusta Witkowskiego,Kraków
-75,Paweł Walczak,2,III LO im. Marynarki Wojennej RP,Gdynia
-76,Martyna Wałaszewska,2,VI LO im. J. i J. Śniadeckich,Bydgoszcz
-77,Bartłomiej Wiśniewski,2,III LO im. Marynarki Wojennej RP,Gdynia
-78,Jakub Witaszek,3,XIV LO im. Stanisława Staszica,Warszawa
-79,Jakub Woyke,2,XIII Liceum Ogólnokształcące,Szczecin
-80,Krzysztof Zając,3,I LO im. Mikołaja Kopernika,Łódź
-81,Michał Zając,3gim,Publiczne Gimnazjum nr 2,Brzesko
+36,Marcin Sebastian Baczyński,2,VIII LO im. Władysława IV,Warszawa,?,?,?,?,?,?,?
+37,Konrad Baumgart,3,VI LO im. J. i J. Śniadeckich,Bydgoszcz,?,?,?,?,?,?,?
+38,Arkadiusz Betkier,3,XIV LO im. Stanisława Staszica,Warszawa,?,?,?,?,?,?,?
+39,Maciej Borsz,1,VI LO im. J. i J. Śniadeckich,Bydgoszcz,?,?,?,?,?,?,?
+40,Marcin Cyran,3,I Liceum Ogólnokształcące,Bełchatów,?,?,?,?,?,?,?
+41,Radosław Dembkowski,2,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?
+42,Andrzej Dorobisz,2,V LO im. Augusta Witkowskiego,Kraków,?,?,?,?,?,?,?
+43,Bartłomiej Dudek,3gim,Gimnazjum Dwujęzyczne nr 49,Wrocław,?,?,?,?,?,?,?
+44,Szymon Gut,3,V Liceum Ogólnokształcące,Gliwice,?,?,?,?,?,?,?
+45,Michał Hordecki,2,VIII LO im. Adama Mickiewicza,Poznań,?,?,?,?,?,?,?
+46,Adam Iwaniuk,3,VI Liceum Ogólnokształcące,Białystok,?,?,?,?,?,?,?
+47,Wiktor Jakubiuk,3,Dulwich College,London,?,?,?,?,?,?,?
+48,Krzysztof Jan Kiewicz,3gim,Gimnazjum nr 58 im. Władysława IV,Warszawa,?,?,?,?,?,?,?
+49,Karol Konaszyński,3,XIV LO im. Polonii Belgijskiej,Wrocław,?,?,?,?,?,?,?
+50,Michał Kosnowski,1,Gimnazjum i Liceum Akademickie,Toruń,?,?,?,?,?,?,?
+51,Artur Kozak,1,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?
+52,Paweł Kubiak,1,I Liceum Ogólnokształcące,Katowice,?,?,?,?,?,?,?
+53,Adam Kunysz,3,XII LO im. Bolesława Chrobrego,Wrocław,?,?,?,?,?,?,?
+54,Alan Kutniewski,2,XIII Liceum Ogólnokształcące,Szczecin,?,?,?,?,?,?,?
+55,Mateusz Kwapich,3,VIII LO im. Marii Skłodowskiej,Katowice,?,?,?,?,?,?,?
+56,Jan Kwaśniak,2,LO im. Św. Jadwigi Królowej,Kielce,?,?,?,?,?,?,?
+57,Anna Lewicka,2,Zespół Szkół Stowarzyszenia Rodzin Katolickich Archidiecezji Katowickiej,Chorzów,?,?,?,?,?,?,?
+58,Paweł Lipski,1,"LO ""Filomata""",Gliwice,?,?,?,?,?,?,?
+59,Jan Milczek,1,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?
+60,Marcin Niestrój,3,Publiczne LO nr 2,Opole,?,?,?,?,?,?,?
+61,Adam Obuchowicz,2,I Liceum Ogólnokształcące,Zielona Góra,?,?,?,?,?,?,?
+62,Tomasz Obuchowski,2,I LO im. Adama Mickiewicza,Białystok,?,?,?,?,?,?,?
+63,Maciej Piekarz,2,V LO im. Augusta Witkowskiego,Kraków,?,?,?,?,?,?,?
+64,Dawid Pustułka,3,V LO im. Augusta Witkowskiego,Kraków,?,?,?,?,?,?,?
+65,Rafał Ruciński,3,XIII Liceum Ogólnokształcące,Szczecin,?,?,?,?,?,?,?
+66,Kamil Sałaś,2,II LO im. Jana III Sobieskiego,Kraków,?,?,?,?,?,?,?
+67,Michał Sapalski,3,V LO im. Augusta Witkowskiego,Kraków,?,?,?,?,?,?,?
+68,Wojciech Sirko,3,XIV LO im. Stanisława Staszica,Warszawa,?,?,?,?,?,?,?
+69,Mateusz Skowron,3,V LO im. Augusta Witkowskiego,Kraków,?,?,?,?,?,?,?
+70,Konrad Strack,3,V Liceum Ogólnokształcące,Bielsko-Biała,?,?,?,?,?,?,?
+71,Adam Śpiewak,2,Ogólnokształcące Liceum Jezuitów,Gdynia,?,?,?,?,?,?,?
+72,Michał Trybus,3,V Liceum Ogólnokształcące,Gliwice,?,?,?,?,?,?,?
+73,Karol Trzcionka,3,VIII LO im. Marii Skłodowskiej,Katowice,?,?,?,?,?,?,?
+74,Jakub Tyrcha,3,V LO im. Augusta Witkowskiego,Kraków,?,?,?,?,?,?,?
+75,Paweł Walczak,2,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?
+76,Martyna Wałaszewska,2,VI LO im. J. i J. Śniadeckich,Bydgoszcz,?,?,?,?,?,?,?
+77,Bartłomiej Wiśniewski,2,III LO im. Marynarki Wojennej RP,Gdynia,?,?,?,?,?,?,?
+78,Jakub Witaszek,3,XIV LO im. Stanisława Staszica,Warszawa,?,?,?,?,?,?,?
+79,Jakub Woyke,2,XIII Liceum Ogólnokształcące,Szczecin,?,?,?,?,?,?,?
+80,Krzysztof Zając,3,I LO im. Mikołaja Kopernika,Łódź,?,?,?,?,?,?,?
+81,Michał Zając,3gim,Publiczne Gimnazjum nr 2,Brzesko,?,?,?,?,?,?,?
