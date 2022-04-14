@@ -1,0 +1,96 @@
+lp.,imię i nazwisko,klasa,szkoła,miejscowość,met*,rem,wys,zja,dlu,gra,orn,suma
+1,Marek Skiba,3LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,100,100,100,100,40,100,91,531
+2,Jakub Wasilewski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,100,100,70,40,100,100,510
+3,Mikołaj Stępiński,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,60,100,50,40,100,100,450
+4,Mieszko Grodzicki,2LO,VI Liceum Ogólnokształcące im. Jana Kochanowskiego,Radom,100,100,75,100,24,100,50,449
+5,Michał Staniewski,2LO,XIII Liceum Ogólnokształcące,Szczecin,100,60,100,50,40,100,72,422
+6,Tymoteusz Wiśniewski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,60,100,100,100,29,32,421
+7,Adam Górkiewicz,2LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,100,25,78,82,100,100,32,417
+8,Kacper Harasimowicz,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,70,0,100,61,100,100,32,393
+9,Mateusz Cegiełka,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,100,100,50,40,63,32,385
+10,Michał Grzymek,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,0,60,100,82,100,34,0,376
+11,Arkadiusz Czarkowski,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,70,60,90,14,100,100,11,375
+12,Krzysztof Boryczka,3LO,V Liceum Ogólnokształcące,Bielsko-Biała,100,60,100,50,100,39,25,374
+13,Bartłomiej Wacławik,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,100,25,100,100,40,97,12,374
+14,Jan Strzeszyński,3G,Oddziały gimnazjalne w XIV Liceum Ogólnokształcącym im. Stanisława Staszica,Warszawa,97,60,100,50,40,95,12,357
+15,Jakub Bachurski,1LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,60,100,20,100,26,50,356
+16,Tomasz Nowak,2LO,XIII Liceum Ogólnokształcące,Szczecin,100,100,30,50,33,20,100,333
+17,Piotr Kępczyński,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,25,20,100,40,100,32,317
+18,Kacper Solecki,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,0,25,100,42,33,100,12,312
+19,Paweł Pawłowski,3LO,Prywatne Liceum im. Królowej Jadwigi,Lublin,48,25,100,36,24,10,100,295
+20,Mikołaj Poliński,2LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,63,25,100,41,100,11,12,289
+21,Janusz Partyka,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,10,99,50,40,57,32,288
+22,Szymon Dominikowski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,0,100,100,80,0,0,280
+23,Kacper Szczepański,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,100,15,30,82,40,100,12,279
+24,Juliusz Korab-Karpowicz,3LO,III Liceum Ogólnokształcące im. Stefana Żeromskiego,Bielsko-Biała,100,25,100,80,24,33,12,274
+25,Adrian Górecki,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,70,25,100,30,7,89,22,273
+26,Franciszek Malinka,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,70,25,100,82,40,18,0,265
+27,Hubert Zięba,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,100,25,100,50,40,10,32,257
+28,Mateusz Maciej Masłowski,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,100,0,100,0,40,14,100,254
+29,Michał Mgeładze-Arciuch,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,96,25,95,40,7,46,41,254
+30,Katzper Michno,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,10,10,100,44,40,27,31,252
+31,Mateusz Opala,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,0,10,100,0,24,100,12,246
+32,Paweł Pilarski,1LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,68,25,100,50,7,10,54,246
+33,Antoni Wiśniewski,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,60,65,0,24,36,61,246
+34,Kamil Jonak,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,86,25,77,34,33,13,61,243
+35,Łukasz Orlikowski,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,70,25,100,30,40,10,32,237
+36,Mateusz Olszewski,3LO,I Liceum Ogólnokształcące im. Marii Konopnickiej,Suwałki,97,25,100,20,40,39,12,236
+37,Paweł Kowalski,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,100,10,100,14,40,34,32,230
+38,Jan Wańkowicz,3LO,I Liceum Ogólnokształcące im. Tadeusza Kościuszki,Legnica,97,10,100,22,40,41,12,225
+39,Aleksandra Kowalska,2LO,Publiczne Liceum Ogólnokształcące im. Jana Pawła II Sióstr Prezentek,Rzeszów,100,0,0,100,17,90,12,219
+40,Antoni Puch,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,0,100,30,7,9,72,218
+41,Grzegorz Kwacz,2LO,XVIII Liceum Ogólnokształcące im. Jana Zamoyskiego,Warszawa,100,10,20,60,40,35,50,215
+42,Jan Kwiatkowski,2LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,100,0,100,40,40,34,0,214
+43,Antoni Długosz,3G,Oddziały gimnazjalne w XLII Liceum Ogólnokształcącym im. Adama Mickiewicza,Kraków,0,25,100,0,33,49,0,207
+44,Michał Leszczyński,3LO,II Liceum Ogólnokształcące im. księżnej Anny z Sapiehów Jabłonowskiej,Białystok,100,25,100,30,40,0,12,207
+45,Tomasz Buczyński,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,18,10,30,50,40,63,12,205
+46,Bartłomiej Czarkowski,3G,Gimnazjum nr 24 przy III Liceum Ogólnokształcącym im. Marynarki Wojennej RP,Gdynia,0,25,65,50,24,28,12,204
+47,Maksymilian Grochowski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,0,30,50,33,78,12,203
+48,Marcin Mordecki,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,29,25,20,100,23,32,0,200
+49,Dominik Wawszczak,1LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,95,0,100,0,24,55,12,191
+50,Jan Klimczak,2LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,30,0,100,0,23,54,12,189
+51,Jan Wojtach,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,30,10,100,30,24,10,12,186
+52,Adam Morawski,3LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,70,0,100,0,7,11,61,179
+53,Grzegorz Kopania,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,0,20,0,24,100,32,176
+54,Mateusz Ładysz,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,18,0,30,30,40,10,66,176
+55,Jonasz Aleszkiewicz,1LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,10,44,44,7,33,32,170
+56,Michał Woźny,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,100,25,75,30,7,20,12,169
+57,Patrycja Krzyna,2LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,70,0,88,14,24,10,32,168
+58,Jakub Zacharczuk,3LO,II Liceum Ogólnokształcące im. księżnej Anny z Sapiehów Jabłonowskiej,Białystok,0,25,76,10,40,0,12,163
+59,Krzysztof Olejniczak,2LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,100,10,30,30,7,11,72,160
+60,Franciszek Biel,3LO,VI Liceum Ogólnokształcące im. Jana Kochanowskiego,Radom,100,0,98,30,7,24,0,159
+61,Grzegorz Gruza,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,0,95,0,15,12,32,154
+62,Filip Konieczny,2LO,III Liceum Ogólnokształcące im. Adama Mickiewicza,Tarnów,100,25,20,36,24,34,12,151
+63,Krzysztof Rymski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,22,0,30,100,7,13,0,150
+64,Jakub Bedełek,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,0,0,0,0,0,0,0
+65,Piotr Blinowski,1LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,0,0,0,0,0,0,0,0
+66,Adam Cichy,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,0,0,0,0,0,0,0
+67,Bartłomiej Cieślar,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,0,0,0,0,0,0,0
+68,Karolina Drabik,3LO,VI Liceum Ogólnokształcące im. Jana Kochanowskiego,Radom,0,0,0,0,0,0,0,0
+69,Witold Drzewakowski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,0,0,0,0,0,0,0
+70,Bartosz Głowacki,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,0,0,0,0,0,0,0,0
+71,Andrzej Gwiazda,3G,Oddziały gimnazjalne w VI Liceum Ogólnokształcącym im. Tadeusza Reytana,Warszawa,0,0,0,0,0,0,0,0
+72,Jakub Jakubowski,2LO,Liceum Akademickie w Zespole Szkół Uniwersytetu Mikołaja Kopernika,Toruń,0,0,0,0,0,0,0,0
+73,Aleksander Janczewski,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,0,0,0,0,0,0,0,0
+74,Wojciech Jarek,3LO,LXIV Liceum Ogólnokształcące im. St. I. Witkiewicza,Warszawa,0,0,0,0,0,0,0,0
+75,Justyna Joanna Jaworska,2LO,XIII Liceum Ogólnokształcące,Szczecin,0,0,0,0,0,0,0,0
+76,Jakub Kamiński,3LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,0,0,0,0,0,0,0,0
+77,Alicja Kluczek,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,0,0,0,0,0,0,0
+78,Juliusz Kociński,3LO,VI Liceum Ogólnokształcące im. Jana Kochanowskiego,Radom,0,0,0,0,0,0,0,0
+79,Kamil Kotowicz,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,0,0,0,0,0,0,0
+80,Krzysztof Łukasiewicz,2LO,I Liceum Ogólnokształcące im. Tadeusza Kościuszki,Legnica,0,0,0,0,0,0,0,0
+81,Radosław Myśliwiec,2LO,I Liceum Ogólnokształcące im. Bartłomieja Nowodworskiego,Kraków,0,0,0,0,0,0,0,0
+82,Jędrzej Olkowski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,0,0,0,0,0,0,0
+83,Wojciech Paupa,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,0,0,0,0,0,0,0
+84,Iwo Pilecki-Silva,2LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,0,0,0,0,0,0,0,0
+85,Łukasz Pluta,3LO,Akademickie Liceum Ogólnokształcące Politechniki Wrocławskiej,Wrocław,0,0,0,0,0,0,0,0
+86,Rafał Pyzik,2LO,III Liceum Ogólnokształcące im. Adama Mickiewicza,Tarnów,0,0,0,0,0,0,0,0
+87,Dawid Sula,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,0,0,0,0,0,0,0,0
+88,Adam Szeruda,2LO,V Liceum Ogólnokształcące,Bielsko-Biała,0,0,0,0,0,0,0,0
+89,Grzegorz Szumigaj,3LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,0,0,0,0,0,0,0,0
+90,Michał Traczyk,3LO,VI Liceum Ogólnokształcące im. Jana Kochanowskiego,Radom,0,0,0,0,0,0,0,0
+91,Bartosz Wawrzyniak,3LO,Liceum Akademickie w Zespole Szkół Uniwersytetu Mikołaja Kopernika,Toruń,0,0,0,0,0,0,0,0
+92,Joanna Wojciechowska,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,0,0,0,0,0,0,0
+93,Michał Wronka,3LO,V Liceum Ogólnokształcące,Bielsko-Biała,0,0,0,0,0,0,0,0
+94,Grzegorz Zaleski,3LO,Liceum Akademickie w Zespole Szkół Uniwersytetu Mikołaja Kopernika,Toruń,0,0,0,0,0,0,0,0
+95,Kamil Zwierzchowski,3LO,I Liceum Ogólnokształcące im. Stefana Żeromskiego,Lębork,0,0,0,0,0,0,0,0
