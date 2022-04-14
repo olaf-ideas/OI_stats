@@ -1,0 +1,297 @@
+lp,imię,nazwisko,klasa,nazwa szkoły,miejscowość szkoły,województwo,hyd,kor,nad,nim,par,suma
+1,Mariusz,Trela,1LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,100,98,100,91,100,489
+2,Mateusz,Radecki,3LO,VI Liceum Ogólnokształcące im. J. Kochanowskiego,Radom,mazowieckie,100,92,96,100,100,488
+3,Franciszek,Budrowski,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,100,95,100,91,100,486
+4,Piotr,Pawlak,3LO,Ogólnokształcąca Szkoła Muzyczna I i II stopnia im. Feliksa Nowowiejskiego,Gdańsk,pomorskie,100,70,100,91,100,461
+5,Bartłomiej,Wrona,3LO,XXVII Liceum Ogólnokształcące im. Tadeusza Czackiego,Warszawa,mazowieckie,100,70,100,80,100,450
+6,Michał,Tepper,3LO,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,kujawsko-pomorskie,60,83,100,100,100,443
+7,Rafał,Kaszuba,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,100,99,100,29,100,428
+8,Michał,Górniak,2LO,I Liceum Ogólnokształcące im. Tadeusza Kościuszki,Legnica,dolnośląskie,21,100,100,100,100,421
+9,Kamil,Kaznowski,3LO,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,kujawsko-pomorskie,70,96,100,71,81,418
+10,Karol,Waszczuk,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,21,100,100,91,100,412
+11,Paweł,Burzyński,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,100,100,100,100,400
+11,Bartosz,Rudzki,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,100,100,100,100,400
+11,Jakub,Zadrożny,3LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,dolnośląskie,0,100,100,100,100,400
+11,Marek,Żochowski,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,100,100,100,100,400
+15,Jakub,Obuchowski,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,21,98,100,80,100,399
+16,Wiktoria,Kośny,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,100,70,100,28,100,398
+17,Juliusz,Pham,1LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,97,100,100,100,397
+18,Mateusz Maciej,Masłowski,3G,Gimnazjum nr 24 (Zespół Szkól Ogólnokształcących nr 1),Gdynia,pomorskie,0,98,100,95,100,393
+19,Stanisław,Szcześniak,1LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,11,80,100,100,100,391
+20,Maciej,Sypetkowski,3LO,I Liceum Ogólnokształcące im. Władysława Jagiełły,Krasnystaw,lubelskie,70,70,100,50,100,390
+21,Piotr,Kuczko,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,95,100,91,100,386
+22,Jarosław,Kwiecień,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,11,100,100,74,100,385
+23,Jan,Klinkosz,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,21,70,100,91,100,382
+24,Michał,Łopata,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,76,100,100,100,376
+24,Michał,Niciejewski,2LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,100,76,100,0,100,376
+26,Konrad,Staniszewski,2LO,VI Liceum Ogólnokształcące im. J. Kochanowskiego,Radom,mazowieckie,60,100,15,100,100,375
+27,Piotr,Kowalewski,1LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,70,100,100,100,370
+28,Rafał,Maj,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,94,100,73,100,367
+29,Bartosz,Podkanowicz,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,94,100,71,100,365
+30,Kacper,Kluk,1LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,97,100,100,66,363
+31,Krzysztof,Piesiewicz,3LO,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,mazowieckie,60,100,100,0,100,360
+32,Maciej,Nadolski,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,80,100,100,0,78,358
+33,Szymon,Kapała,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,70,87,100,0,100,357
+34,Karolina,Gabara,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,56,100,100,100,356
+35,Kamil,Piechowiak,2LO,VIII Liceum Ogólnokształcące im. Adama Mickiewicza,Poznań,wielkopolskie,70,91,84,10,100,355
+35,Michał,Siennicki,1LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,60,4,100,91,100,355
+37,Bartosz,Pieszko,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,21,90,100,39,100,350
+38,Tomasz,Ponitka,1LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,93,100,100,55,348
+39,Łukasz,Kondraciuk,3LO,IV Liceum Ogólnokształcące im. Mikołaja Kopernika,Rzeszów,podkarpackie,0,42,100,100,100,342
+40,Norbert,Poniatowski,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,50,100,91,100,341
+41,Krzysztof,Małysa,2LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,21,100,15,100,100,336
+42,Anna,Białokozowicz,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,21,100,35,100,78,334
+43,Paweł,Charyło,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,88,100,43,94,325
+44,Mateusz,Hazy,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,80,100,100,44,324
+45,Mateusz,Gienieczko,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,13,100,100,100,313
+46,Tomasz,Zieliński,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,100,97,0,8,100,305
+47,Mateusz,Bajorek,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,100,0,100,100,300
+47,Jakub,Boguta,2LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,lubelskie,30,70,0,100,100,300
+47,Alicja,Chaszczewicz,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,100,0,100,100,300
+47,Tomasz,Grześkiewicz,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,81,100,19,100,300
+47,Kacper,Walentynowicz,1LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,100,100,100,0,300
+47,Krzysztof,Ziobro,1LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,100,0,100,0,100,300
+53,Jan,Mirkiewicz,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,97,0,100,100,297
+53,Radosław,Waśko,3LO,Gimnazjum i Liceum im. Jana Pawła II Sióstr Prezentek,Rzeszów,podkarpackie,38,65,84,10,100,297
+55,Szymon,Tworkowski,1LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,76,100,71,49,296
+56,Krystian,Król,1LO,VI Liceum Ogólnokształcące im. J. Kochanowskiego,Radom,mazowieckie,0,92,0,100,100,292
+57,Jan,Chomiak,2LO,XXVII Liceum Ogólnokształcące im. Tadeusza Czackiego,Warszawa,mazowieckie,21,70,0,100,100,291
+57,Rafał,Trypus,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,100,0,91,100,291
+57,Tomasz,Zalewski,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,100,0,91,100,291
+60,Jan,Olkowski,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,60,52,48,28,100,288
+61,Jakub,Wróblewski,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,95,0,91,100,286
+62,Jędrzej,Kula,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,66,100,19,100,285
+63,Jan,Tabaszewski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,84,0,100,100,284
+64,Kasper,Sapała,3LO,Zespół Szkół Łączności,Kraków,małopolskie,0,70,100,10,100,280
+65,Stanisław,Strzelecki,1LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,29,100,90,60,279
+66,Julia,Bazińska,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,47,100,28,100,275
+67,Jan,Omeljaniuk,3LO,XVIII Liceum Ogólnokształcące im. Jana Zamoyskiego,Warszawa,mazowieckie,21,50,100,0,100,271
+68,Agnieszka,Dudek,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,99,76,0,94,269
+69,Marek,Iwaniuk,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,99,0,91,78,268
+70,Tomasz,Nowak,1LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,81,0,86,100,267
+71,Artur,Strzałkowski,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,96,0,91,78,265
+72,Wojciech,Przybyszewski,3LO,Liceum Ogólnokształcące im. Bolesława Prusa,Skierniewice,łódzkie,21,46,100,0,95,262
+73,Julia,Majkowska,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,70,0,91,100,261
+73,Wiktor,Marszałkowski,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,100,4,0,91,66,261
+75,Anadi,Agrawal,1LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,75,15,100,66,256
+76,Bartłomiej,Karasek,3LO,Zespół Szkół nr 1,Grodzisk Mazowiecki,mazowieckie,0,80,100,0,73,253
+76,Tomasz,Kościuszko,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,100,0,53,100,253
+78,Damian,Białas,3LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,50,100,0,100,250
+78,Sebastian,Książczyk,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,56,0,100,94,250
+78,Konstanty,Subbotko,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,50,100,0,100,250
+81,Wojciech,Szwarc,3LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,0,49,100,0,100,249
+82,Igor,Dolecki,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,48,100,0,100,248
+82,Tomasz,Madej,3LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,0,48,100,0,100,248
+84,Piotr,Janczyk,3LO,I Liceum Ogólnokształcące im. Króla Kazimierza Wielkiego,Olkusz,małopolskie,21,0,100,25,100,246
+85,Jan,Lebioda,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,21,70,100,10,44,245
+85,Michał,Szostek,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,26,100,19,100,245
+87,Kamil,Ćwintal,3LO,Zespół Szkół Ogólnokształcących im. Edwarda Szylki,Ożarów,świętokrzyskie,0,35,100,7,100,242
+88,Robert,Laskowski,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,74,100,0,66,240
+89,Maciej,Draguła,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,100,0,91,44,235
+90,Jaromir,Górski,3LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,lubelskie,21,54,0,91,66,232
+91,Piotr,Żurek,3LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,50,100,0,78,228
+92,Jakub,Bartmiński,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,21,0,100,10,94,225
+92,Cezary,Bednarz,1LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,0,68,91,66,225
+92,Łukasz,Eckert,4T,Zespół Szkół Komunikacji im. Hipolita Cegielskiego,Poznań,wielkopolskie,0,25,100,0,100,225
+92,Krystian,Krakowski,3LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,25,100,0,100,225
+96,Marcin,Massalski,3LO,I Liceum Ogólnokształcące im. Mikołaja Kopernika,Łódź,łódzkie,0,70,100,53,0,223
+96,Miron,Szewczyk,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,83,15,25,100,223
+98,Piotr,Grabowski,2LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,lubelskie,0,7,15,100,100,222
+99,Dominik,Hoim,3LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,50,92,0,78,220
+99,Kamil,Mykituk,3LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,lubelskie,0,56,15,100,49,220
+101,Paweł,Jasiak,1LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,91,15,10,100,216
+101,Marcin,Wierzbicki,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,25,0,91,100,216
+103,Rafał,Łyżwa,2LO,VI Liceum Ogólnokształcące im. J. Kochanowskiego,Radom,mazowieckie,0,84,0,84,44,212
+103,Andrzej,Swatowski,3LO,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,kujawsko-pomorskie,0,2,100,10,100,212
+103,Damian,Werpachowski,1LO,II Liceum Ogólnokształcące im. księżnej Anny z Sapiehów Jabłonowskiej,Białystok,podlaskie,0,85,15,68,44,212
+106,Adam,Pardyl,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,96,15,0,100,211
+107,Krzysztof,Kamiński,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,4,100,10,96,210
+107,Szymon,Stolarczyk,2LO,II Liceum Ogólnokształcące im. Cypriana Kamila Norwida,Ostrołęka,mazowieckie,0,0,100,10,100,210
+107,Piotr,Wojcik,2LO,II Liceum Ogólnokształcące im. Cypriana Kamila Norwida,Ostrołęka,mazowieckie,0,10,100,0,100,210
+110,Jakub,Buziewicz,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,90,0,19,100,209
+111,Jan,Jurkowski,1LO,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,kujawsko-pomorskie,0,8,0,100,100,208
+112,Mateusz,Maćkowski,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,82,15,10,100,207
+112,Jakub,Węgrecki,2LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,73,15,19,100,207
+114,Piotr,Wojtczak,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,15,0,91,100,206
+115,Łukasz,Janeczko,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,21,52,15,17,100,205
+116,Piotr,Strycharski,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,4,0,100,100,204
+116,Jakub,Walendowski,1LO,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,kujawsko-pomorskie,0,4,0,100,100,204
+118,Mateusz,Lamecki,3LO,VIII Liceum Ogólnokształcące im. Adama Mickiewicza,Poznań,wielkopolskie,0,81,15,5,100,201
+118,Patryk,Pęczak,2LO,I Liceum Ogólnokształcące im. Tadeusza Kościuszki,Legnica,dolnośląskie,21,70,0,10,100,201
+120,Witalis,Domitrz,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,100,0,100,200
+120,Eryk,Kijewski,3LO,I Liceum Ogólnokształcące im. Marii Konopnickiej,Suwałki,podlaskie,0,100,0,0,100,200
+120,Wojciech,Mitros,2LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,0,0,100,0,100,200
+123,Wojciech,Bączkowski,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,4,15,80,100,199
+124,Karol,Smolak,3LO,Liceum Ogólnokształcące im. Tadeusza Kościuszki,Ropczyce,podkarpackie,21,51,15,10,100,197
+124,Kamil,Szubiński,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,100,0,75,22,197
+126,Artur,Błaszkiewicz,2LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,0,100,0,94,194
+126,Hubert,Budzyński,1LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,0,30,0,64,100,194
+126,Rafał,Czarnecki,1LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,50,100,0,44,194
+129,Szymon,Gajda,3LO,II Liceum Ogólnokształcące im. Heleny Malczewskiej,Zawiercie,śląskie,0,36,100,0,55,191
+129,Maciej,Winkiewicz,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,0,0,91,100,191
+131,Wojciech,Strankowski,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,98,0,0,91,189
+132,Natalia,Bęben,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,97,0,91,0,188
+132,Leopold,Kozioł,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,83,0,5,100,188
+134,Krzysztof,Potępa,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,84,0,0,100,184
+135,Piotr,Bujakowski,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,82,0,0,100,182
+136,Stanisław,Kurdziałek,3LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,lubelskie,0,81,0,100,0,181
+136,Jacek,Kurek,3LO,I Liceum Ogólnokształcące im. Bartłomieja Nowodworskiego,Kraków,małopolskie,0,81,0,0,100,181
+136,Mateusz,Maciejewski,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,98,0,83,0,181
+139,Iwona,Kotlarska,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,55,15,10,100,180
+139,Maciej,Maruszczak,1LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,0,0,100,80,0,180
+141,Michał,Zwonek,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,3,100,10,66,179
+142,Marcin,Serwin,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,82,0,0,94,176
+143,Wojciech,Golaszewski,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,50,15,10,100,175
+144,Jarosław,Brojek,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,14,60,0,100,174
+145,Rafał,Banaś,3LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,lubelskie,0,81,12,80,0,173
+145,Jakub,Kowalski,2LO,VI Liceum Ogólnokształcące im. J. Kochanowskiego,Radom,mazowieckie,0,91,0,19,63,173
+147,Tomasz,Kanas,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,21,24,15,10,100,170
+147,Mateusz,Koczan,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,70,0,0,100,170
+147,Robert,Michna,1LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,70,0,0,100,170
+147,Maciej,Nemś,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,70,0,0,100,170
+147,Mateusz,Orda,1LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,dolnośląskie,21,49,15,19,66,170
+152,Olga,Bońdos,2G,Gimnazjum nr 24 (Zespół Szkól Ogólnokształcących nr 1),Gdynia,pomorskie,0,69,0,100,0,169
+152,Jakub,Kołton,2LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,50,0,19,100,169
+154,Bartłomiej,Kawula,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,67,0,0,100,167
+155,Damian,Burczyk,1LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,70,0,0,94,164
+155,Grzegorz,Chrzanowski,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,54,0,10,100,164
+157,Paweł,Malenda,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,58,0,0,100,158
+158,Oskar,Nowak,1LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,60,4,15,10,68,157
+158,Krzysztof,Pióro,2LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,38,0,19,100,157
+160,Rafał,Tatarczuk,2LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,4,0,58,94,156
+161,Paweł,Anikiel,1LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,35,0,19,100,154
+161,Przemysław,Podleśny,1LO,II Liceum Ogólnokształcące im. Piotra Firleja,Lubartów,lubelskie,0,45,0,10,99,154
+163,Jan,Horodecki,2LO,Zespół Szkół Katolickich im. Jana Pawła II,Gdynia,pomorskie,21,6,15,10,100,152
+164,Damian,Chańko,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,50,0,0,100,150
+164,Michał,Czwórnóg,2LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,50,0,0,100,150
+164,Daniel,Klimowicz,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,50,0,0,100,150
+164,Dominik,Korzątkowski,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,50,0,0,100,150
+164,Stanisław,Koza,2LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,dolnośląskie,21,4,15,10,100,150
+164,Marek,Smolarczyk,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,50,0,0,100,150
+164,Wojciech,Szymański,1LO,VI Liceum Ogólnokształcące im. J. Kochanowskiego,Radom,mazowieckie,0,50,0,0,100,150
+164,Piotr,Zieliński,1LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,50,100,0,0,150
+172,Mateusz,Goślinowski,3LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,0,48,0,0,100,148
+173,Piotr,Borowski,2LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,lubelskie,0,26,15,28,78,147
+173,Adam,Furtak,2LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,50,0,19,78,147
+173,Artur,Puzio,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,22,15,10,100,147
+176,Adam,Klukowski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,11,0,100,0,33,144
+176,Maciej,Leciewicz,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,50,0,0,94,144
+178,Jakub,Nowak,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,31,0,10,100,141
+179,Antek,Burski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,17,13,10,100,140
+179,Fryderyk,Sucharczuk,2LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,lubelskie,0,35,0,5,100,140
+179,Mateusz,Szpyrka,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,50,15,0,75,140
+182,Maciej,Kasprzyk,2LO,IV Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie,Olsztyn,warmińsko-mazurskie,21,6,0,10,100,137
+182,Szymon,Kiczak,1LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,0,0,71,66,137
+184,Michał,Panek,2LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,71,0,19,45,135
+185,Michał,Balcerzak,3LO,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,mazowieckie,0,22,0,10,100,132
+186,Klaudia,Osowska,2LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,6,15,10,100,131
+187,Michał,Gliński,1LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,20,10,100,130
+187,Grzegorz Eugeniusz,Uriasz,2LO,I Liceum Ogólnokształcące im. Mikołaja Kopernika,Krosno,podkarpackie,0,5,15,10,100,130
+187,Cyryl,Waśkiewicz,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,91,39,130
+190,Wojciech,Geisler,3LO,III Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie,Opole,opolskie,0,29,0,0,100,129
+190,Kacper,Kielak,3LO,XX Liceum Ogólnokształcące im. Zbigniewa Herberta,Gdańsk,pomorskie,0,0,35,0,94,129
+190,Szymon,olearczuk,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,4,15,10,100,129
+190,Adam,Pawłowski,1LO,VIII Liceum Ogólnokształcące im. Adama Mickiewicza,Poznań,wielkopolskie,0,4,15,10,100,129
+190,Paweł,Sawicki,1LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,35,0,28,66,129
+190,Maciej,Walczak,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,21,8,15,19,66,129
+190,Konrad,Werbliński,3LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,dolnośląskie,0,4,15,10,100,129
+197,Przemysław,Szpakowicz,1LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,49,0,19,60,128
+198,Zofia,Marciniak,3G,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,kujawsko-pomorskie,0,4,0,28,94,126
+199,Michał,Kardaś,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,15,10,100,125
+199,Szymon,Zwara,3LO,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,kujawsko-pomorskie,0,0,60,0,65,125
+201,Joachim,Kowalewski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,100,22,122
+202,Radek,Rowicki,3LO,XVIII Liceum Ogólnokształcące im. Jana Zamoyskiego,Warszawa,mazowieckie,0,30,15,10,66,121
+203,Stanisław,Gutowski,3G,Pallotyńskie Liceum Ogólnokształcące,Lublin,lubelskie,0,4,15,0,100,119
+204,Joanna,Chołołowicz,1LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,35,15,0,66,116
+204,Tymon,Solecki,3LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,56,0,60,0,116
+204,Łukasz,Wroński,3LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,50,0,0,66,116
+204,Jan,Żak,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,7,0,9,100,116
+208,Jakub,Kubacki,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,54,0,0,61,115
+209,Kornel,Dulęba,3LO,IV Liceum Ogólnokształcące im. Mikołaja Kopernika,Rzeszów,podkarpackie,0,4,0,10,100,114
+209,Maciej,Grabowski,3LO,Zespół Szkół Nr 1,Działdowo,warmińsko-mazurskie,0,60,0,10,44,114
+209,Adam,Kapica,3LO,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,kujawsko-pomorskie,0,4,0,10,100,114
+209,Aleksandra,Księżny,2LO,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,mazowieckie,0,4,0,10,100,114
+209,Kamil,Mańkowski,3LO,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,kujawsko-pomorskie,0,4,0,10,100,114
+209,Piotr,Olczak,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,4,0,10,100,114
+209,Michał,Ołtarzewski,3LO,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,mazowieckie,0,4,0,10,100,114
+209,Leszek,Sołdan,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,4,0,10,100,114
+217,Konrad,Czapliński,1LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,0,0,10,100,110
+217,Kacper,Konecki,3LO,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,mazowieckie,0,0,0,10,100,110
+217,Jacek,Leja,3LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,dolnośląskie,0,0,0,10,100,110
+217,Marcin,Rogala,2LO,I Liceum Ogólnokształcące im. Tadeusza Kościuszki,Legnica,dolnośląskie,0,66,0,0,44,110
+221,Marcin,Korona,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,4,0,10,94,108
+221,Anna,Urbala,2LO,Zespół Szkół Elektryczno-Elektronicznych,Szczecin,zachodniopomorskie,0,32,0,10,66,108
+221,Paweł,Wróblewski,4T,Zespół Szkół Zawodowych i Ogólnokształcących,Kartuzy,pomorskie,0,49,0,10,49,108
+224,Michał,Gilski,3LO,VIII Liceum Ogólnokształcące im. Adama Mickiewicza,Poznań,wielkopolskie,0,2,0,5,100,107
+225,Seweryn,Ziemski,3G,Publiczne Gimnazjum nr 23,Radom,mazowieckie,0,30,0,0,76,106
+226,Kamil,Bujel,1LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,0,4,0,0,100,104
+226,Mateusz,Gwóźdź,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,0,0,10,94,104
+228,Jędrzej,Olkowski,3G,Gimnazjum z Oddziałami Dwujęzycznymi Nr 42,Warszawa,mazowieckie,0,0,48,0,55,103
+229,Robert,Okuła,3LO,III Liceum Ogólnokształcące,Gdańsk,pomorskie,0,2,0,0,100,102
+230,Bartosz,Dzięcioł,2LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,21,0,0,80,0,101
+231,Marcin,Abramowicz,1LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,0,0,0,100,100
+231,Michał,Backiel,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,0,0,0,100,100
+231,Przemysław,Czerwiński,2LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,9,15,10,66,100
+231,Mateusz,Dudziński,2LO,XVIII Liceum Ogólnokształcące im. Jana Zamoyskiego,Warszawa,mazowieckie,0,0,0,0,100,100
+231,Adrian,Jeleń,4T,Zespół Szkół Elektryczno-Mechanicznych,Nowy Sącz,małopolskie,0,0,0,0,100,100
+231,Łukasz,Kawka,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,0,0,0,100,100
+231,Michał,Kiełbasa,4T,Zespół Szkół Elektryczno-Mechanicznych,Nowy Sącz,małopolskie,0,0,0,0,100,100
+231,Grzegorz,Klocek,2LO,I Liceum Ogólnokształcące im. Mikołaja Kopernika,Krosno,podkarpackie,0,0,0,0,100,100
+231,Mikołaj,Kmieć,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,0,0,0,100,100
+231,Miłosz,Piekutowski,1LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,0,0,0,100,100
+231,Jakub,Pilachowski,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,46,0,10,44,100
+231,Arkadiusz,Placha,3LO,V Liceum Ogólnokształcące,Bielsko-Biała,śląskie,0,0,0,0,100,100
+231,Rafał,Pragacz,3LO,Zespół Szkół Sióstr Nazaretanek,Kielce,świętokrzyskie,0,0,0,0,100,100
+231,Filip,Rydzyński,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,0,0,0,100,100
+231,Mateusz,Serkies,3LO,I Liceum Ogólnokształcące,Zabrze,śląskie,0,0,0,0,100,100
+231,Piotr,Sowiński,3LO,Publiczne Liceum Ogólnokształcące Politechniki Łódzkiej,Łódź,łódzkie,0,0,0,0,100,100
+231,Łukasz,Wróblewski,2LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,0,0,0,100,100
+248,Wojciech,Buczek,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,21,0,0,0,78,99
+248,Zuzanna,Opała,2LO,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,kujawsko-pomorskie,0,66,0,0,33,99
+250,Maciej,Korpalski,2LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,dolnośląskie,0,4,0,28,66,98
+251,Mateusz,Danowski,1LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,4,0,10,83,97
+251,Piotr Aleksander,Styczyński,3LO,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,mazowieckie,0,6,15,10,66,97
+253,Agnieszka,Pawicka,2LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,2,0,0,94,96
+254,Tomasz,Czyż,3LO,II Liceum Ogólnokształcące im. płk. Leopolda Lisa-Kuli,Rzeszów,podkarpackie,0,0,0,0,94,94
+254,Paweł,Łysik,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,0,0,0,94,94
+254,Maciej,Witkowski,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,0,94,94
+257,Krzysztof,Kruszyński,4T,Technikum Informatyczne SCI,Szczecin,zachodniopomorskie,0,28,0,10,55,93
+258,Łukasz,Galas,2LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,0,15,10,66,91
+258,Franciszek,Jełowicki,2LO,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,mazowieckie,0,0,0,0,91,91
+258,Józef,Mastalarz,1LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,0,15,10,66,91
+258,Mateusz,Rychlicki,2LO,VI Liceum Ogólnokształcące im. J. Kochanowskiego,Radom,mazowieckie,0,0,0,91,0,91
+262,Aleksander,Kleinszmidt,1LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,68,0,0,22,90
+262,Marek,Skiba,3G,Prywatne Liceum Ogólnokształcące im. Królowej Jadwigi,Lublin,lubelskie,0,4,15,5,66,90
+264,Piotr Bartosz,Mitosek,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,19,66,85
+264,Michał,Praszmo,3LO,Publiczne Liceum Ogólnokształcące Nr II z Oddziałami Dwujęzycznymi im. Marii Konopnickiej,Opole,opolskie,0,4,15,8,58,85
+266,Piotr,Gaiński,2LO,I Liceum Ogólnokształcące im. Marii Konopnickiej,Suwałki,podlaskie,0,50,0,0,33,83
+266,Tomasz,Homoncik,3LO,II Liceum Ogólnokształcące im. Mikołaja Kopernika,Kędzierzyn-Koźle,opolskie,0,7,0,10,66,83
+268,Jakub,Romanowski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,5,0,10,66,81
+269,Mikołaj,Hościło,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,4,0,10,66,80
+269,Krzysztof,Waliczek,3LO,Publiczne Liceum Ogólnokształcące Nr II z Oddziałami Dwujęzycznymi im. Marii Konopnickiej,Opole,opolskie,0,4,0,10,66,80
+271,Mateusz,Dudek,3LO,II Liceum Ogólnokształcące im. Hetmana Jana  Zamoyskiego,Lublin,lubelskie,21,4,0,0,53,78
+271,Rafał,Lewanczyk,2LO,III Liceum Ogólnokształcące,Gdańsk,pomorskie,0,2,0,10,66,78
+271,Adam,Pawełek,1LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,50,0,28,0,78
+274,Szymon,Katra,3LO,II Liceum Ogólnokształcące im. Jana Śniadeckiego,Kielce,świętokrzyskie,0,4,0,7,66,77
+275,Stanisław,Denkowski,1LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,0,0,10,66,76
+275,Filip,Komorowski,1LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,dolnośląskie,0,0,0,10,66,76
+275,Mieszko,Mazurek,3LO,Zespół Szkół Elektroniczno- Telekomunikacyjnych,Leszno,wielkopolskie,0,0,0,10,66,76
+275,Piotr,Nojszewski,1LO,2 Społeczne Liceum Ogólnokształcące STO im. Pawła Jasienicy,Warszawa,mazowieckie,0,10,0,0,66,76
+279,Dawid,Herman,1LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,70,0,5,0,75
+280,Maksymilian,Marzec,3LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,0,0,0,0,72,72
+281,Michał,Jaworski,3LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,dolnośląskie,0,17,0,10,44,71
+281,Mieszko,Komisarczyk,2LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,0,0,5,66,71
+281,Maciej,Walkowiak,2LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,0,0,5,66,71
+284,Justyna,Dzierżek,1LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,70,0,0,0,70
+284,Dawid,Jamka,1LO,VI Liceum Ogólnokształcące im. J. Kochanowskiego,Radom,mazowieckie,0,4,0,0,66,70
+286,Michał,Rogiński,1LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,3,0,0,66,69
+287,Łukasz,Grzesiek,2LO,V Liceum Ogólnokształcące,Bielsko-Biała,śląskie,0,0,0,0,67,67
+288,Mateusz,Basiak,2LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej w Zespole Szkół nr 14,Wrocław,dolnośląskie,0,56,0,10,0,66
+288,Kamil,Bladoszewski,3LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,0,0,0,0,66,66
+288,Karolina,Drabik,3G,Publiczne Gimnazjum nr 23,Radom,mazowieckie,0,0,0,0,66,66
+288,Gerard,Dróżdż,1LO,VI Liceum Ogólnokształcące im. J. Kochanowskiego,Radom,mazowieckie,0,0,0,0,66,66
+288,Aleksander,Figiel,3LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,0,0,0,0,66,66
+288,Michał,Heppner,3LO,V Liceum Ogólnokształcące im. Stefana Żeromskiego,Gdańsk,pomorskie,0,0,0,5,61,66
+288,Konstanty,Kostrzewski,3LO,Katolickie Liceum Ogólnokształcące,Katowice,śląskie,0,0,0,0,66,66
+288,Jan,Kowalczuk,3LO,III Liceum Ogólnokształcące im. Krzysztofa Kamila Baczyńskiego,Białystok,podlaskie,0,0,0,0,66,66
+288,Hubert,Nastały,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,0,0,0,66,66

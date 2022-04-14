@@ -1,0 +1,34 @@
+lp.,imię i nazwisko,szkoła,miasto,zad1,zad2,uzn.,zad3,uzn.,suma
+1,Michał Wala,I Liceum Ogólnokształcące im. J. Kasprowicza,Racibórz,47,47,2,94, ,190
+2,Marek Stocki,XIV Liceum Ogólnokształcące im. Polonii Belgijskiej,Wrocław,37,47,3,94,6,187
+3,Krzysztof Sobusiak,Technikum Elektroniczno-Mechaniczne,Ostrów Wlkp.,31,47,3,94, ,175
+4,Jakub Pawlewicz,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,37,41, ,84, ,162
+5,Krzysztof Ostrowski,IV Liceum Ogólnokształcące im. T. Kościuszki,Toruń,47,43, ,68, ,158
+6,Witold Jarnicki,V Liceum Ogólnokształcące im. A. Witkowskiego,Kraków,47,47, ,64, ,158
+7,Witold Żarowski,XI Liceum Ogólnokształcące im. M. Reja,Warszawa,37,47,3,68, ,155
+8,Marcin Mucha,II Liceum Ogólnokształcące im. J. Zamoyskiego,Lublin,10,41, ,94,5,150
+9,Piotr Zieliński,VIII Liceum Ogólnokształcące im. A. Mickiewicza,Poznań,35,47, ,66, ,148
+10,Piotr Śniady,XIV Liceum Ogólnokształcące im. Polonii Belgijskiej,Wrocław,46,26, ,68, ,140
+11,Tomasz Błaszczyk,Liceum Ogólnokształcące im. S. Żeromskiego,Ozorków,14,26, ,94, ,134
+12,Szymon Juraszczyk,I Liceum Ogólnokształcące im. H. Sienkiewicza,Kędzierzyn-Koźle,37,47,3,45, ,132
+13,Grzegorz Garlewicz,II Liceum Ogólnokształcące im. M. Kopernika,Mielec,47,12, ,68, ,127
+14,Tomasz Bogusławski,XIII Liceum Ogólnokształcące,Szczecin,10,0, ,94,4,108
+15,Juliusz Stępiński,V Liceum Ogólnokształcące im. Ks. J. Poniatowskiego,Warszawa,14,45,2,39, ,100
+16,Grzegorz Jakacki,XVIII Liceum Ogólnokształcące im. J. Zamoyskiego,Warszawa,14,43, ,56, ,113
+17,Michał Kaczmarczyk,Społeczne Liceum Ogólnokształcące,Nowy Sącz,17,15, ,68, ,100
+18,Paweł Rzadkowski,II Liceum Ogólnokształcące im. M. Kopernika,Mielec,26,25, ,48, ,99
+19,Grzegorz Bobiński,IV Liceum Ogólnokształcące im. T. Kościuszki,Toruń,17,20, ,60, ,97
+20,Bartosz Klin,XXVII Liceum Ogólnokształcące im. T. Czackiego,Warszawa,13,14, ,68, ,95
+21,Janusz Jurski,Liceum Ogólnokształcące im. M. Konopnickiej,Suwałki,7,27, ,57, ,91
+22,Radosław Joniec,II Liceum Ogólnokształcące im. J. Sobieskiego,Kraków,27,25, ,39, ,91
+23,Bartosz Brzostek,Liceum Ogólnokształcące im. Króla Władysława Jagiełły,Dębica,13,20, ,57, ,90
+24,Grzegorz Klimek,VI Liceum Ogólnokształcące im. J. Kochanowskiego,Radom,27,5, ,57, ,89
+25,Jakub Słocki,II Liceum Ogólnokształcące im. M. Kopernika,Mielec,31,20, ,36, ,87
+26,Mirosław Oksiucik,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,14,17, ,51, ,82
+27,Adam Ambroży,Technikum Mechaniczno-Elektryczne,Chorzów,21,20, ,39, ,80
+28,Daniel Olewski,I Liceum Ogólnokształcące im. E. Dembowskiego,Zielona Góra,30,13, ,36, ,79
+29,Paweł Mielańczuk,IX Liceum Ogólnokształcące im. K. Hoffmanowej,Warszawa,12,27, ,39, ,78
+30,Eryk Kopczyński,Szkoła Podstawowa nr 143 im. S. Starzyńskiego,Warszawa,18,0, ,57, ,75
+31,Michał Zawirski,I Liceum Ogólnokształcące im. K. Marcinkowskiego,Poznań,15,0, ,56, ,71
+32,Krzysztof Węcel,VI Liceum Ogólnokształcące im. J. i J. Śniadeckich,Bydgoszcz,14,21, ,24, ,59
+33,Adam Bednorz,II Liceum Ogólnokształcące im. C. K. Norwida,Tychy,8,8, ,31, ,47

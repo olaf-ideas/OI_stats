@@ -1,0 +1,73 @@
+lp.,imię i nazwisko,klasa,szkoła,miejscowość,kol*,odw,gaz,wag,egz,klo,suma
+1,Tomasz Kulczyński,3,VI LO im. J. i J. Śniadeckich,Bydgoszcz,100,100,100,100,100,100,500
+2,Marcin Andrychowicz,2,XIV LO im. Stanisława Staszica,Warszawa,100,100,100,100,0,100,400
+3,Jakub Kallas,3,III LO im. Marynarki Wojennej RP,Gdynia,0,100,0,100,100,100,400
+4,Marcin Kurczych,3,I LO im. Stefana Żeromskiego,Kielce,69,100,100,49,0,100,349
+5,Jarosław Gomułka,3,XIV LO im. Polonii Belgijskiej,Wrocław,10,100,100,0,100,45,345
+6,Piotr Niedźwiedź,3,VIII LO im. M. Skłodowskiej-Curie,Katowice,100,100,100,100,0,45,345
+7,Jarosław Błasiok,1,VIII LO im. M. Skłodowskiej-Curie,Katowice,0,100,100,0,50,91,341
+8,Maciej Klimek,2,II Liceum Ogólnokształcące,Gorzów Wielkopolskie,79,100,100,41,30,45,316
+9,Marcin Kościelnicki,2,I LO im. Juliusza Slowackiego,Chorzów,0,100,70,100,0,45,315
+10,Rafał Józefowicz,3,II LO ,Olsztyn,70,100,70,91,0,45,306
+11,Michał Jastrzębski,3,XIV L.O im.Stanisława Staszica,Warszawa,0,100,100,100,0,0,300
+12,Damian Karasiński,3,I LO im. T. Kościuszki,Gorzów Wielkopolskie,100,100,100,0,0,100,300
+13,Łukasz Wołochowski,2,III LO im. Marynarki Wojennej RP,Gdynia,0,100,100,0,0,98,298
+14,Jacek Migdał,3,V Liceum Ogólnokształcące,Bielsko-Biała,95,100,100,49,0,27,276
+15,Wojciech Baranowski,2,III LO im. Marynarki Wojennej RP,Gdynia,58,100,0,49,0,100,249
+16,Marek Rogala,2,Ogólnokształcące Liceum Jezuitów,Gdynia,40,100,100,24,0,25,249
+17,Marcin Babij,3,IX LO,Wrocław,70,100,100,16,0,18,234
+18,Błażej Osiński,3,VI LO im. J. i J. Śniadeckich,Bydgoszcz,100,100,100,0,0,9,209
+19,Piotr Kufel,3,XXVIII LO im. J. Kochanowskiego,Warszawa,0,40,100,41,0,27,208
+20,Mateusz Klimek,3,II Liceum Ogólnokształcące,Gorzów Wielkopolskie,61,20,100,41,0,45,206
+21,Aleksandra Lipiec,3,V LO im. Augusta Witkowskiego,Kraków,94,100,100,0,0,0,200
+22,Robert Obryk,2,VLO im. A. Witkowskiego,Kraków,60,100,0,100,0,0,200
+23,Filip Wieczorek,3,III LO im. Marynarki Wojennej RP,Gdynia,10,100,0,100,0,0,200
+24,Tomek Żurkowski,3,I Liceum Ogólnokształcące,Swarzędz,90,100,100,0,0,0,200
+25,Mateusz Baranowski,2,III LO im. Marynarki Wojennej RP,Gdynia,0,90,0,9,0,100,199
+26,Paweł Blokus,3,III LO im. Marynarki Wojennej RP,Gdynia
+27,Michał Dereziński,3,XIV LO im. Stanisława Staszica,Warszawa
+28,Łukasz Dudek,3,II LO im. Jana III Sobieskiego,Kraków
+29,Dominik Dudzik,2,V LO im. Augusta Witkowskiego,Kraków
+30,Atrur Dwornik,3,I LO im. T. Kościuszki,Konin
+31,Przemysław Gajda,3,V LO im. Augusta Witkowskiego,Kraków
+32,Krzysztof Gogolewski,3,I LO im. Hugona Kołłątaja,Krotoszyn
+33,Konrad Gołuchowski,3,VIII LO im. M. Skłodowskiej-Curie,Katowice
+34,Bartosz Górski,3,VIII LO im. Władysława IV,Warszawa
+35,Jan Inowolski,3,XIV LO im. Stanisława Staszica,Warszawa
+36,Michał Iwaniuk,1,XIV LO im. Stanisława Staszica,Warszawa
+37,Wojciech Jamrozy,2,II Liceum Ogólnokształcące,Mielec
+38,Piotr Janik,3,V LO im. Augusta Witkowskiego,Kraków
+39,Jacek Jendrej,2,III LO im. Unii Lubelskiej,Lublin
+40,Piotr Kieć,3,ZSO Liceum Ogólnokształcące,Kamienna Góra
+41,Marek Kiszkis,3,III LO im. Marynarki Wojennej RP,Gdynia
+42,Jerzy Kozera,3,VI LO im. J. i J. Śniadeckich,Bydgoszcz
+43,Bolesław Kulbabiński,2,I LO im. Stefana Żeromskiego,Kielce
+44,Bartosz Lewiński,2,III LO im. Marynarki Wojennej RP,Gdynia
+45,Tomasz Marmołowski,3,III LO im. Marynarki Wojennej RP,Gdynia
+46,Przemysław Mazur,2,II LO im. Jana III Sobieskiego,Kraków
+47,Łukasz Mazurek,2,XIV LO im. Stanisława Staszica,Warszawa
+48,Mirosław Michalski,2,III LO im. Marynarki Wojennej RP,Gdynia
+49,Cezary Myczka,3,I LO im. T. Kościuszki,Gorzów Wielkopolskie
+50,Jakub Oćwieja,1,V Liceum Ogólnokształcące,Bielsko-Biała
+51,Maciek Pacut,2,III LO im. Stefana Żeromskiego,Bielsko-Biała
+52,Szymon Pałka,2,V LO im. Augusta Witkowskiego,Kraków
+53,Jonasz Pamuła,2,V LO im. Augusta Witkowskiego,Kraków
+54,Szymon Piechowicz,3,II LO im. Adama Mickiewicza,Słupsk
+55,Michał Pilch,3,I LO im. Adama Mickiewicza,Białystok
+56,Mateusz Piwnicki,3,I LO im. Tadeusza Kościuszki,Wieluń
+57,Robert Pohnke,2,III LO im. Marynarki Wojennej RP,Gdynia
+58,Piotr Polesiuk,2,I Liceum Ogólnokształcące,Wałbrzych
+59,Tomasz Roda,3,III LO im. Marynarki Wojennej RP,Gdynia
+60,Rafał Ruciński,1,XIII Liceum Ogólnokształcące,Szczecin
+61,Jan Rudol,2,II LO im. Jana III Sobieskiego,Kraków
+62,Marek Sapota,3,III LO im. Marynarki Wojennej RP,Gdynia
+63,Michał Stachurski,2,I LO im. M. Kopernika ,Jarosław
+64,Damian Straszak,2,I Liceum Ogólnokształcące,Racibórz
+65,Marcin Walas,3,V Liceum Ogólnokształcące,Bielsko-Biała
+66,Oskar Wantoła,3,III LO im. Marynarki Wojennej RP,Gdynia
+67,Eryk Wieliczko,1,III LO im. Marynarki Wojennej RP,Gdynia
+68,Jarosław Wódka,3,I LO im. Wł. Broniewskiego,Bełchatów
+69,Marek Wróbel,3,V LO im. Augusta Witkowskiego,Kraków
+70,Michał Wszołek,3,V LO im. Augusta Witkowskiego,Kraków
+71,Łukasz Zatorski,2,X Liceum Ogólnokształcące,Wrocław
+72,Artur Żylinski,3,III LO im. Marynarki Wojennej RP,Gdynia

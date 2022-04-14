@@ -1,0 +1,47 @@
+lp.,imię i nazwisko,szkoła,miejscowość,mag,map,olt,pie,wod,suma
+1,Andrzej Gąsienica-Samek,XIV L. O. im. S. Staszica,Warszawa,37 ,60 ,44 ,60 ,60 ,261 
+2,Krzysztof Onak,III L. O. im. A. Mickiewicza,Tarnów,0 ,60 ,60 ,31 ,55 ,206 
+3,Michał Nowakiewicz,XIV L. O. im. S. Staszica ,Warszawa,31 ,59 ,0 ,42 ,60 ,192 
+4,Marcin Meinardi,V L. O. im. A. Witkowskiego,Kraków,19 ,60 ,12 ,31 ,60 ,182 
+5,Rafał Rusin,II L. O. im. L. Lisa-Kuli,Rzeszów,27 ,12 ,49 ,26 ,60 ,174 
+6,Tomasz Malesiński,Z. Sz. E. Im. prof. J. Groszkowskiego,Białystok,60 ,12 ,0 ,31 ,60 ,163 
+7,Michał Rein,IV L. O. im. K. Wielkiego,Bydgoszcz,37 ,39 ,12 ,15 ,55 ,158 
+8,Marcin Poturalski,IV L. O. im. T. Kościuszki,Toruń,45 ,19 ,0 ,26 ,58 ,148 
+9,Daniel Jeliński,VIII L. O. im. A. Mickiewicza,Poznań,7 ,60 ,0 ,20 ,60 ,147 
+10,Mikołaj Zalewski,I L. O. im. B. Nowodworskiego,Kraków,36 ,60 ,0 ,48 ,0 ,144 
+11,Przemysław Broniek,V L. O. im. A. Witkowskiego,Kraków,32 ,60 ,0 ,20 ,25 ,137 
+12,Gracjan Polak,III L. O. im. J. Kochanowskiego,Kraków,29 ,25 ,0 ,15 ,60 ,129 
+13,Grzegorz Herman,V L. O. im. A. Witkowskiego,Kraków,28 ,13 ,0 ,26 ,60 ,127 
+14,Jarosław Duda,Liceum Ogólnokształcące,Dębica,7 ,60 ,0 ,60 ,0 ,127 
+15,Marcin Wojnarski,Katolickie L. O. Zakonu Pijarów,Kraków,29 ,60 ,0 ,31 ,5 ,125 
+16,Bartosz Nowierski,VIII L. O. im. A. Mickiewicza,Poznań,28 ,59 ,12 ,0 ,25 ,124 
+17,Jacek Kalamarz,Zespół Szkół Elektronicznych,Rzeszów,7 ,25 ,0 ,31 ,60 ,123 
+18,Łukasz Anforowicz,VI L. O. Im. J. I J. Śniadeckich,Bydgoszcz,60 ,12 ,0 ,15 ,35 ,122 
+19,Grzegorz Andruszkiewicz,XVIII L. O. Im. J. Zamoyskiego,Warszawa,21 ,12 ,0 ,26 ,60 ,119 
+20,Jerzy Bałamut,IV L. O. im. Kopernika,Rzeszów,0,0,0,0,0,0
+21,Kamil Blank,VI L. O. im. J. i J. Śniadeckich,Bydgoszcz,0,0,0,0,0,0
+22,Jarosław Byrka,III L. O. im. A. Mickiewicza,Wrocław,0,0,0,0,0,0
+23,Paweł Dąbrowski,Liceum Ogólnokształcące,Brzozów,0,0,0,0,0,0
+24,Grzegorz Dróżdż,III L. O. im. A. Mickiewicza,Wrocław,0,0,0,0,0,0
+25,Paweł Fic,XIII Liceum Ogólnokształcące,Gdańsk,0,0,0,0,0,0
+26,Stanisław Findeisen,XXVII L. O. Im. T. Czackiego,Warszawa,0,0,0,0,0,0
+27,Mateusz Gajdzik,V L. O. im. A. Witkowskiego,Kraków,0,0,0,0,0,0
+28,Tomasz Helbing,XIV L. O. im. S. Staszica ,Warszawa,0,0,0,0,0,0
+29,Wojciech Jaworski,XIV L. O. im. S. Staszica ,Warszawa,0,0,0,0,0,0
+30,Łukasz Kamiński,IV L. O. im. T. Kościuszki,Toruń,0,0,0,0,0,0
+31,Paweł Kołodziejczyk,V L. O. im. A. Witkowskiego,Kraków,0,0,0,0,0,0
+32,Adam Koprowski,XXVII L. O. im. T. Czackiego,Warszawa,0,0,0,0,0,0
+33,Filip Łukasik,III L. O. im. Marynarki Wojennej RP,Gdynia,0,0,0,0,0,0
+34,Michał Malinowski,I L. O. im. J. Śniadeckiego,Pabianice,0,0,0,0,0,0
+35,Maciej Modelski,III L. O. im. A. Mickiewicza,Wrocław,0,0,0,0,0,0
+36,Filip Noworyta,II L. O. Im. M.. Konopnickiej ,Katowice,0,0,0,0,0,0
+37,Mariusz Paradowski,XX Liceum Ogólnokształcące ,Wrocław,0,0,0,0,0,0
+38,Arkadiusz Paterek,VI L. O. im. J. Kochanowskiego,Radom,0,0,0,0,0,0
+39,Jakub Przewoźnik,I Liceum Ogólnokształcące ,Gorzów Wlkp.,0,0,0,0,0,0
+40,Dymitr Pszenicyn,XXVII L. O. im. T. Czackiego,Warszawa,0,0,0,0,0,0
+41,Tomasz Pylak,II L. O. Im. A. F. Modrzewskiego,Włodawa,0,0,0,0,0,0
+42,Piotr Skibiński,IV L. O. im. Kopernika,Rzeszów,0,0,0,0,0,0
+43,Łukasz Szkup,II L. O. Im. Piastów Śląskich,Wrocław,0,0,0,0,0,0
+44,Paweł Terlecki,XIV L. O. im. S. Staszica ,Warszawa,0,0,0,0,0,0
+45,Michał Węgiel,VII L. O. im. Z. Nałkowskiej,Kraków,0,0,0,0,0,0
+46,Witold Wnuk,XLVIII L. O. im. E. Dębowskiego,Warszawa,0,0,0,0,0,0

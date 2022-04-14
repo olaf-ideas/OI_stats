@@ -1,0 +1,192 @@
+lp.,imię,nazwisko,miejscowość,bro,nar,pas,wir,suma
+1,Tomasz,Czajka,Stalowa Wola,92,100,100,100,392
+2,Michał,Kosek,Kraków,100,100,30,100,330
+3,Michał,Zmarz,Kraków,100,100,20,100,320
+4,Przemysław,Broniek,Kraków,100,100,20,100,320
+5,Sebastian,Ujma,Kraków,100,100,20,100,320
+6,Dominik,Wojtczak,Gdynia,98,100,20,100,318
+7,Andrzej,Pezarski,Kraków,100,100,0,100,300
+8,Jacek,Majkowski,Kraków,100,100,0,100,300
+9,Marcin,Wojnarski,Kraków,92,100,0,100,292
+10,Tomasz,Malesiński,Białystok,71,100,20,100,291
+11,Rafał,Rusin,Rzeszów,100,100,20,67,287
+12,Grzegorz,Stelmaszek,Wrocław,100,74,10,99,283
+13,Jan,Chmiel,Poznań,100,61,20,100,281
+14,Czesław,Długołęcki,Warszawa,100,100,20,60,280
+15,Konrad,Nagórko,Płock,100,100,20,60,280
+16,Tomasz,Noiński,Gdynia,92,100,20,68,280
+17,Mirosław,Rusin,Rzeszów,100,100,20,60,280
+18,Sebastian,Ernst,Kraków,100,100,0,75,275
+19,Tomasz,Szydło,Rzeszów,100,100,0,70,270
+20,Jacek,Pasternak,Rzeszów,100,100,20,50,270
+21,Krzysztof,Onak,Tarnów,100,100,20,48,268
+22,Jarosław,Kutyłowski,Wrocław,100,71,20,77,268
+23,Michał,Malinowski,Pabianice,100,100,20,40,260
+24,Marcin,Poturalski,Toruń,100,100,0,50,250
+25,Michał,Iwanicki,Łódź,100,100,20,30,250
+26,Tomasz,Dobrowolski,Gdańsk,100,100,20,30,250
+27,Łukasz,Cieśla,Bydgoszcz,100,100,20,30,250
+28,Michał,Adamaszek,Bielsko-Biała,92,100,0,58,250
+29,Wojciech,Wawrzyniak,Ostrów Wielkopolski,100,100,20,30,250
+30,Marcin,Gazda,Kraków,100,100,0,50,250
+31,Andrzej,Tymoczko,Rzeszów,100,76,0,70,246
+32,Łukasz,Kaiser,Wrocław,100,58,10,77,245
+33,Paweł,Zawada,Limanowa,100,100,40,0,240
+34,Marcin,Komor,Lublin,92,88,20,40,240
+35,Paweł,Kołodziejczyk,Kraków,100,100,10,30,240
+36,Mateusz,Maciejewski,Bydgoszcz,91,88,20,40,239
+37,Adrian,Adamiak,Sanok,76,100,20,40,236
+38,Noe,Nemś,Warszawa,92,100,10,30,232
+39,Krzysztof,Lach,Żywiec,92,100,0,40,232
+40,Karol,Cwalina,Warszawa,100,100,20,10,230
+41,Jan,Jeżabek,Kraków,100,100,20,10,230
+42,Maciej,Czekaj,Kraków,51,87,0,90,228
+43,Robert,Guziołowski,Toruń,100,87,0,40,227
+44,Grzegorz,Herman,Kraków,43,100,20,64,227
+45,Jakub,Piędel,Warszawa,100,100,0,26,226
+46,Paweł,Stawicki,Zduńska Wola,65,100,20,40,225
+47,Wiktor,Filip,Warszawa,92,100,0,30,222
+48,Bartosz,Wieloch,Jarocin,92,100,20,10,222
+49,Piotr,Woźniak,Kraków,82,100,20,20,222
+50,Artur,Nowakowski,Bydgoszcz,83,88,10,40,221
+51,Wojciech,Matyjewicz,Tarnów,91,100,20,10,221
+52,Michał,Janeczek,Kraków,100,100,0,20,220
+53,Łukasz,Broś,Kraków,100,100,20,0,220
+54,Andrzej,Popiołek,Mszana Dolna,100,100,20,0,220
+55,Piotr,Malinowski,Pabianice,100,100,20,0,220
+56,Rafał,Piechocki,Poznań,100,100,20,0,220
+57,Paweł,Parys,Tarnowskie Góry,0,100,30,90,220
+58,Wojciech,Makowiecki,Kraków,100,100,0,17,217
+59,Dariusz,Karcz,Żywiec,83,74,0,60,217
+60,Michał,Czardybon,Gliwice,100,87,0,30,217
+61,Dymitr,Pszenicyn,Warszawa,100,74,20,20,214
+62,Filip,Piękniewski,Toruń,100,84,0,30,214
+63,Jakub,Przewoźnik,Gorzów Wlkp.,83,100,10,20,213
+64,Maciej,Przewoźnik,Gorzów Wlkp.,92,50,20,50,212
+65,Michał,Kozłowski,Włodawa,92,100,20,0,212
+66,Grzegorz,Swat,Radom,92,100,20,0,212
+67,Jacek,Erd,Radom,92,100,20,0,212
+68,Łukasz,Winczura,Muszyna,100,100,0,10,210
+69,Krzysztof,Kowalczyk,Lublin,100,87,20,0,207
+70,Piotr,Wieczorek,Lublin,91,100,16,0,207
+71,Krzysztof,Sikora,Dębica,100,74,0,30,204
+72,Kamil,Blank,Bydgoszcz,100,74,20,10,204
+73,Piotr,Skibiński,Rzeszów,92,50,20,40,202
+74,Piotr,Tabor,Warszawa,92,100,0,10,202
+75,Michał,Ziemski,Wrocław,89,13,0,100,202
+76,Piotr,Balwierz,Kraków,100,100,0,0,200
+77,Marek,Gibek,Kraków,68,100,20,10,198
+78,Marek,Jodłowski,Radom,91,87,20,0,198
+79,Bartłomiej,Zobek,Mszana Dolna,100,87,0,10,197
+80,Paweł,Walter,Kraków,92,93,12,0,197
+81,Michał,Ślaski,Kraków,100,87,0,10,197
+82,Andrzej,Kurach,Toruń,100,76,20,0,196
+83,Michał,Bąk,Żywiec,74,100,20,0,194
+84,Mateusz,Goryca,Radom,92,100,0,0,192
+85,Artur,Mirek,Kraków,92,100,0,0,192
+86,Szymon,Jachim,Radom,92,100,0,0,192
+87,Roman,Łomowski,Bydgoszcz,92,39,20,40,191
+88,Łukasz,Bańcerowski,Olkusz,51,100,20,20,191
+89,Wiktor,Tomczak,Gdańsk,83,87,0,20,190
+90,Krzysztof,Ocetkiewicz,Bydgoszcz,43,96,0,50,189
+91,Jacek,Kołodziej,Warszawa,100,49,0,39,188
+92,Maurycy,Prodeus,Wrocław,92,76,0,20,188
+93,Mateusz,Gajdzik,Kraków,92,74,0,20,186
+94,Michał,Helwich,Legnica,84,100,0,0,184
+95,Wojciech,Turek,Kraków,84,100,0,0,184
+96,Jarosław,Paszek,Gdynia,34,100,0,49,183
+97,Filip,Noworyta,Katowice,82,100,0,0,182
+98,Marcin,Gozdalik,Warszawa,61,100,20,0,181
+99,Ryszard,Remus,Bydgoszcz,35,100,0,46,181
+100,Piotr,Pawliczek,Cieszyn,50,100,0,30,180
+101,Jacek,Nadulski,Skiernieiwce,92,87,0,0,179
+102,Eryk,Schiller,Kraków,83,95,0,0,178
+103,Bartłomiej,Jucha,Mielec,100,48,20,10,178
+104,Łukasz,Dykto,Łódź,67,100,0,10,177
+105,Jakub,Wójciak,Zduńska Wola,100,74,0,0,174
+106,Przemysław,Makosiej,Łódź,24,100,20,30,174
+107,Łukasz,Strożek,Gdynia,92,49,30,0,171
+108,Rafał,Ramocki,Stalowa Wola,41,100,0,30,171
+109,Marcin,Koszów,Głogów,60,100,10,0,170
+110,Igor,Gocaliński,Zabrze,0,87,30,53,170
+111,Maciej,Sawitus,Warszawa,39,100,0,30,169
+112,Rafał,Piotrowski,Częstochowa,92,76,0,0,168
+113,Krzysztof,Jakubczyk,Radom,83,63,20,0,166
+114,Adrian,Smarzewski,Warszawa,26,100,0,38,164
+115,Piotr,Kowalski,Ostrowiec Świętokrzyski,43,100,20,0,163
+116,Marcin,Szkudlarek,Ostrów Wielkopolski,80,62,20,0,162
+117,Grzegorz,Łukasik,Kraków,56,76,10,20,162
+118,Wojciech,Wasiak,Białystok,34,87,20,20,161
+119,Mieczysław,Bąk,Poznań,100,61,0,0,161
+120,Marcin,Zawadzki,Gdynia,92,39,20,7,158
+121,Sławomir,Zatorski,Tomaszów Lub.,87,61,10,0,158
+122,Piotr,Grochowski,Kraków,43,74,20,20,157
+123,Stanisław,Wierchoła,Lublin,100,36,20,0,156
+124,Jakub,Żytka,Gliwice,99,37,0,20,156
+125,Agnieszka,Macioszek,Zielona Góra,10,74,20,50,154
+126,Marek,Żylak,Siedlce,43,100,0,10,153
+127,Tomasz,Parzygnat,Rzeszów,66,87,0,0,153
+128,Piotr,Horodeński,Białystok,24,100,20,9,153
+129,Michał,Szymański,Poznań,100,50,0,0,150
+130,Tomasz,Pyra,Gdynia,40,100,10,0,150
+131,Maciej,Chociej,Kraków,92,48,0,10,150
+132,Grzegorz,Ciaptacz,Kraków,100,48,0,0,148
+133,Łukasz,Kotłowski,Łódź,29,49,20,50,148
+134,Krzysztof,Kluczek,Bartoszyce,26,100,10,10,146
+135,Mateusz,Stacewicz,Szprotawa,35,100,0,10,145
+136,Łukasz,Grządko,Nowa Sól,39,49,20,36,144
+137,Michał,Michalski,Opole,33,100,0,10,143
+138,Wojciech,Rygielski,Gołap,35,88,0,20,143
+139,Sławomir,Sadziak,Warszawa,45,74,20,0,139
+140,Michał,Żelechowski,Kraków,38,100,0,0,138
+141,Grzegorz,Gutowski,Kraków,8,69,0,60,137
+142,Wojciech,Sienkiewicz,Białystok,17,100,20,0,137
+143,Krzysztof,Rusocki,Toruń,100,37,0,0,137
+144,Kamil,Skalski,Bydgoszcz,26,100,0,10,136
+145,Rafał,Krypa,Gdynia,40,36,10,50,136
+146,Michał,Godowski,Kraków,26,100,10,0,136
+147,Adam,Wasila,Rogoźno Wlkp,35,100,0,0,135
+148,Grzegorz,Milczarek,Łódź,35,100,0,0,135
+149,Michał,Mirosław,Lublin,25,100,0,10,135
+150,Michał,Wiącek,Kęty,76,57,0,0,133
+151,Krzysztof,Kapuścik,Racibórz,18,74,20,20,132
+152,Marcin,Bis,Lublin,56,75,0,0,131
+153,Michał,Prusko,Zabrze,35,66,10,20,131
+154,Grzegorz,Dąbrowski,Siedlce,40,50,0,40,130
+155,Tomasz,Rosiek,Warszawa,0,100,0,30,130
+156,Tomasz,Borsukiewicz,Lublin,33,87,0,10,130
+157,Tomasz,Kurkiewicz,Kraków,92,38,0,0,130
+158,Andrzej,Wasylowski,Opole,26,74,0,30,130
+159,Przemysław,Gwóźdź,Bydgoszcz,28,100,0,0,128
+160,Łukasz,Knap,Przeworsk,35,63,0,30,128
+161,Mateusz,Kwaśnicki,Wrocław,35,63,0,30,128
+162,Dariusz,Ścigała,Tarnowskie Góry,28,100,0,0,128
+163,Marcin,Gala,Gdynia,18,100,0,10,128
+164,Dariusz,Rodak,Gorlice,28,100,0,0,128
+165,Wojciech,Mytnik,Białystok,8,100,20,0,128
+166,Piotr,Janczyk,Gdynia,92,25,0,10,127
+167,Maciej,Fijałkowski,Łódź,27,100,0,0,127
+168,Marcin,Potkański,Warszawa,26,100,0,0,126
+169,Mateusz,Greszta,Szczecin,26,100,0,0,126
+170,Michał,Szostakiewicz,Warszawa,8,97,20,0,125
+171,Rafał,Polański,Katowice,25,100,0,0,125
+172,Piotr,Zawiślak,Legnica,25,100,0,0,125
+173,Władysław,Bodzek,Bydgoszcz,25,100,0,0,125
+174,Dawid,Molenda,Kraków,8,100,0,17,125
+175,Tomasz,Powchowicz,Zielona Góra,74,50,0,0,124
+176,Michał,Kowalczuk,Gdynia,40,24,10,50,124
+177,Grzegorz,Gronkowski,Kraków,49,75,0,0,124
+178,Bartosz,Orlewicz,Częstochowa,48,75,0,0,123
+179,Patryk,Kozak,Katowice,26,87,0,10,123
+180,Paweł,Maciejasz,Kraków,26,49,0,48,123
+181,Robert,Wilczyński,Białystok,35,87,0,0,122
+182,Anna,Matuszak,Gdynia,26,36,10,50,122
+183,Wiktor,Bachnik,Gorzów Wlkp.,26,75,20,0,121
+184,Tomasz,Górnik,Bydgoszcz,21,100,0,0,121
+185,Tomasz,Kolinko,Olsztyn,37,13,20,50,120
+186,Michał,Placek,Niepołomica,43,57,0,20,120
+187,Przemysław,Miszczuk,Gorzów Wlkp.,26,74,10,10,120
+188,Bernard,Szlachta,Stalowa Wola,34,74,10,0,118
+189,Michał,Niezgoda,Gdynia,8,100,10,0,118
+190,Marek,Kozłowski,Gdynia,8,100,10,0,118
+191,Damian,Szklarczyk,Jarocin,8,100,10,0,118

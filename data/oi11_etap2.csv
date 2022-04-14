@@ -1,0 +1,47 @@
+lp.,imię,nazwisko,szkoła,miejscowość,mos*,bra,jas,prz,tur,suma
+1,Paweł,Gosztyła,I LO im. L. Kruczkowskiego,Tychy,100,100,0,100,100,300
+2,Filip,Wolski,III LO im. Marynarki Wojennej RP,Gdynia,100,100,6,100,84,290
+3,Jakub,Kallas,Gimnazjum nr 24,Gdynia,100,82,6,100,82,270
+4,Piotr,Danilewski,V LO im. A. Witkowskiego,Kraków,100,82,6,100,82,270
+5,Adam,Blokus,III LO im. Marynarki Wojennej RP,Gdynia,10,27,52,79,100,258
+6,Bartłomiej,Romański,XIV LO im. St. Staszica,Warszawa,10,91,6,100,49,246
+7,Piotr,Wygocki,IV LO im. T. Kościuszki,Toruń,0,82,6,72,82,242
+8,Daniel,Czajka,LO im. KEN,Stalowa Wola,10,82,32,21,99,234
+9,Szymon,Acedański,VIII LO im. M. Skłodowskiej-Curie,Katowice,100,82,0,51,98,231
+10,Tomasz,Kuras,V LO im. A. Witkowskiego,Kraków,100,82,-,72,67,221
+11,Mikołaj Kajetan,Schmidt,IV LO im. T. Kościuszki,Toruń,10,82,20,44,74,220
+12,Marcin,Nowak-Przygodzki,III LO im. Marynarki Wojennej RP,Gdynia,95,82,6,99,32,219
+13,Jakub,Łącki,III LO im. Marynarki Wojennej RP,Gdynia,100,64,6,100,43,213
+14,Michał,Miodek,"ZS Zawodowych nr 10 ""Elektronik""",Sosnowiec,50,66,6,44,92,208
+15,Aleksander,Piotrowski,VI LO im. J. i J. Śniadeckich,Bydgoszcz,100,54,22,58,72,206
+16,Norbert,Potocki,XIV LO im. St. Staszica,Warszawa,10,82,0,73,48,203
+17,Wojciech,Budniak,XIII LO,Szczecin,100,82,-,21,92,195
+18,Marek,Szymański,IV LO im. M. Kopernika,Rzeszów,10,82,0,79,32,193
+19,Tomasz,Kulczyński,Gimnazjum nr 50,Bydgoszcz,100,82,6,21,83,192
+20,Dawid,Sieradzki,VIII LO im. A. Mickiewicza,Poznań,100,82,0,79,30,191
+21,Piotr,Wysocki,VI LO im. J. i J. Śniadeckich,Bydgoszcz,10,82,0,52,56,190
+22,Marek,Materzok,LO im. H. Sienkiewicza,Nowa Ruda,10,82,0,100,8,190
+23,Piotr,Biliński,VIII LO im. A. Mickiewicza,Poznań,50,82,14,44,49,189
+24,Piotr,Daszkiewicz,I LO im. M. Kopernika,Gdańsk,100,82,0,72,33,187
+25,Juliusz,Kopczewski,II Społeczne LO,Warszawa,10,82,6,99,-,187
+26,Adam,Gaj,V LO im. A. Witkowskiego,Kraków,10,82,0,44,57,183
+27,Tomasz,Kłos,III LO im. Marynarki Wojennej RP,Gdynia,10,36,0,100,46,182
+28,Łukasz,Bieniasz-Krzywiec,I LO im. B. Krzywoustego,Słupsk,0,82,0,67,32,181
+29,Paweł,Chodaczek,XIV LO im. St. Staszica,Warszawa,100,46,6,79,46,177
+30,Maciej,Pawlisz,III LO im. Marynarki Wojennej RP,Gdynia,20,82,0,44,48,174
+31,Mateusz,Wójcik,I LO im. M. Kopernika,Katowice,0,82,0,44,48,174
+32,Robert,Dyczkowski,XIV LO im. St. Staszica,Warszawa,10,82,0,58,32,172
+33,Tomasz,Sadura,II LO im. A. F. Modrzewskiego,Rybnik,10,82,20,44,24,170
+34,Adam,Radziwończyk-Syta,LXVII Liceum Ogólnokształcące,Warszawa,100,82,20,18,49,169
+35,Mateusz,Brzeszcz,VIII LO im. M. Skłodowskiej-Curie,Katowice,10,73,0,26,67,166
+36,Andrzej,Grzywocz,III LO im. Marynarki Wojennej RP,Gdynia,100,18,38,76,32,164
+37,Michał,Jaszczyk,XIII LO,Szczecin,10,82,0,6,76,164
+38,Adam,Gawarkiewicz,X LO im. prof. S. Banacha,Toruń,10,45,0,80,36,161
+39,Maciej,Kokociński,VIII LO im. A. Mickiewicza,Poznań,0,48,6,58,49,161
+40,Krzysztof,Jakubowski,I LO im. A. Mickiewicza,Białystok,10,45,0,65,51,161
+41,Maciej,Jaśkowski,VI LO im. J. i J. Śniadeckich,Bydgoszcz,10,82,6,44,25,157
+42,Przemysław,Dobrowolski,I LO im. Wł. Broniewskiego,Bełchatów,0,73,0,65,18,156
+43,Łukasz,Bogacki,XIII LO,Szczecin,100,82,-,46,28,156
+44,Sebastian,Chojniak,I Liceum Ogólnokształcące,Pisz,10,64,0,44,48,156
+45,Rafał,Bryk,IV LO im. T. Kościuszki,Toruń,0,19,6,96,32,153
+46,Paweł,Zieliński,XIV LO im. St. Staszica,Warszawa,10,82,0,21,49,152

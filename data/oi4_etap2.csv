@@ -1,0 +1,45 @@
+lp.,imię,nazwisko,szkoła,miejscowość,pal,rek,add,gen,suma
+1,Adam,Borowski,I L.O. im. M. Skłodowskiej-Curie, Starogard Gd.,91,100,100,99,390
+2,Piotr,Zieliński,VIII L.O. im.A. Mickiewicza, Poznań,100,90,100,86,376
+3,Tomasz,Waleń,L.O. im. T. Kościuszki, Ziębice,100,23,100,51,274
+4,Krzysztof,Marzencki,I L.O. im. B. Nowodworskiego, Kraków,100,43,100,25,268
+5,Sławomir,Piotrowski,IV L.O., Kalisz,43,61,79,74,257
+6,Eryk,Kopczyński,XIV L.O. im. S. Staszica, Warszawa,23,24,90,86,223
+7,Wojciech,Moczydłowski,V L.O. im. ks. J. Poniatowskiego, Warszawa,61,43,89,30,223
+8,Tomasz,Kowalski,I L.O. im. M. Kopernika, Łódz,91,0,100,30,221
+9,Marcin,Stefaniak,III L.O. im. Marynarki Wojennej RP, Gdynia,23,32,100,57,212
+10,Adrian,Gasiński,XXXIII L.O. im. M. Kopernika, Warszawa,89,14,100,8,211
+11,Kajetan,Kryszewski,V L.O. , Bielsko-Biała,61,24,90,35,210
+12,Andrzej,Gąsienica-Samek,XIV L.O. im. S. Staszica, Warszawa,78,0,100,30,208
+13,Marek,Futrega,L.O. im. L. Kruczkowskiego, Morąg,100,24,80,0,204
+14,Jarosław,Zimon,Technikum Elektroniczne, Chełm,100,24,80,0,204
+15,Paweł,Kwiatkowski,IV L.O.im Tadeusza Kościuszki, Toruń,0,24,100,72,196
+16,Łukasz,Anforowicz,VI L.O. im. J. i J.Śniadeckich, Bydgoszcz,32,42,80,38,192
+17,Bazyli,Blicharski,I L.O. im. St. Dubois, Koszalin,52,24,100,12,188
+18,Jacek,Suliga,XIV L.O. im. Polonii Belgijskiej, Wrocław,61,24,69,30,184
+19,Jakub,Dzierzbicki,XXVI L.O. , Łódź,50,0,100,33,183
+20,Jerzy,Ziemiański,I L.O. im. St. Konarskiego, Rzeszów,82,0,100,0,182
+21,Leszek,Barański,Zesp.Szkół Technicz., Rzeszów,82,24,69,0,175
+22,Piotr,Sankowski,XXXIX L.O. im. J. W. Goethego, Warszawa,0,24,100,51,175
+23,Adam,Koprowski,XXVII L.O. im. T. Czackiego, Warszawa,23,51,100,0,174
+24,Maciej,Żenczykowski,I L.O. im. B. Nowodworskiego, Kraków,52,24,79,18,173
+25,Wojciech,Meler,VI L.O. im. J. i J.Śniadeckich, Bydgoszcz,23,24,100,24,171
+26,Jerzy,Szczepkowski,XIV L.O. im.S.Staszica, Warszawa,91,0,77,0,168
+27,Konrad,Kwiatkowski,Zespół Szkół Elektrycznych, Jedlicze,89,0,78,0,167
+28,Marcin,Kielar,I L.O. im. St. Leszczyńskiego, Jasło,51,0,100,12,163
+29,Jerzy,Bałamut,IV L.O. im. M. Kopernika, Rzeszów,0,70,80,12,162
+30,Stanisław,Paśko,XIV L.O.im. Polonii Belgijskiej, Wrocław,39,23,90,9,161
+31,Przemysław,Jaroszewski,XXVII L.O. im. T. Czackiego, Warszawa,61,0,69,30,160
+32,Paweł,Lenk,IV L.O. im. St. Staszica, Sosnowiec,14,43,100,0,157
+33,Paweł,Terlecki,XIV L.O. im. S. Staszica, Warszawa,41,0,69,40,150
+34,Łukasz,Kolczyński,XXVII L.O. im. T. Czackiego, Warszawa,41,24,80,0,145
+35,Rafał,Mantiuk,V L.O. im. A. Asnyka, Szczecin,14,24,70,37,145
+36,Grzegorz,Owsiany,IV L.O. im. M. Kopernika, Rzeszów,41,0,100,0,141
+37,Marek,Rycharski,IV L. O. im. T. Kościuszki, Toruń,41,0,100,0,141
+38,Adam,Jurkowski,I L.O. im. A. Mickiewicza, Białystok,34,0,80,24,138
+39,Piotr,Gabryańczyk,L.O. im. Wł. Broniewskiego, Bełchatów,41,0,77,18,136
+40,Michał,Bażyński,VI L.O. Reytana, Warszawa,41,24,69,0,134
+41,Paweł,Wolff,V L.O., Zielona Góra,32,0,100,0,132
+42,Piotr,Sikora,III L.O. im. Marynarki Wojennej RP, Gdynia,41,0,90,0,131
+43,Marcin,Bieńkowski,XIV L.O. , Wrocław,51,0,73,0,124
+44,Krzysztof,Onak,III L.O. im. A. Mickiewicza, Tarnów,44,0,80,0,124

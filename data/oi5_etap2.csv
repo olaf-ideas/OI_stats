@@ -1,0 +1,41 @@
+lp.,imię,nazwisko,szkoła,miejscowość,pak,row,okn,ple,suma
+1,Andrzej,Gąsienica-Samek,XIV L. O. im. St. Staszica,Warszawa,100,100,100,100,400
+2,Eryk,Kopczyński,XIV L. O. im. St. Staszica,Warszawa,100,100,94,100,394
+3,Maciej,Żenczykowski,I L. O. im. B. Nowodworskiego,Kraków,85,100,100,85,370
+4,Marcin,Stefaniak,III L. O. im. Marynarki Wojennej RP,Gdynia,93,57,82,100,332
+5,Tomasz,Czajka,L. O. im. Komisji Edukacji Narodowej,Stalowa Wola,77,48,100,100,325
+6,Piotr,Przytycki,XIV L. O. im. St. Staszica,Warszawa,33,14,94,100,241
+7,Gracjan,Polak,III L. O. im. J. Kochanowskiego,Kraków,67,30,87,46,230
+8,Krzysztof,Onak,III L. O. im. A. Mickiewicza,Tarnów,34,13,67,100,214
+9,Bartosz,Nowierski,VIII L. O. im. A. Mickiewicza,Poznań,12,38,74,56,180
+10,Marcin,Wojnarski,Katolickie L. O. Zakonu Pijarów im. St. Konarskiego,Kraków,0,46,29,100,175
+11,Michał,Rein,IV L. O. im. Kazimierza Wielkiego,Bydgoszcz,86,30,11,25,152
+12,Tomasz,Malesiński,Zespól Szkół Elektrycznych,Białystok,0,73,54,25,152
+13,Adam,Koprowski,XXVII L. O. im. T. Czackiego,Warszawa,26,46,18,57,147
+14,Łukasz,Anforowicz,VI L. O. im. J. i J. Śniadeckich,Bydgoszcz,45,31,11,56,143
+15,Paweł,Wolff,V L. O.,Zielona Góra,0,56,61,25,142
+16,Paweł,Fic,XIII L. O.,Gdańsk,0,47,48,45,140
+17,Jakub,Górski,III L. O. im. M. Konopnickiej,Włocławek,0,13,87,35,135
+18,Jerzy,Ziemiański,I L. O. im. ks. S. Konarskiego,Rzeszów,78,0,0,57,135
+19,Rafał,Rusin,II L. O. im. L. Lisa-Kuli,Rzeszów,0,29,23,82,134
+20,Mariusz,Paradowski,XX L. O.,Wrocław,33,0,72,25,130
+21,Kamil,Kloch,I L. O. im. B. Nowodworskiego,Kraków,0,0,29,100,129
+22,Dariusz,Jabłonowski,III L. O. im. Marynarki Wojennej,Gdynia,13,38,50,25,126
+23,Jarosław,Duda,L. O. im. Władysława Jagiełły,Dębica,0,0,80,46,126
+24,Piotr,Dobrowolski,I L. O. im. J. Długosza,Nowy Sącz,41,0,37,46,124
+25,Jakub,Lipiński,I L. O. im. J. Długosza,Nowy Sącz,54,0,23,47,124
+26,Bazyli,Blicharski,Zespół Szkół Ogólnokształcących im. St. Dubois,Koszalin,0,0,17,100,117
+27,Tomasz,Arodż,V L. O. im. A. Witkowskiego,Kraków,0,39,35,42,116
+28,Adam,Leszczyński,LI L. O. im. T. Kościuszki,Warszawa,27,47,17,25,116
+29,Marek,Wieczorek,I L. O. im. S. Staszica,Lublin,42,46,0,25,113
+30,Przemysław,Rekucki,Społeczne L. O.,Warszawa,21,47,17,25,110
+31,Marcin,Kielar,I L. O. im. St. Leszczyńskiego,Jasło,0,21,62,25,108
+32,Wojciech,Dudek,Zespół Szkół im. C. K. Norwida IX L. O.,Częstochowa,41,0,17,46,104
+33,Tomasz,Kowalski,I L. O. im. M. Kopernika,Łódź,48,0,29,25,102
+34,Tomasz,Pawicki,XIV L. O. im. Polonii Belgijskiej,Wrocław,0,29,47,25,101
+35,Konrad,Kwiatkowski,III L. O. w ZSE,Krosno,42,0,23,35,100
+36,Grzegorz,Głowaty,Zespół Szkół Elektronicznych i Ogólnokształcących,Przemyśl,0,16,17,67,100
+37,Marcin,Stefaniak ,III LO im. Stanisława Staszica,Siedlce,0,0,54,46,100
+38,Przemysław,Węgrzyn,Zespół Szkół Ogólnokształcących i Zawodowych,Krosno Odrzańskie,0,57,42,0,99
+39,Łukasz,Kamiński,IV L. O. im. T. Kościuszki,Toruń,0,24,49,25,98
+40,Marcin,Poturalski,IV L. O. im. T. Kościuszki,Toruń,0,22,30,46,98

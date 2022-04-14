@@ -1,0 +1,88 @@
+lp.,imię i nazwisko,klasa,szkoła,miejscowość,mon*,gra,jed,lat,mos,pil,zab,suma
+1,Adrian Jaskółka,3,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,52,100,20,20,100,100,100,440
+2,Jan Kanty Milczek,2,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,20,20,100,100,100,440
+3,Igor Adamski,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,99,100,0,0,100,100,100,400
+4,Anna Piekarska,3,Zespół Szkół nr 14,Wrocław,100,100,60,0,10,100,100,370
+5,Michał Zgliczyński,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,20,100,20,20,10,100,100,350
+6,Dawid Dąbrowski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,30,100,20,0,50,100,76,346
+7,Łukasz Jocz,2,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,0,0,42,100,100,342
+8,Grzegorz Milka,3,II Liceum Ogólnokształcące im. Mikołaja Kopernika,Kędzierzyn-Koźle,100,100,0,20,30,91,100,341
+9,Łukasz Kalinowski,3,I Liceum Ogólnokształcące  im. Cypriana Kamila Norwida,Bydgoszcz,70,100,40,0,0,100,100,340
+10,Jakub Pachocki,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,100,100,0,20,20,100,100,340
+11,Janusz Wróbel,3,Zespół Szkół nr 14,Wrocław,0,100,0,40,0,100,100,340
+12,Krzysztof Leszczyński,2,I Liceum Ogólnokształcące im. Marii Konopnickiej,Suwałki,30,100,60,0,0,72,100,332
+13,Adam Obuchowicz,3,I Liceum Ogólnokształcące im. Edwarda Dembowskiego,Zielona Góra,40,100,0,40,0,86,100,326
+14,Alan Kutniewski,3,XIII Liceum Ogólnokształcące,Szczecin,100,100,0,40,10,73,100,323
+15,Maciej Piekarz,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,10,100,20,0,10,89,100,319
+16,Michał Makarewicz,3,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,10,100,0,0,10,100,100,310
+17,Karol Pokorski,2,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,69,100,0,20,20,70,100,310
+18,Grzegorz Prusak,3,Zespół Szkół Ogólnokształcących nr 12,Poznań,40,100,0,20,10,73,100,303
+19,Grzegorz Guśpiel,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,85,30,20,0,100,70,80,300
+20,Wojciech Lis,3,I Liceum Ogólnokształcące,Chorzów,0,100,0,0,0,100,100,300
+21,Paweł Walczak,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,0,0,0,99,100,299
+22,Michał Krasnoborski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,20,100,0,20,0,72,100,292
+23,Maciej Borsz,2,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,100,100,20,20,0,100,50,290
+24,Paweł Lipski,2,"Liceum ""Filomata""",Gliwice,100,100,0,0,0,90,100,290
+25,Szymon Sidor,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,100,100,0,0,0,88,100,288
+26,Stanisław Barzowski,2,Gimnazjum nr 24 (Zespół Szkól Ogólnokształcących nr 1),Gdynia,30,100,20,0,0,60,100,280
+27,Krzysztof Pszeniczny,3 gimn,Gimnazjum i Liceum im. Jana Pawła II Sióstr Prezentek,Rzeszów,0,100,0,0,0,77,100,277
+28,Tomasz Wiatrowski,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,40,100,20,0,0,67,90,277
+29,Jan Marcinkowski,3,Zespół Szkół nr 14,Wrocław,10,100,0,0,20,100,50,270
+30,Piotr Szefler,2,ZS UMK Gimnazjum i Liceum Akademickie,Toruń,0,100,0,0,20,50,100,270
+31,Kamil Sałaś,3,II Liceum Ogólnokształcące  ,Kraków,10,100,0,0,10,96,58,264
+32,Bartłomiej Dudek,1,Zespół Szkół nr 14,Wrocław,0,100,20,20,10,100,10,260
+33,Michał Łowicki,1,Liceum Ogólnokształcące nr III,Wrocław,60,100,20,0,0,100,40,260
+34,Adam Nieżurawski,2,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,100,0,0,30,30,100,260
+35,Krzysztof Król,1,Zespół Szkół nr 14,Wrocław,60,100,24,0,0,72,48,244
+36,Marcin Smulewicz,1,Liceum Ogólnokształcące im Bolesława Prusa,Skierniewice,78,100,0,40,0,0,100,240
+37,Piotr Suwara,3,XIV Liceum Ogólnokształcące,Warszawa,100,100,0,0,0,40,100,240
+38,Jan Wietrzykowski,3,Zespół Szkół Ogólnokształcących nr 3,Poznań,79,100,0,0,0,89,40,229
+39,Dariusz Bukowski,3,Zespół Szkół nr 14,Wrocław,0,100,0,0,0,100,10,210
+40,Krzysztof Feluś,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,79,100,0,0,0,65,40,205
+41,Maciej Matraszek,2,XIV Liceum Ogólnokształcące,Warszawa,40,100,0,0,0,72,30,202
+42,Franciszek Boehlke,2,XIII Liceum Ogólnokształcące,Szczecin,0,100,0,20,0,71,10,201
+43,Wojtek Łopata,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,10,100,0,0,0,100,0,200
+44,Wojciech Marczenko,2,XXVII Liceum Ogólnokształcące im. Tadeusza Czackiego,Warszawa,10,100,0,20,40,10,30,200
+45,Michał Zając,1,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,40,100,0,0,0,0,100,200
+46,Marcin Baczyński,3,VIII Liceum Ogólnokształcące im. Władysława IV,Warszawa
+47,Paweł Banaszewski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia
+48,Aleksandra Baranowska,3,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok
+49,Piotr Bejda,1,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków
+50,Piotr Bryk,3,VIII Liceum Ogólnokształcące,Kraków
+51,Aleksander Bułanowski,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa
+52,Piotr Chabierski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia
+53,Andrzej Dorobisz,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków
+54,Michał Flendrich,3,I Liceum Ogólnokształcące,Legnica
+55,Adam Furmanek,3,I Liceum Ogólnokształcące,Jasło
+56,Rafał Gaweł,3,Zespół Szkół,Zawoja
+57,Karol Grodzicki,3,Gdańskie Liceum Autonomiczne,Gdańsk
+58,Patrick Hess,2,II Liceum Ogólnokształcące,Kraków
+59,Mateusz Jurczyk,2,VIII Liceum Ogólnokształcące,Katowice
+60,Aleksander Kędzierski,3,XIII Liceum Ogólnokształcące,Szczecin
+61,Mateusz Konieczny,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków
+62,Radosław Kotowski,2,VI Liceum Ogólnokształcące im. Króla Zygmunta Augusta,Białystok
+63,Michał Kowalczyk,3,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz
+64,Aleksander Kramarz,1,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz
+65,Wiktor Kuropatwa,1,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków
+66,Jan Kwaśniak,3,Zespół Szkół Sióstr Nazaretanek,Kielce
+67,Mateusz Lewandowski,3,II Liceum Ogólnokształcące  im. Marii Konopnickiej,Inowrocław
+68,Anna Lewicka,3,Publiczne Liceum Ogólnokształcące,Chorzów
+69,Miłosz Makowski,1,ZS UMK Gimnazjum i Liceum Akademickie,Toruń
+70,Tomasz Obuchowski,3,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok
+71,Damian Orlef,2,III Liceum Ogólnokształcące,Zabrze
+72,Piotr Pakosz,2,Zespół Szkół nr 1 im Jana Pawła II w Przysusze,Przysucha
+73,Łukasz Piotrowski,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa
+74,Paweł Przytarski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia
+75,Marcin Regdos,2,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków
+76,Michał Richter,3,Publiczne Liceum Ogólnokształcące nr 2 z Oddziałami Dwujęzycznymi im. Marii Konopnickiej, Opole
+77,Andrzej Rumiński,1,ZS UMK Gimnazjum i Liceum Akademickie,Toruń
+78,Paweł Seta,3,VI Liceum Ogólnokształcące,Radom
+79,Łukasz Solak,3,VIII Liceum Ogólnokształcące,Katowice
+80,Krzysztof Story,1,Zespół Szkół nr 14,Wrocław
+81,Kamil Sutkowski,3,X Liceum Ogólnokształcące,Wrocław
+82,Maciej Szeptuch,2,Zespół Szkół nr 14,Wrocław
+83,Aleksander Szymanek,3,Zespół Szkół nr 14,Wrocław
+84,Bartosz Tarnawski,1,Katolickie Liceum Ogólnokształcące,Katowice
+85,Mateusz Wasilewski,3,Zespół Szkół Elektronicznych i Samochodowych,Zielona Góra
+86,Paweł Wawruch,3,Liceum Ogólnokształcące,Milanówek
+87,Jakub Woyke,3,XIII Liceum Ogólnokształcące,Szczecin

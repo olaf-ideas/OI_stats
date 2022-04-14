@@ -1,0 +1,68 @@
+lp.,imię,nazwisko,szkoła,miejscowość,naj,met,lis,ork,suma
+1,Filip,Wolski,III LO im. Marynarki Wojennej RP,Gdynia,100,81,100,100,381
+2,Wojciech,Śmietanka,III LO im. Marynarki Wojennej RP,Gdynia,100,100,78,0,278
+3,Tomasz,Kulczyński,VI LO im. J. J. Śniadeckich,Bydgoszcz,100,100,28,40,268
+4,Łukasz,Wołochowski,III LO im. Marynarki Wojennej RP,Gdynia,60,100,0,100,260
+5,Jakub,Kallas,III LO im. Marynarki Wojennej RP,Gdynia,100,45,100,0,245
+6,Bartłomiej,Wołowiec,V Liceum Ogólnokształcące,Bielsko-Biała,70,63,87,20,240
+7,Tomek,Gogacz,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,20,220
+8,Juliusz,Kopczewski,2 Społeczne LO,Warszawa,100,100,0,20,220
+9,Bartosz,Gęza,III LO im. Marynarki Wojennej RP,Gdynia,100,9,100,10,219
+10,Marcin,Skotniczny,V LO im. Augusta Witkowskiego,Kraków,60,85,28,40,213
+11,Piotr,Szmigiel,V LO im. Augusta Witkowskiego,Kraków,15,90,7,100,212
+12,Mirosław,Michalski,III LO im. Marynarki Wojennej RP,Gdynia,0,27,82,100,209
+13,Szymon,Wrzyszcz,II LO im. Jana III Sobieskiego,Grudziądz,100,27,43,25,195
+14,Marcin,Kościelnicki,I LO im. Juliusza Slowackiego,Chorzów,70,27,87,10,194
+15,Artur,Koniński,II Liceum ogólnokształcące,Konin,70,36,86,0,192
+16,Marek,Marczykowski,XIV LO im. Stanisława Staszica,Warszawa,60,100,22,10,192
+17,Marcin,Kurczych,I LO im. Stefana Żeromskiego,Kielce,96,0,94,0,190
+18,Marcin,Sobczyk,V LO im. Augusta Witkowskiego,Kraków,100,36,0,50,186
+19,Wojciech,Tyczynski,VI LO im. J. J. Śniadeckich,Bydgoszcz,100,54,22,10,186
+20,Jacek,Migdał,V Liceum Ogólnokształcące,Bielsko-Biała,30,100,28,10,168
+21,Przemysław,Zych,LO im. Bolsława Prusa,Skierniewice,30,92,28,10,160
+22,Maciej,Łaszcz,III LO im. Marynarki Wojennej RP,Gdynia,60,0,86,10,156
+23,Adam,Gawarkiewicz,X LO im. prof. S. Banacha,Toruń,100,9,28,10,147
+24,Radosław,Kożuch,V LO im. Augusta Witkowskiego,Kraków,100,27,14,0,141
+25,Marian Marek,Kędzierski,XIII Liceum Ogólnokształcące,Szczecin,24,89,22,0,135
+26,Artur,Żylinski,III LO im. Marynarki Wojennej RP,Rumia,38,81,0,10,129
+27,Jarosław,Błasiok,Zespół Szkół,Gostyń,100,0,28,0,128
+28,Adrian,Galewski,Zespół Szkół Technicznych,Wodzisław Śląski,100,27,0,0,127
+29,Kamil,Nowosad,1 LO im. E. Dembowskiego,Gliwice,70,0,22,30,122
+30,Paweł,Młocek,LO im.Marii Skłodowskiej-Curie,Andrychów,0,94,7,20,121
+31,Wojciech,Baranowski,III LO im. Marynarki Wojennej RP,Gdynia,0,100,0,20,120
+32,Elżbieta,Dłutowska,III LO im. Marynarki Wojennej RP,Gdynia,30,64,22,0,116
+33,Marek,Kiszkis,III LO im. Marynarki Wojennej RP,Gdynia,0,64,22,30,116
+34,Błażej,Osiński,VI LO im. J. J. Śniadeckich,Bydgoszcz,70,36,7,0,113
+35,Paweł,Wiejacha,VI LO im. W. Sierpińskiego,Gdynia,0,100,0,10,110
+36,Marcin,Andrychowicz,XIV LO im. Stanisława Staszica,Warszawa,100,0,10,0,110
+37,Maciej,Kruk,V LO im. Augusta Witkowskiego,Kraków,30,27,21,30,108
+38,Maciej,Klimek,II Liceum Ogólnokształcące,Gorzów Wlkp.,70,27,0,10,107
+39,Mateusz,Rukowicz,III LO im. A. Mickiewicza,Wrocław,0,0,78,29,107
+40,Przemek,Witek,I LO im. Karola Miarki,Żory,100,0,7,0,107
+41,Przemysław,Pietrzkiewicz,II LO im. Marii Konopnickiej,Katowice,0,91,0,10,101
+42,Marek,Białowąs,III LO im. Marynarki Wojennej RP,Gdynia,0,64,7,30,101
+43,Michał,Jastrzębski,XIV LO im. Stanisława Staszica,Warszawa,0,91,0,10,101
+44,Paweł,Sroka,III LO im. A. Mickiewicza,Wrocław,100,0,0,0,100
+45,Piotr,Świgoń,I LO im. Jana Kasprowicza,Inowrocław,30,36,14,20,100
+46,Tomasz,Dubrownik,III LO im. Marynarki Wojennej RP,Gdynia,88,0,8,0,96
+47,Przemysław,Gajda,V LO im. Augusta Witkowskiego,Kraków,30,27,28,10,95
+48,Krzysztof,Krygiel,IV LO im. Tadeusza Kościuszki,Toruń,30,27,7,28,92
+49,Piotr,Gurgul,V LO im. Augusta Witkowskiego,Kraków,30,27,14,20,91
+50,Marcin,Babij,IX Liceum Ogólnokształcące,Wrocław,0,81,0,10,91
+51,Juliusz,Stasiewicz,I LO im. A. Mickiewicza,Białystok,0,91,0,0,91
+52,Patryk,Spanily,III LO im. Marynarki Wojennej RP,Gdynia,70,9,0,10,89
+53,Robert,Obryk,V LO im. Augusta Witkowskiego,Kraków,60,0,28,0,88
+54,Kamil,Herba,XIII Liceum Ogólnokształcące,Szczecin,88,0,0,0,88
+55,Wojciech,Łowiec,III LO im. Marynarki Wojennej RP,Gdynia,70,0,7,10,87
+56,Bartosz,Szreder,VI LO im. W. Sierpińskiego,Gdynia,70,0,7,10,87
+57,Michał,Kijewski,III LO im. Marynarki Wojennej RP,Gdynia,0,45,0,40,85
+58,Bartosz,Janiak,I LO im. Mikołaja Kopernika,Łódź,0,18,36,30,84
+59,Michał,Pilipczuk,XIV LO im. Stanisława Staszica,Warszawa,30,27,7,20,84
+60,Marek,Wróbel,V LO im. Augusta Witkowskiego,Kraków,0,36,36,10,82
+61,Wojciech,Leja,LO WSIiZ,Rzeszów,70,0,0,10,80
+62,Michał,Chruszcz,I LO im. KEN w Sanoku,Sanok,70,0,0,10,80
+63,Artur,Dwornik,I LO im. Tadeusza Kościuszki,Konin,70,0,0,10,80
+64,Mateusz,Włoch,III LO im. Marynarki Wojennej RP,Gdynia,70,0,0,10,80
+65,Andrzej,Redlarski,Gdańskie Liceum Autonomiczne,Gdańsk,20,0,0,60,80
+66,Tomasz,Śniatowski,II LO im. Marii Konopnickiej,Opole,70,0,7,0,77
+67,Tomasz,Żołnowski,LO im. St. Małachowskiego,Płock,30,27,0,20,77

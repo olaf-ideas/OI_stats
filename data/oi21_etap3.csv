@@ -1,0 +1,101 @@
+lp.,imię i nazwisko,klasa,szkoła,miejscowość,far*,doo,mro,tur,lam,pan,zal,suma
+1,Jarosław Kwiecień,1,Zespół Szkół nr 14,Wrocław,0,100,100,20,30,100,100,450
+2,Stanisław Barzowski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,100,100,100,20,0,100,100,420
+3,Michał Glapa,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,40,50,100,20,10,100,100,380
+4,Albert Citko,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,100,100,0,20,100,58,378
+5,Maciej Hołubowicz,2,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,40,100,100,20,20,100,24,364
+6,Wojciech Jabłoński,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,100,100,20,20,68,50,358
+7,Jan Tabaszewski,1,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,100,100,20,20,17,100,357
+8,Szymon Łukasz,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,100,100,100,20,30,0,100,350
+9,Tomasz Garbus,2,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,100,100,100,20,0,68,32,320
+10,Paweł Burzyński,3,Gimnazjum nr 24 (Zespół Szkól Ogólnokształcących nr 1),Gdynia,100,17,100,0,0,100,100,317
+11,Albert Gutowski,3,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,100,100,100,20,30,30,32,312
+12,Jakub Cisło,3,II Liceum Ogólnokształcące,Mielec,0,30,100,20,30,20,100,300
+13,Sebastian Jaszczur,3,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,100,47,100,20,30,3,100,300
+14,Konrad Paluszek,2,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,46,100,20,30,100,0,296
+15,Marek Zbysiński (Warszawa),2,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,22,100,20,30,20,100,292
+16,Jan Gwinner,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,0,100,100,20,20,13,25,278
+17,Marek Sokołowski,3,I Liceum Ogólnokształcące im. Tadeusza Kościuszki,Łomża,100,100,100,20,20,13,25,278
+18,Karol Kaszuba,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,0,100,20,30,20,100,270
+19,Michał Zawalski,2,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,0,100,20,30,100,0,250
+20,Katarzyna Kowalska,2,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,12,100,20,30,0,81,243
+21,Michał Zieliński,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,100,72,100,20,20,22,8,242
+22,Michał Łuszczyk,3,Zespół Szkół Ogółnokształcących nr 1,Tarnów,100,20,100,20,30,20,50,240
+23,Paweł Wegner,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,100,20,20,0,0,240
+24,Franciszek Stokowacki,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,100,100,100,11,0,20,8,239
+25,Bartosz Łukasiewicz,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,20,50,9,30,76,50,235
+26,Przemysław Jakub Kozłowski,2,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,100,6,100,0,0,100,26,232
+27,Jakub Skorupski,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,50,100,20,30,23,0,223
+28,Adam Trzaskowski,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,0,60,20,20,33,90,223
+29,Tomasz Kościuszko,1,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,0,100,20,30,20,50,220
+30,Jakub Boguta,3,Gimnazjum im. św. Stanisława Kostki,Lublin,0,50,100,20,0,20,25,215
+31,Filip Czaplicki,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,20,17,100,20,30,19,25,211
+32,Jakub Staroń,3, V Liceum Ogólnokształcące,Bielsko-Biała,100,31,100,20,30,2,25,208
+33,Weronika Grzybowska,2,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,100,34,20,20,30,100,0,204
+34,Jarosław Dzikowski,3,Zespół Szkół nr 14,Wrocław,20,28,100,20,30,20,0,198
+35,Adam Kuczaj,2,Zespół Szkół nr 14,Wrocław,0,20,100,20,30,24,0,194
+36,Marcin Karpiński,3,I Liceum Ogólnokształcące,Jasło,100,20,100,20,30,20,0,190
+37,Jakub Łabaj,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,0,30,100,20,20,20,0,190
+38,Krzysztof Piesiewicz,1,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,100,0,100,20,0,20,50,190
+39,Mateusz Wytrwał,2,Zespół Szkół Ogólnokształcących Nr 2,Tarnów,100,16,100,20,30,20,0,186
+40,Paweł Solecki,2,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,20,20,100,11,30,24,0,185
+41,Maciej Kucharski,2,Zespół Szkół nr 14,Wrocław,0,24,100,20,20,20,0,184
+42,Kasper Radek,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,10,100,20,0,30,24,184
+43,Maciej Sypetkowski,1,I Liceum Ogólnokształcące,Krasnystaw,100,35,50,20,30,24,25,184
+44,Michał Tepper,1,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,100,27,60,20,20,20,32,179
+45,Zuzanna Pilat,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,100,30,100,20,10,0,16,176
+46,Magdalena Szarkowska,3,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,0,100,20,20,20,16,176
+47,Kamil Rychlewicz,3,I Liceum Ogólnokształcące,Łódź,100,25,100,20,30,0,0,175
+48,Adrian Naruszko,2,VI Liceum Ogólnokształcące,Radom,100,20,100,0,30,20,0,170
+49,Martyna Siejba,2,Zespół Szkół nr 14,Wrocław,100,30,100,20,0,20,0,170
+50,Bartosz Barwikowski,3,I Liceum Ogólnokształcące,Krosno,0,0,0,0,0,0,0,0
+51,Anna Białokozowicz,1,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,0,0,0,0,0,0,0
+52,Franciszek Budrowski,3,Społeczne Gimnazjum Nr 2 STO,Białystok,0,0,0,0,0,0,0,0
+53,Jakub Bujak,2,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,0,0,0,0,0,0,0
+54,Mateusz Chołołowicz,3,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,0,0,0,0,0,0,0
+55,Adam Chudaś,2,Zespół Szkół nr 14,Wrocław,0,0,0,0,0,0,0,0
+56,Albert Cieślak,2,II LIceum Ogólnokształcące ,Końskie,0,0,0,0,0,0,0,0
+57,Jan Derbisz,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,0,0,0,0,0,0,0,0
+58,Damian Dmochowski,4,Zespół Szkół nr 2 ,Ostrów Mazowiecka,0,0,0,0,0,0,0,0
+59,Agnieszka Dudek,1,Zespół Szkół nr 14,Wrocław,0,0,0,0,0,0,0,0
+60,Michał Figlus,3,I liceum Ogólnokształcące,Piotrków Trybunalski,0,0,0,0,0,0,0,0
+61,Szymon Gajda,1,II Liceum Ogólnokształcące,Zawiercie,0,0,0,0,0,0,0,0
+62,Jan Góra,3,I Liceum Ogólnokształcące im. Księcia Adama Jerzego Czartoryskiego,Puławy,0,0,0,0,0,0,0,0
+63,Marcin Gregorczyk,3,IV Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie,Olsztyn,0,0,0,0,0,0,0,0
+64,Tomasz Grześkiewicz,3,Gimnazjum nr 13 im. Stanisława Staszica,Warszawa,0,0,0,0,0,0,0,0
+65,Emil Hotkowski,3,Liceum Ogólnokształcace im. Stefana Żeromskiego,Żyrardów,0,0,0,0,0,0,0,0
+66,Łukasz Kempys,3,V Liceum Ogólnokształcące,Bielsko-Biała,0,0,0,0,0,0,0,0
+67,Eryk Kijewski,1,I Liceum Ogólnokształcące im. Marii Konopnickiej,Suwałki,0,0,0,0,0,0,0,0
+68,Dominik Klemba,2,XVIII Liceum Ogólnokształcące im. Jana Zamoyskiego,Warszawa,0,0,0,0,0,0,0,0
+69,Wiktoria Kośny,1,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,0,0,0,0,0,0,0
+70,Krzysztof Krawczyk,3,VIII Liceum Ogólnokształcące,Katowice,0,0,0,0,0,0,0,0
+71,Mateusz Lewko,2,Zespół Szkół nr 14,Wrocław,0,0,0,0,0,0,0,0
+72,Jan Ludziejewski,2,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,0,0,0,0,0,0,0,0
+73,Michał Łazowik,3,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,0,0,0,0,0,0,0,0
+74,Wojciech Mańke,3,VIII Liceum Ogólnokształcące im. Adama Mickiewicza,Poznań,0,0,0,0,0,0,0,0
+75,Jakub Marciniszyn,3,V Liceum Ogólnokształcące,Bielsko-Biała,0,0,0,0,0,0,0,0
+76,Martyna Mikoda,3,Publiczne Liceum Ogólnokształcące nr II z Oddz. Dwujęzycznymi im. M. Konopnickiej,Opole,0,0,0,0,0,0,0,0
+77,Miłosz Mokwa,2,Zespół Szkół Ogólnokształcących,Starogard Gdański,0,0,0,0,0,0,0,0
+78,Ngoc Khanh Nguyen,3,Zespół Szkół nr 14,Wrocław,0,0,0,0,0,0,0,0
+79,Jakub Obuchowski,1,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,0,0,0,0,0,0,0
+80,Jan Olkowski,3,Gimnazjum z Oddziałami Dwujęzycznymi Nr 42,Warszawa,0,0,0,0,0,0,0,0
+81,Michał Orawiec,2,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,0,0,0,0,0,0,0,0
+82,Franciszek Piszcz,3,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,0,0,0,0,0,0,0,0
+83,Julian Pszczołowski,2,Zespół Szkół nr 14,Wrocław,0,0,0,0,0,0,0,0
+84,Mateusz Puczel,3,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,0,0,0,0,0,0,0
+85,Piotr Pusz,2,Zespół Szkół nr 14,Wrocław,0,0,0,0,0,0,0,0
+86,Kamil Rajtar,2,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,0,0,0,0,0,0,0,0
+87,Łukasz Raszkiewicz,2,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,0,0,0,0,0,0,0
+88,Jakub Rówiński,3,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,0,0,0,0,0,0,0,0
+89,Jakub Schreiber,3,Zespół Szkół nr 14,Wrocław,0,0,0,0,0,0,0,0
+90,Karol Smolak,1,Liceum Ogólnokształcące,Ropczyce,0,0,0,0,0,0,0,0
+91,Jakub Sroka,3,I Liceum Ogólnokształcące,Rabka-Zdrój,0,0,0,0,0,0,0,0
+92,Jakub Szymon Stanecki,3,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,0,0,0,0,0,0,0
+93,Michał Stanisz,2,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,0,0,0,0,0,0,0,0
+94,Michał Swidziński,2,Zespół Szkół Ogólnokształcących nr 2,Białystok,0,0,0,0,0,0,0,0
+95,Marcin Szwarc,3,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,0,0,0,0,0,0,0,0
+96,Michał Wiatrowski,3,V Liceum Ogólnokształcące,Bielsko-Biała,0,0,0,0,0,0,0,0
+97,Krzysztof Wojculewicz,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,0,0,0,0,0,0,0
+98,Bartłomiej Wróblewski,2,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,0,0,0,0,0,0,0,0
+99,Michał Zabłocki,2,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,0,0,0,0,0,0,0,0
+100,Jakub Zadrożny,1,Liceum Ogólnokształcące nr III,Wrocław,0,0,0,0,0,0,0,0

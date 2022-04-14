@@ -1,0 +1,73 @@
+lp.,imię i nazwisko,klasa,szkoła,miejscowość,lam*,kup,tro,pod,sta,per,suma
+1,Jarosław Błasiok,2,VIII Liceum Ogólnokształcące,Katowice,0,100,100,100,90,86,476
+2,Marcin Kościelnicki,3,I LO im. Juliusza Słowackiego,Chorzów,50,99,45,100,100,100,444
+3,Marcin Andrychowicz,3,XIV LO im. Stanisława Staszica,Warszawa,0,100,41,100,100,100,441
+4,Maciej Klimek,3,II Liceum Ogólnokształcące,Gorzów Wlkp.,0,96,82,89,98,31,396
+5,Maciej Andrejczuk,3,I LO im. A. Mickiewicza,Białystok,20,70,82,100,100,31,383
+6,Tomasz Kłeczek,2,V LO im. Augusta Witkowskiego,Kraków,30,38,100,100,100,6,344
+7,Łukasz Marecik,3,III LO im. Adama Mickiewicza,Tarnów,30,100,27,92,79,30,328
+8,Marek Rogala,3,Ogólnokształcące Liceum Jezuitów,Gdynia,60,40,77,90,100,0,307
+9,Mateusz Litwin,2,III LO im. Marynarki Wojennej RP,Gdynia,30,31,100,46,100,22,299
+10,Jonasz Pamuła,3,V LO im. Augusta Witkowskiego,Kraków,20,60,27,100,100,12,299
+11,Anna Piekarska,1,XIV LO im. Polonii Belgijskiej,Wrocław,60,40,41,100,100,18,299
+12,Adam Polak,2,V LO im. Augusta Witkowskiego,Kraków,100,30,31,100,100,30,291
+13,Przemysław Mazur,3,II Liceum Ogólnokształcące,Kraków,100,30,93,52,100,12,287
+14,Mirosław Michalski,3,III LO im. Marynarki Wojennej RP,Gdynia,30,28,27,100,100,30,285
+15,Adam Iwaniuk,2,VI Liceum Ogólnokształcące,Białystok,79,55,27,70,100,30,282
+16,Tomasz Kociumaka,2,V Liceum Ogólnokształcące,Gliwice,39,20,100,30,100,18,268
+17,Bolesław Kulbabiński,3,I LO im. Stefana Żeromskiego,Kielce,30,30,100,30,100,6,266
+18,Wiktor Jakubiuk,2,Dulwich College,London,28,35,27,100,90,12,264
+19,Robert Obryk,3,V LO im. Augusta Witkowskiego,Kraków,100,48,0,45,70,93,256
+20,Michał Stachurski,3,I LO im. Mikołaja Kopernika,Jarosław,30,30,27,30,90,78,255
+21,Jakub Tlałka,1,XIV LO im. Stanisława Staszica,Warszawa,40,90,27,30,100,0,247
+22,Wojciech Baranowski,3,III LO im. Marynarki Wojennej RP,Gdynia,60,30,100,0,100,12,242
+23,Jakub Pachocki,1,III LO im. Marynarki Wojennej RP,Gdynia,100,50,0,0,100,91,241
+24,Jakub Oćwieja,2,V Liceum Ogólnokształcące,Bielsko-Biała,30,40,27,52,100,12,231
+25,Adam Chrabąszcz,3,I LO im. B. Nowodworskiego,Kraków,20,20,27,68,100,12,227
+26,Piotr Leszczyński,3,I LO im. Marii Konopnickiej,Suwałki,100,30,27,30,100,35,222
+27,Dominik Dudzik,3,V LO im. Augusta Witkowskiego,Kraków,0,40,27,42,100,12,221
+28,Radosław Burny,3,LO im. St. Małachowskiego ,Płock,0,30,27,100,50,12,219
+29,Adam Karczmarz,2,LO im. KEN,Stalowa Wola,0,0,45,100,65,0,210
+30,Michał Iwaniuk,2,XIV LO im. Stanisława Staszica,Warszawa,20,30,30,30,100,12,202
+31,Bartłomiej Wiśniewski,1,III LO im. Marynarki Wojennej RP,Gdynia,30,20,27,30,100,24,201
+32,Michał Sapalski,2,V LO im. Augusta Witkowskiego,Kraków,60,30,27,30,100,12,199
+33,Joachim Jelisiejew,3,I LO im. A. Mickiewicza,Białystok,20,0,100,8,50,32,190
+34,Jakub Adamek,2,V LO im. Augusta Witkowskiego,Kraków,30,30,27,30,90,12,189
+35,Łukasz Wołochowski,3,III LO im. Marynarki Wojennej RP,Gdynia,30,0,45,0,100,44,189
+36,Mateusz Baranowski,3,III LO im. Marynarki Wojennej RP,Gdynia,30,30,27,30,100,0,187
+37,Maciej Dębski,3,Gimnazjum nr 59 ,Warszawa,20,20,27,68,60,12,187
+38,Przemysław Bągard,3,Zespół Szkół,Strzyżów
+39,Tomasz Boczkowski,3,VIII Liceum Ogólnokształcące,Poznań
+40,Jan Burka,3,III LO im. Marynarki Wojennej RP,Gdynia
+41,Szymon Cofalik,2,II LO A. Frycza-Modrzewskiego,Rybnik
+42,Marcin Fatyga,2,I LO im. Stefana Żeromskiego,Kielce
+43,Grzegorz Graczyk,3,I LO im. Mikołaja Kopernika,Łódź
+44,Paweł Grynienko,3,Zespół Szkół Ogólnokształcących,Strzegom
+45,Piotr Karasiński,2,I Liceum Ogólnokształcące,Bełchatów
+46,Karol Konaszyński,2,XIV LO im. Polonii Belgijskiej,Wrocław
+47,Alan Kutniewski,1,XIII Liceum Ogólnokształcące,Szczecin
+48,Bartosz Lewiński,3,III LO im. Marynarki Wojennej RP,Gdynia
+49,Sebastian Łach,1,V LO im. Augusta Witkowskiego,Kraków
+50,Daniel Malinowski,2,VIII Liceum Ogólnokształcące,Katowice
+51,Grzegorz Marcinkowski,3,III LO im. Marynarki Wojennej RP,Gdynia
+52,Łukasz Mazurek,3,XIV LO im. St. Staszica,Warszawa
+53,Adam Obuchowicz,1,I LO ,Zielona Góra
+54,Krzysztof Pasek,3,I LO im. S. Żeromskiego,Zawiercie
+55,Krzysztof Pieprzak,2,XIV LO im. Polonii Belgijskiej,Wrocław
+56,Paweł Przytuła,3,III LO im. Marynarki Wojennej RP,Gdynia
+57,Marek Rogalski,3,XXXII LO im. H. Poświatowskiej,Łódź
+58,Damian Rusak,3,I LO im. T. Kościuszki,Legnica
+59,Bartłomiej Ryniec,1,I Liceum Ogólnokształcące,Łańcut
+60,Arkadiusz Socała,3,VIII Liceum Ogólnokształcące,Katowice
+61,Filip Stachura,3,III LO im. Marynarki Wojennej RP,Gdynia
+62,Piotr Suwara,1,XIV LO im. Stanisława Staszica,Warszawa
+63,Jacek Tomasiewicz,3,I LO im. A. Mickiewicza,Białystok
+64,Norbert Tusiński,3,ZSM-E ,Żywiec
+65,Paweł Walczak,1,III LO im. Marynarki Wojennej RP,Gdynia
+66,Paweł Wanat,2,V LO im. Augusta Witkowskiego,Kraków
+67,Eryk Wieliczko,2,III LO im. Marynarki Wojennej RP,Gdynia
+68,Michał Włodarczyk,3,XIV LO im. Stanisława Staszica,Warszawa
+69,Konrad Zabłocki,2,XIII Liceum Ogólnokształcące,Szczecin
+70,Łukasz Zatorski,3,X Liceum Ogólnokształcące,Wrocław
+71,Mateusz Zgierski,3,LO im. KEN,Stalowa Wola
+72,Paweł Żuk,1,I Liceum Ogólnokształcące,Słupsk

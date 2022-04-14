@@ -1,0 +1,44 @@
+lp.,imię,nazwisko,szkoła,miejscowość,spo,wys,mro,pod,suma
+1,Tomasz, Malesiński ,Zespół Szkół Elektrycznych, Białystok , 87 , 100 , 55 , 100 , 342 
+2,Paweł, Walter ,V LO im. A. Witkowskiego, Kraków , 49 , 100 , 54 , 90 , 293 
+3,Wojciech, Matyjewicz ,III LO im. Adama Mickiewicza, Tarnów , 36 , 100 , 45 , 100 , 281 
+4,Mateusz, Kwasnicki ,III Liceum Ogolnoksztalcace, Wroclaw , 0 , 66 , 82 , 100 , 248 
+5,Bartosz, Walczak ,V LO im. A. Witkowskiego, Kraków , 36 , 100 , 0 , 100 , 236 
+6,Paweł, Parys ,LO im. St. Staszica, Tarnowskie Góry , 24 , 100 , 0 , 100 , 224 
+7,Michał, Adamaszek ,V LO, Bielsko-Biała , 74 , 0 , 40 , 100 , 214 
+8,Karol, Cwalina ,XIV LO im. Stanisława Staszica, Warszawa , 24 , 73 , 9 , 100 , 206 
+9,Grzegorz, Herman ,V Liceum Ogólnokształcące, Kraków , 74 , 100 , 8 , 20 , 202 
+10,Tomasz, Kmiecik ,VIII LO im. M. Skłodowskiej-Curie, Katowice , 0 , 100 , 0 , 100 , 200 
+11,Michał, Mirosław ,I LO im. St. Staszica, Lublin , 62 , 0 , 54 , 80 , 196 
+12,Marcin, Pilipczuk ,XIV LO im. St. Staszica, Warszawa , 24 , 100 , 0 , 60 , 184 
+13,Grzegorz, Gutowski ,V Liceum Ogólnokształcące, Kraków , 0 , 57 , 23 , 100 , 180 
+14,Mateusz, Greszta ,XIII LO, Szczecin , 0 , 100 , 9 , 70 , 179 
+15,Maciej, Przewoźnik ,I LO, Gorzów Wielkopolski , 87 , 0 , 0 , 90 , 177 
+16,Andrzej, Pezarski ,VLO im. Augusta Witkowskiego, Kraków , 74 , 0 , 0 , 100 , 174 
+17,Jakub, Żytka ,I LO im. Edwarda Dembowskiego, Gliwice , 50 , 0 , 97 , 0 , 147 
+18,Michał, Zmarz ,V LO im. Augusta Witkowskiego, Kraków , 36 , 100 , 0 , 0 , 136 
+19,Filip, Noworyta ,II L.O. im. Marii Konopnickiej, Katowice , 27 , 83 , 0 , 20 , 130 
+20,Michał, Jaszczyk ,XIII L.O. w Szczecinie, Szczecin , 0 , 64 , 54 , 10 , 128 
+21,Michał, Bąk ,ZSO im. Mikołaja Kopernika, Żywiec , 62 , 0 , 53 , 10 , 125 
+22,Dariusz, Karcz ,Zesp. Szk. Mech.-Elektrycznych, Żywiec , 24 , 0 , 0 , 100 , 124 
+23,Krzysztof, Kluczek ,LO S. Żeromskiego, Bartoszyce , 12 , 0 , 12 , 100 , 124 
+24,Marek, Żylak ,I LO im. B.Prusa, Siedlce , 24 , 0 , 0 , 100 , 124 
+25,Bartosz, Sułkowski ,V LO, Bielsko-Biała , 87 , 0 , 35 , 0 , 122 
+26,Noe, Michejda ,VI LO im. T. Reytana, Warszawa , 0 , 0 , 40 , 80 , 120 
+27,Jakub, Piędel ,XIV LO im. St. Staszica, Warszawa , 12 , 0 , 18 , 90 , 120 
+28,Michał, Bartoszkiewicz ,XIV LO im. Polonii Belgijskiej, Wrocław , 24 , 0 , 54 , 40 , 118 
+29,Dawid, Huczek ,I LO im. J. Kasprowicza, Racibórz , 12 , 0 , 54 , 50 , 116 
+30,Piotr, Stańczyk ,XIV LO im. Stanisława Staszica, Warszawa , 48 , 0 , 18 , 50 , 116 
+31,Piotr, Stefaniak ,III LO im. Marynarki Wojennej RP, Gdynia , 87 , 0 , 9 , 20 , 116 
+32,Marcin, Michalski ,III LO im. Marynarki Wojennej RP, Gdynia , 24 , 0 , 0 , 90 , 114 
+33,Paweł, Gawrychowski ,XIV LO im. Polonii Belgijskiej, Wrocław , 0 , 0 , 9 , 100 , 109 
+34,Jarosław, Kutyłowski ,XIV Liceum Ogólnokształcące, Wrocław , 48 , 0 , 19 , 40 , 107 
+35,Arkadiusz, Pawlik ,V LO im. A. Witkowskiego, Kraków , 61 , 0 , 45 , 0 , 106 
+36,Grzegorz, Stelmaszek ,XIV LO im. Polonii Belgijskiej, Wroclaw , 12 , 0 , 0 , 90 , 102 
+37,Marcin, Machura ,VIII LO, Katowice , 0 , 0 , 0 , 100 , 100 
+38,Roman, Łomowski ,VI LO, Bydgoszcz , 0 , 0 , 0 , 100 , 100 
+39,Piotr, Cerobski ,XIV LO im. Stanisława Staszica, Warszawa , 74 , 0 , 18 , 0 , 92 
+40,Adam, Fuksa ,V Liceum Ogolnoksztalcace, Kraków , 36 , 0 , 54 , 0 , 90 
+41,Sławomir, Kolasiński ,Liceum Ogólnokształcące nr 1, Szczecin , 36 , 0 , 45 , 0 , 81 
+42,Grzegorz, Sobański ,VIII LO im. A. Mickiewicza, Poznań , 24 , 0 , 47 , 10 , 81 
+43,Kamil, Blank ,VI LO, Bydgoszcz , 12 , 0 , 18 , 50 , 80

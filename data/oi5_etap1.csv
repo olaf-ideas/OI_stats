@@ -1,0 +1,135 @@
+lp.,imię,nazwisko,szkoła,miejscowość,mal,wie,sum,abs,suma
+1, Marcin, Stefaniak,III L. O. im. Marynarki Wojennej RP, Gdynia,100,100,100,76,376
+2, Maciej, Żenczykowski,I L. O. im. B. Nowodworskiego, Kraków,100,100,100,68,368
+3, Przemysław, Broniek,V L. O. im. A. Witkowskiego, Kraków,100,90,100,63,353
+4, Michał, Nowakiewicz,XIV L. O. im. St. Staszica, Warszawa,100,100,100,52,352
+5, Kamil, Kloch,I L. O. im. B. Nowodworskiego, Kraków,100,100,100,52,352
+6, Jerzy, Ziemiański,I L. O. im. ks. S. Konarskiego, Rzeszów,100,100,100,52,352
+7, Tomasz, Czajka,L. O. im. Komisji Edukacji Narodowej, Stalowa Wola,100,100,100,52,352
+8, Agata, Godlewska,V L. O. im. J. Poniatowskiego, Warszawa,100,100,100,52,352
+9, Marek, Gibek,Zespół Szkół Łączności, Kraków,70,100,92,88,350
+10, Łukasz, Kamiński,IV L. O. im. T. Kościuszki, Toruń,100,70,100,76,346
+11, Tomasz, Szydło,IV L. O. im. M. Kopernika, Rzeszów,100,100,100,44,344
+12, Marcin, Kielar,I L. O. im. St. Leszczyńskiego, Jasło,100,100,100,44,344
+13, Paweł, Dąbrowski,L. O. im. Kazimierza Wielkiego, Brzozów,100,91,100,52,343
+14, Paweł, Kowalik,VIII L. O. im. A. Mickiewicza, Gdańsk,100,100,92,49,341
+15, Rafał, Rusin,II L. O. im. L. Lisa-Kuli, Rzeszów,100,80,100,60,340
+16, Łukasz, Anforowicz,VI L. O. im. J. i J. Śniadeckich, Bydgoszcz,100,70,100,68,338
+17, Tomasz, Dobrowolski,IX L. O., Gdańsk,70,100,100,68,338
+18, Paweł, Firlej,Zespół Szkół Ogólnokszt. im. St. Dubois, Koszalin,100,100,100,36,336
+19, Paweł, Wolff,V L. O., Zielona Góra,100,100,100,36,336
+20, Bazyli, Blicharski,Zespół Szkół Ogólnokszt. im. St. Dubois, Koszalin,100,81,100,52,333
+21, Wojciech, Dudek,Zespół Szkół im. C. K. Norwida, Częstochowa,100,80,100,52,332
+22, Krzysztof, Kowalski,VIII L. O. im. A. Mickiewicza, Poznań,70,100,100,60,330
+23, Ignacy, Kowalczyk,I L. O. im. M. Kopernika, Gdańsk,70,90,100,70,330
+24, Adam, Leszczyński,LI L. O. im. T. Kościuszki, Warszawa,60,100,100,69,329
+25, Daniel, Brylak,I L. O. im. T. Kościuszki, Legnica,100,100,100,28,328
+26, Maciej, Jabłoński,XIX L. O., Poznań,60,100,100,68,328
+27, Paweł, Fic,XIII L. O., Gdańsk,100,100,100,28,328
+28, Jacek, Dąbrowski,II L. O. im. K. I. Gałczyńskiego, Olsztyn,100,100,100,28,328
+29, Adam, Koprowski,XXVII L. O. im. T. Czackiego, Warszawa,100,100,92,36,328
+30, Tomasz, Arodź,V L. O. im. A. Witkowskiego, Kraków,100,100,100,27,327
+31, Mariusz, Dziewierz,L. O. im. T. Kościuszki, Busko-Zdrój,100,81,100,44,325
+32, Łukasz, Cieśla,IV L. O. im. Kazimierza Wielkiego, Bydgoszcz,100,70,100,52,322
+33, Remigiusz, Różycki,V L. O. im. A. Asnyka, Szczecin,100,70,84,68,322
+34, Przemysław, Rekucki,Społeczne L. O., Warszawa,100,100,100,20,320
+35, Dariusz, Jabłonowski,III L. O. im. Marynarki Wojennej, Gdynia,100,100,100,20,320
+36, Piotr, Przytycki,XIV L. O. im. St. Staszica, Warszawa,100,100,100,20,320
+37, Marek, Biegański,I L. O. im. St. Konarskiego, Mielec,70,100,100,50,320
+38, Bartłomiej, Waszak,L. O. Towarzystwa Salezjańskiego, Aleksandrów Kuj.,100,100,100,20,320
+39, Janusz, Gregorczyk,V L. O. im. A. Asnyka, Szczecin,100,50,100,68,318
+40, Maciej, Warchol,Zespół Szkół Ogólnokształcących, Bystrzyca Kłodzka,96,100,100,20,316
+41, Marek, Madej,I L. O. im. St. Konarskiego, Mielec,70,100,100,44,314
+42, Krzysztof, Onak,III L. O. im. A. Mickiewicza, Tarnów,61,100,100,52,313
+43, Krzysztof, Mieloch,L. O. im. M. Skłodowskiej-Curie, Strzelin,100,100,100,12,312
+44, Eryk, Kopczyński,XIV L. O. im. St. Staszica, Warszawa,100,60,100,52,312
+45, Adam, Rudnicki,V L. O. im. A. Witkowskiego, Kraków,100,100,100,12,312
+46, Dominik, Wojtczak,III L. O. im. Marynarki Wojennej RP, Gdynia,100,60,100,52,312
+47, Robert, Szefler,IV L. O. im. T. Kościuszki, Toruń,100,100,84,28,312
+48, Marcin, Mościcki,I Społeczne L. O., Warszawa,70,100,100,40,310
+49, Jarosław, Duda,L. O. im. Władysława Jagiełły, Dębica,100,81,100,28,309
+50, Marcin, Dec,I L. O. im. St. Konarskiego, Mielec,70,100,100,36,306
+51, Michał, Dućka,V L. O. im. A. Mickiewicza, Częstochowa,100,100,84,20,304
+52, Jacek, Błaszczyk,VIII L. O. im. A. Mickiewicza, Poznań,60,91,100,52,303
+53, Jerzy, Bałamut,IV L. O. im. M. Kopernika, Rzeszów,100,91,100,12,303
+54, Jarosław, Czaja,Zespół Szkół Elektryczno-Elektronicznych, Bytom,60,81,100,60,301
+55, Przemysław, Węgrzyn,Zespół Szkół Ogólnokształcących i Zawod., Krosno Odrzańskie,100,100,100,0,300
+56, Robert, Lubczyński,Zespół Szkół im. K. Kosińskiego, Kłobuck,100,100,100,0,300
+57, Piotr, Dobrowolski,I L. O. im. J. Długosza, Nowy Sącz,100,100,100,0,300
+58, Andrzej, Gąsienica-Samek,XIV L. O. im. St. Staszica, Warszawa,100,100,100,0,300
+59, Marcin, Poturalski,IV L. O. im. T. Kościuszki, Toruń,32,100,100,68,300
+60, Dariusz, Kleszczewski,Zespół Szkół Budowlano-Elektrycznych, Augustów,60,100,100,39,299
+61, Robert, Ratajski,XII L. O. im. St. Wyspiańskiego, Łódź,70,60,100,68,298
+62, Michał, Piątkowski,V L. O. im. A. Witkowskiego, Kraków,100,78,100,20,298
+63, Jakub, Przewoźnik,I L. O. im. T. Kościuszki, Gorzów Wlkp.,100,60,100,37,297
+64, Stanisław, Findeisen,XXVII L. O. im. T. Czackiego, Warszawa,41,88,100,68,297
+65, Łukasz, Szkup,II L. O. im. Piastów Śląskich, Wrocław,70,60,100,66,296
+66, Michał, Adamczak,V L. O. im. A. Witkowskiego, Kraków,100,60,100,36,296
+67, Michał, Wroński,I L. O. im. M. Kopernika, Gdańsk,70,80,100,45,295
+68, Tomasz, Helbing,XIV L. O. im. St. Staszica, Warszawa,100,90,92,12,294
+69, Wojciech, Jaworski,XIV L. O. im. St. Staszica, Warszawa,100,100,92,0,292
+70, Piotr, Maceluch,Zespół Szkół Ogólnokszt. im. St. Dubois, Koszalin,100,100,56,36,292
+71, Krzysztof, Garus,L. O. im. St. Staszica, Zgierz,100,31,100,60,291
+72, Arkadiusz, Adamczak,L. O., Morąg,100,90,100,0,290
+73, Maksymilian, Ortyl,I L. O. im. St. Konarskiego, Mielec,60,100,100,28,288
+74, Andrzej, Partyka,IV L. O. im. M. Kopernika, Rzeszów,60,100,100,28,288
+75, Ngo, Chi Lang,II L. O. im. S. Batorego, Warszawa,100,60,100,28,288
+76, Grzegorz, Czaja,XXVIII L. O. im. J. Kochanowskiego, Warszawa,51,60,100,76,287
+77, Piotr, Wieczorek,L. O. im. A. Mickiewicza, Dobrodzień,100,51,100,36,287
+78, Paweł, Krześniak,VI L. O. im.J. Słowackiego, Kielce,70,70,100,44,284
+79, Tomasz, Kowalski,I L. O. im. M. Kopernika, Łódź,100,100,84,0,284
+80, Marcin, Wojnarski,Katolickie L. O. Zakonu Pijarów, Kraków,70,60,100,52,282
+81, Przemysław, Ryba,VI L. O. im. J. i J. Śniadeckich, Bydgoszcz,90,60,100,32,282
+82, Marek, Goebel,V L. O. im. A. Mickiewicza, Częstochowa,100,70,100,12,282
+83, Michał, Rein,IV L. O. im. Kazimierza Wielkiego, Bydgoszcz,60,70,100,52,282
+84, Michał, Kosek,V L. O. im. A. Witkowskiego, Kraków,70,100,100,12,282
+85, Michał, Sidor,VI L. O. im. W. Sierpińskiego, Gdynia,70,100,100,12,282
+86, Tomasz, Malesiński,Zespól Szkół Elektrycznych, Białystok,70,100,60,52,282
+87, Paweł, Terlecki,XIV L. O. im. St. Staszica, Warszawa,100,70,100,12,282
+88, Filip, Różycki,I L. O. im. A. Mickiewicza, Białystok,70,51,100,60,281
+89, Michał, Antkiewicz,I L. O. im. M. Kopernika, Bielsko-Biała,60,100,76,44,280
+90, Maciej, Kujałowicz,Zespół Szkół Ogólnokszt. im. St. Dubois, Koszalin,87,41,100,52,280
+91, Jacek, Szklarski,XIV L. O., Szczecin,60,60,84,76,280
+92, Konrad, Kwiatkowski,III L. O. w ZSE, Krosno,51,100,100,29,280
+93, Mariusz, Paradowski,XX L. O., Wrocław,60,89,100,28,277
+94, Arkadiusz, Jestratjew,Techniczne Zakłady Naukowe, Dąbrowa Górnicza,100,41,76,60,277
+95, Mikołaj, Zalewski,I L. O. im. B. Nowodworskiego, Kraków,90,91,60,36,277
+96, Roman, Trylski,VI L. O. im. J. Słowackiego, Kielce,70,70,92,44,276
+97, Gracjan, Polak,III L. O. im. J. Kochanowskiego, Kraków,80,60,100,36,276
+98, Wojciech, Matyjewicz,Szkoła Podstawowa nr 16, Tarnów,70,100,84,20,274
+99, Jan, Chmiel,VIII L. O. im. A. Mickiewicza, Poznań,100,81,92,0,273
+100, Grzegorz, Andruszkiewicz,XVIII L. O. im. J. Zamoyskiego, Warszawa,60,60,92,60,272
+101, Maciej, Modelski,III L. O. im. A. Mickiewicza, Wrocław,60,60,100,52,272
+102, Przemysław, Biecek,V L.O.im.A.Mickiewicza, Częstochowa,70,82,92,28,272
+103, Paweł, Ziniewicz,Zespól Szkół Elektrycznych, Białystok,60,60,100,52,272
+104, Dariusz, Wlaź,L. O. im. B. Głowackiego, Tomaszów Lub.,60,60,100,52,272
+105, Marcin, Ślusarczyk,II L. O. im. Ziemi Olkuskiej, Olkusz,60,50,100,60,270
+106, Rafał, Kochaniak,XXXI L. O. im. L. Zamenhofa, Łódź,60,100,60,50,270
+107, Tomasz, Pylak,II L. O. im. A. F. Modrzewskiego, Włodawa,50,100,100,20,270
+108, Tomasz, Pawicki,XIV L. O. im. Polonii Belgijskiej, Wrocław,33,100,100,36,269
+109, Szymon, Kuklewicz,I L. O. im. M. Konopnickiej, Suwałki,50,50,100,68,268
+110, Łukasz, Zaręba,I L. O. im. S. Żeromskiego, Kielce,60,50,100,58,268
+111, Jakub, Lipiński,I L. O. im. J. Długosza, Nowy Sącz,100,100,68,0,268
+112, Grzegorz, Englot,I L. O. im. B. Nowodworskiego, Kraków,0,99,100,68,267
+113, Aleksander, Kowalczyk,VI L. O. im. W. Sierpińskiego, Gdynia,70,70,91,36,267
+114, Wiktor, Miszuris,IV L. O im. M. Kopernika, Rzeszów,70,60,84,52,266
+115, Szymon, Zięba,I L. O. im. M. Kopernika, Bielsko-Biała,38,100,100,28,266
+116, Jakub, Górski,III L. O. im. M. Konopnickiej, Włocławek,60,70,68,68,266
+117, Kamil, Blank,Szkoła Podstawowa nr 64, Bydgoszcz,60,53,100,52,265
+118, Bulek, Mariusz,"ZSZ Elektrowni ""Jaworzno"" S. A.", Jaworzno,60,60,84,60,264
+119, Paweł, Buchaniec,Katolickie L. O. Zakonu Pijarów, Kraków,60,60,92,52,264
+120, Grzegorz, Paździor,I L. O. im. T. Kościuszki, Legnica,60,60,92,52,264
+121, Bartosz, Nowierski,VIII L. O. im. A. Mickiewicza, Poznań,60,60,100,44,264
+122, Grzegorz, Rycko,Zespół Szkół Elektronicznych, Rzeszów,60,60,100,44,264
+123, Grzegorz, Głowaty,Zespół Szkół Elektronicznych i Ogólnokszt., Przemyśl,60,60,100,41,261
+124, Marcin, Ustrzycki,Zespół Szkół Ekonomicznych, Ośno Lubuskie,60,41,100,60,261
+125, Marcin, Stefaniak ,III LO im. Stanisława Staszica, Siedlce,60,49,84,67,260
+126, Bartosz, Wieloch,L. O. im. T. Kościuszki, Jarocin,60,80,100,20,260
+127, Krzysztof, Benedyczak,I L. O. im. M. Kopernika, Gdańsk,42,81,100,36,259
+128, Marek, Wieczorek,I L. O. im. S. Staszica, Lublin,60,60,100,39,259
+129, Adam, Zakrzewski,XVII L. O. im. A. Frycza-Modrzewskiego, Warszawa,70,60,100,28,258
+130, Noe, Nemś,XXVIII L. O. im. J. Kochanowskiego, Warszawa,60,70,100,28,258
+131, Arkadiusz, Janin,II L. O. im. Ziemi Olkuskiej, Olkusz,60,60,68,68,256
+132, Paweł, Pabich,III L. O. im. A. Mickiewicza, Wrocław,60,60,100,36,256
+133, Jerzy, Królak,VI L. O. im. J. i J. Śniadeckich, Bydgoszcz,100,60,28,68,256
+134, Dominik, Pyrda,II L. O. im. J. Tarnowskiego, Tarnów,60,51,92,52,255

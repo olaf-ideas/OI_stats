@@ -1,0 +1,95 @@
+lp.,imię i nazwisko,klasa,nazwa szkoły,miejscowość,województwo,piz*,mid,oce,zap,kuc,roz,suma
+1,Mariusz Trela,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,100,100,100,50,100,100,450
+2,Jan Olkowski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,100,100,92,100,57,449
+3,Stanisław Strzelecki,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,100,100,52,92,100,100,444
+4,Mieszko Grodzicki,3G,Publiczne Gimnazjum z Oddziałami Integracyjnymi nr 2 im. Adama Mickiewicza,Pionki,mazowieckie,25,100,75,92,100,18,385
+5,Anadi Agrawal,1LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej,Wrocław,dolnośląskie,100,100,58,92,100,32,382
+6,Maciej Nadolski,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,6,100,100,92,20,57,369
+7,Damian Burczyk,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,100,100,100,0,68,97,365
+8,Krzysztof Małysa,3LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,24,100,100,20,100,40,360
+9,Rafał Łyżwa,3LO,VI Liceum Ogólnokształcące im. Jana Kochanowskiego,Radom,mazowieckie,100,100,73,92,68,21,354
+10,Franciszek Budrowski,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,100,100,100,92,20,32,344
+11,Kacper Kluk,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,12,100,96,12,100,36,344
+12,Artur Puzio,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,100,100,100,12,100,32,344
+13,Jan Lebioda,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,100,100,100,0,100,36,336
+14,Krzysztof Pióro,3LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,100,24,92,100,18,334
+15,Tomasz Ponitka,2LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej,Wrocław,dolnośląskie,0,100,52,20,100,57,329
+16,Juliusz Pham,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,100,100,72,20,100,32,324
+17,Michał Górniak,3LO,I Liceum Ogólnokształcące im. Tadeusza Kościuszki,Legnica,dolnośląskie,100,100,80,80,20,32,312
+18,Paweł Pawlik,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,100,100,100,92,20,0,312
+19,Jakub Boguta,3LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,lubelskie,100,100,38,20,100,48,306
+20,Kacper Walentynowicz,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,100,100,52,92,20,40,304
+21,Paweł Burzyński,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,100,100,100,62,20,0,282
+22,Przemysław Podleśny,2LO,II Liceum Ogólnokształcące im. Piotra Firleja,Lubartów,lubelskie,100,100,63,0,100,18,281
+23,Mateusz Gienieczko,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,100,100,45,92,32,10,279
+24,Wojciech Bączkowski,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,59,100,32,56,68,18,274
+25,Paweł Charyło,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,100,100,70,84,20,0,274
+26,Michał Siennicki,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,100,100,19,20,91,32,262
+27,Paweł Anikiel,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,64,96,32,0,100,32,260
+28,Stanisław Szcześniak,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,100,100,100,20,20,18,258
+29,Kamil Piechowiak,3LO,VIII Liceum Ogólnokształcące im. Adama Mickiewicza,Poznań,wielkopolskie,60,100,96,20,20,18,254
+30,Piotr Kowalewski,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,64,100,59,92,0,0,251
+31,Krzysztof Potępa,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,64,100,0,50,100,0,250
+32,Bartłomiej Wacławik,1LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,24,100,32,0,100,18,250
+33,Piotr Borowski,3LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,lubelskie,24,100,52,0,89,0,241
+34,Piotr Nawrot,2LO,VI Liceum Ogólnokształcące im. Jana Kochanowskiego,Radom,mazowieckie,64,100,52,68,20,0,240
+35,Jacek Salata,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,60,91,26,0,100,18,235
+36,Jakub Kubacki,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,64,100,44,0,20,69,233
+37,Antoni Żewierżejew,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,100,100,11,68,20,32,231
+38,Filip Gobis,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,8,87,32,92,12,0,223
+39,Krystian Król,2LO,VI Liceum Ogólnokształcące im. Jana Kochanowskiego,Radom,mazowieckie,12,100,70,0,20,32,222
+40,Wojciech Szymański,2LO,VI Liceum Ogólnokształcące im. Jana Kochanowskiego,Radom,mazowieckie,100,92,64,0,20,32,208
+41,Mateusz Rzepecki,2LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,dolnośląskie,0,100,73,0,20,10,203
+42,Zuzanna Opała,3LO,Liceum Akademickie w Zespole Szkół Uniwersytetu Mikołaja Kopernika,Toruń,kujawsko-pomorskie,12,100,32,0,68,0,200
+43,Mateusz Orda,2LO,Liceum Ogólnokształcące nr III im. Adama Mickiewicza,Wrocław,dolnośląskie,18,100,52,0,20,18,190
+44,Grzegorz Gawryał,2LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,64,49,100,0,20,18,187
+45,Iwona Kotlarska,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,100,32,12,20,21,185
+46,Rafał Czarnecki,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,100,52,0,16,10,178
+47,Michał Łopata,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,100,100,62,0,16,0,178
+48,Konrad Staniszewski,3LO,VI Liceum Ogólnokształcące im. Jana Kochanowskiego,Radom,mazowieckie,64,100,0,20,20,32,172
+49,Karolina Gabara,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,100,52,0,0,18,170
+50,Mateusz Cegiełka,1LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,12,100,24,0,12,32,168
+51,Tomasz Nowak (Warszawa),2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,100,95,52,0,20,0,167
+52,Paweł Sawicki,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,8,100,62,0,0,0,162
+53,Adam Pawłowski,2LO,VIII Liceum Ogólnokształcące im. Adama Mickiewicza,Poznań,wielkopolskie,100,65,44,0,20,32,161
+54,Karol Górski,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,64,76,26,46,12,0,160
+55,Arkadiusz Kоzdrа,2LO,Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej,Wrocław,dolnośląskie,2,100,32,0,16,10,158
+56,Jakub Bartmiński,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,100,32,0,20,0,152
+57,Konrad Czapliński,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,100,32,0,20,0,152
+58,Rafał Maj,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,31,100,0,32,20,0,152
+59,Patryk Pęczak,3LO,I Liceum Ogólnokształcące im. Tadeusza Kościuszki,Legnica,dolnośląskie,0,100,32,0,20,0,152
+60,Małgorzata Biegała,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,0,0,0,0
+61,Damian Chańko,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,0,0,0,0,0,0
+62,Adam Cichy,1LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,0,0,0,0,0,0
+63,Witalis Domitrz,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,0,0,0,0
+64,Michał Gliński,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,0,0,0,0
+65,Adrian Górecki,1LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,0,0,0,0
+66,Piotr Grabowski,3LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,lubelskie,0,0,0,0,0,0,0
+67,Tomasz Grześkiewicz,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,0,0,0,0
+68,Stanisław Gutowski,1LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,lubelskie,0,0,0,0,0,0,0
+69,Dawid Herman,2LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,0,0,0,0,0,0
+70,Dawid Jamka,2LO,VI Liceum Ogólnokształcące im. Jana Kochanowskiego,Radom,mazowieckie,0,0,0,0,0,0,0
+71,Łukasz Kamiński,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,0,0,0,0
+72,Michał Kardaś,3LO,II Liceum Ogólnokształcące im. Konstantego Ildefonsa Gałczyńskiego,Olsztyn,warmińsko-mazurskie,0,0,0,0,0,0,0
+73,Rafał Kilar,2LO,I Liceum Ogólnokształcące im. Mikołaja Kopernika,Krosno,podkarpackie,0,0,0,0,0,0,0
+74,Jan Klinkosz,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,0,0,0,0,0,0
+75,Kuba Krawczyk,2LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,0,0,0,0
+76,Piotr Kuczko,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,0,0,0,0,0,0
+77,Robert Laskowski,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,0,0,0,0
+78,Sebastian Michoń,3LO,III Liceum Ogólnokształcące im. św. Jana Kantego,Poznań,wielkopolskie,0,0,0,0,0,0,0
+79,Michał Niciejewski,3LO,XIII Liceum Ogólnokształcące,Szczecin,zachodniopomorskie,0,0,0,0,0,0,0
+80,Wojciech Olejniczak,3LO,Liceum Akademickie w Zespole Szkół Uniwersytetu Mikołaja Kopernika,Toruń,kujawsko-pomorskie,0,0,0,0,0,0,0
+81,Bartosz Pieszko,3LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,0,0,0,0,0,0
+82,Mateusz Rychlicki,3LO,VI Liceum Ogólnokształcące im. Jana Kochanowskiego,Radom,mazowieckie,0,0,0,0,0,0,0
+83,Szymon Salabura,2LO,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,małopolskie,0,0,0,0,0,0,0
+84,Kasper Sapała,4,Zespół Szkół Łączności im. Obrońców Poczty Polskiej,Kraków,małopolskie,0,0,0,0,0,0,0
+85,Marcin Serwin,3LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,0,0,0,0,0,0
+86,Konstanty Subbotko,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,0,0,0,0
+87,Fryderyk Sucharczuk,3LO,I Liceum Ogólnokształcące im. Stanisława Staszica,Lublin,lubelskie,0,0,0,0,0,0,0
+88,Szymon Tworkowski,2LO,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,podlaskie,0,0,0,0,0,0,0
+89,Grzegorz Eugeniusz Uriasz,3LO,I Liceum Ogólnokształcące im. Mikołaja Kopernika,Krosno,podkarpackie,0,0,0,0,0,0,0
+90,Maciej Walczak,3LO,XIV Liceum Ogólnokształcące im. Stanisława Staszica,Warszawa,mazowieckie,0,0,0,0,0,0,0
+91,Piotr Wojtczak,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,0,0,0,0,0,0
+92,Piotr Wójcik,3LO,II Liceum Ogólnokształcące im. Cypriana Kamila Norwida,Ostrołęka,mazowieckie,0,0,0,0,0,0,0
+93,Krzysztof Ziobro,2LO,V Liceum Ogólnokształcące im. Augusta Witkowskiego,Kraków,małopolskie,0,0,0,0,0,0,0
+94,Marek Żochowski,3LO,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,pomorskie,0,0,0,0,0,0,0

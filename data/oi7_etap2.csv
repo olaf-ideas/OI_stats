@@ -1,0 +1,45 @@
+lp.,imię,nazwisko,szkoła,miejscowość,aut,tro,kod,lab,suma
+1,Tomasz,Czajka,L. O. im. KEN, Stalowa Wola,60,40,50,50,200
+2,Krzysztof,Onak,III L. O. im. A. Mickiewicza, Tarnów,60,28,50,50,188
+3,Tomasz,Malesiński,Z. S. Elektr. im. J. Groszkowskiego, Białystok,51,32,50,50,183
+4,Paweł,Parys,I L. O. im. S. Staszica, Tarnowskie Góry,30,40,50,48,168
+5,Rafał,Rusin,II L. O. im. L. Lisa-Kuli, Rzeszów,30,32,50,43,155
+6,Paweł,Walter,V L. O. im. A. Witkowskiego, Kraków,30,40,50,30,150
+7,Marcin,Wojnarski,Katolickie L. O. Księży Pijarów, Kraków,46,0,50,50,146
+8,Grzegorz,Herman,V L. O. im. A. Witkowskiego , Kraków,45,20,50,30,145
+9,Wojciech,Matyjewicz,III L. O. im. A. Mickiewicza, Tarnów,30,40,50,22,142
+10,Marek,Gibek,Technikum Łączności, Kraków,30,40,50,17,137
+11,Adrian,Adamiak,I L. O. im. KEN, Sanok,30,12,50,36,128
+12,Przemysław,Broniek,V L. O. im. A. Witkowskiego, Kraków,25,40,25,37,127
+13,Władysław,Bodzek,I Katolickie L. O. im. Jana III Sobieskiego, Bydgoszcz,30,15,50,30,125
+14,Michał,Malinowski,I L. O. im. J. Śniadeckiego, Pabianice,5,40,50,24,119
+15,Roman,Łomowski,VI L. O. im. J. i J. Śniadeckich, Bydgoszcz,40,0,50,25,115
+16,Jan,Chmiel,VIII L. O. im. A. Mickieiwcza, Poznań,25,40,50,0,115
+17,Jan,Jeżabek,V L. O. im. A. Witkowskiego, Kraków,30,0,50,30,110
+18,Michał,Kozłowski,II L. O. im. A. F. Modrzewskiego, Włodawa,25,36,15,33,109
+19,Jacek,Erd,VI L. O. im. J. Kochanowskiego, Radom,0,40,50,18,108
+20,Tomasz,Dobrowolski,IX L. O., Gdańsk,35,40,18,14,107
+21,Filip,Noworyta,II L. O. im. M. Konopnickiej, Katowice,10,40,6,50,106
+22,Sławomir,Sadziak,XIV L. O. im. S. Staszica, Warszawa,25,4,50,27,106
+23,Tomasz,Szydło,IV L. O. im. M. Kopernika, Rzeszów,25,12,50,15,102
+24,Krzysztof,Kluczek,L. O. im. S. Żeromskiego, Bartoszyce,25,8,19,44,96
+25,Piotr,Skibiński,IV L. O. im. M. Kopernika, Rzeszów,5,12,50,24,91
+26,Piotr,Malinowski,I L. O. im. J. Śniadeckiego, Pabianice,5,40,19,27,91
+27,Michał,Adamaszek,V L. O. , Bielsko-Biała,0,40,50,0,90
+28,Grzegorz,Stelmaszek,XIV L. O. im. Poloni Belgijskiej, Wrocław,0,40,50,0,90
+29,Paweł,Stawicki,Z. S. Elektronicznych im. S. Staszica, Zduńska Wola,25,12,9,43,89
+30,Marcin,Zawadzki,III L. O. im. Marynarki Wojennej RP, Gdynia,0,40,12,36,88
+31,Dominik,Wojtczak,III L. O. im. Marynarki Wojennej RP , Gdynia,0,16,50,21,87
+32,Krzysztof,Ocetkiewicz,VI L. O. im. J. i J. Śniadeckich , Bydgoszcz,15,12,50,10,87
+33,Igor,Gocaliński,III L.O. , Zabrze,30,0,50,6,86
+34,Michał,Michalski,II L. O. im. M. Konopnickiej , Opole,5,32,17,32,86
+35,Tomasz,Kolinko,Z. S. Elektrycznych i Telekomunik. , Olsztyn,5,40,9,25,79
+36,Karol,Cwalina,XIV L. O. im. S. Staszica, Warszawa,25,0,43,11,79
+37,Jakub,Piędel,XIV L. O. im. S. Staszica, Warszawa,5,40,15,17,77
+38,Kamil,Skalski,V L. O. im. L. Kruczkowskiego, Bydgoszcz,5,24,9,38,76
+39,Grzegorz,Łukasik,V L. O. im. A. Witkowskiego , Kraków,10,0,15,50,75
+40,Tomasz,Pyra,Gdyńskie Liceum Autorskie, Gdynia,0,0,50,24,74
+41,Michał,Kosek,V L. O. im. A. Witkowskiego , Kraków,30,0,34,10,74
+42,Piotr,Kowalski,II L. O. im. J. Chreptowicza, Ostrowiec Święt.,15,12,19,27,73
+43,Rafał,Piechocki,XIII L. O. im. C. Ratajskiego , Poznań,0,38,6,29,73
+44,Stanisław,Wierchoła,I L. O. im. S. Staszica, Lublin,0,40,19,12,71

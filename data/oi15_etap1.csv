@@ -1,0 +1,395 @@
+lp.,imię,nazwisko,klasa,szkoła,miejscowość,clo,pla,rob,klo,szk,suma
+1,Mateusz,Baranowski,2,III LO im. Marynarki Wojennej RP,Gdynia,100,100,100,100,100,500
+2,Wojciech,Baranowski,3,III LO im. Marynarki Wojennej RP,Gdynia,100,100,100,100,100,500
+3,Dominik,Dudzik,2,V LO im. A. Witkowskiego,Kraków,100,100,100,100,100,500
+4,Wojciech,Jamrozy,3,II Liceum Ogólnokształcące,Mielec,100,100,100,100,100,500
+5,Maciej,Klimek,1,II LO im. Marii Skłodowskiej-Curie,Gorzów Wlkp.,100,100,100,100,100,500
+6,Kamil,Kuźmicki,2,V LO im. A. Witkowskiego,Kraków,100,100,100,100,100,500
+7,Piotr,Leszczyński,2,I LO im. Marii Konopnickiej,Suwałki,100,100,100,100,100,500
+8,Mateusz,Litwin,2,III LO im. Marynarki Wojennej RP,Gdynia,100,100,100,100,100,500
+9,Łukasz,Marecik,3,III LO im. Adama Mickiewicza,Tarnów,100,100,100,100,100,500
+10,Adam,Polak,2,V LO im. A. Witkowskiego,Kraków,100,100,100,100,100,500
+11,Marek,Rogala,3,Ogólnokształcące Liceum Jezuitów,Gdynia,100,100,100,100,100,500
+12,Michał,Sapalski,2,V LO im. A. Witkowskiego,Kraków,100,100,100,100,100,500
+13,Paweł,Walczak,1,III LO im. Marynarki Wojennej RP,Gdynia,100,100,100,100,100,500
+14,Arkadiusz,Socała,3,VIII LO im. Marii Skłodowskiej-Curie,Katowice,100,100,99,100,100,499
+15,Jakub,Adamek,2,V LO im. A. Witkowskiego,Kraków,100,100,98,100,100,498
+16,Jacek,Szmigiel,2,V LO im. A. Witkowskiego,Kraków,100,100,98,100,100,498
+17,Bolesław,Kulbabiński,3,I LO im. Stefana Żeromskiego,Kielce,100,100,97,100,100,497
+18,Robert,Obryk,3,V LO im. A. Witkowskiego,Kraków,100,100,100,100,93,493
+19,Tomasz,Kociumaka,2,V Liceum Ogólnokształcące,Gliwice,100,100,100,91,100,491
+20,Arkadiusz,Betkier,2,XIV LO im. Stanisława Staszica,Warszawa,100,100,90,100,100,490
+21,Joanna,Bujnowska,3,I LO im. Adama Mickiewicza,Białystok,100,100,90,100,100,490
+22,Radosław,Burny,0,I LO im. Marsz. St. Małachowskiego ,Płock,100,100,90,100,100,490
+23,Grzegorz,Guśpiel,1,V LO im. A. Witkowskiego,Kraków,100,100,90,100,100,490
+24,Joachim,Jelisiejew,2,I LO im. Adama Mickiewicza,Białystok,100,100,90,100,100,490
+25,Adam,Karczmarz,2,LO im. Komisji Edukacji Narodowej,Stalowa Wola,100,100,90,100,100,490
+26,Paweł,Klimek,2,VI LO im. Jana Kochanowskiego,Radom,100,100,90,100,100,490
+27,Janusz,Kudełka,1,VI LO im. J. i J. Śniadeckich,Bydgoszcz,100,100,90,100,100,490
+28,Daniel,Malinowski,2,VIII LO im. Marii Skłodowskiej-Curie,Katowice,100,100,90,100,100,490
+29,Jakub,Pachocki,1,Gdańskie Liceum Autonomiczne,Gdańsk,100,100,90,100,100,490
+30,Krzysztof,Pasek,3,I LO im. S. Żeromskiego,Zawiercie,100,100,90,100,100,490
+31,Paweł,Rasiński,3,XIV LO im. Stanisława Staszica,Warszawa,100,100,90,100,100,490
+32,Rafał,Ruciński,2,XIII Liceum Ogólnokształcące,Szczecin,100,100,90,100,100,490
+33,Michał,Stachurski,3,I LO im. Mikołaja Kopernika,Jarosław,100,100,90,100,100,490
+34,Jacek,Tomasiewicz,3,I LO im. Adama Mickiewicza,Białystok,100,100,90,100,100,490
+35,Michał,Trybus,2,V Liceum Ogólnokształcące,Gliwice,100,100,90,100,100,490
+36,Jakub,Witaszek,1,XIV LO im. Stanisława Staszica,Warszawa,100,100,90,100,100,490
+37,Michał,Włodarczyk,3,XIV LO im. Stanisława Staszica,Warszawa,100,100,90,100,100,490
+38,Marcin,Wrochna,2,XIV LO im. Stanisława Staszica,Warszawa,100,100,90,100,100,490
+39,Paweł,Barszcz,3,XXVII LO im.Tadeusza Czackiego,Warszawa,100,100,90,100,93,483
+40,Bartosz,Nitka,1,III LO im. Marynarki Wojennej RP,Gdynia,100,100,90,91,100,481
+41,Marcin,Oczeretko,3,I Liceum Ogólnokształcące,Legnica,100,100,90,91,100,481
+42,Tomasz,Sikora,3,LO M. Skłodowskiej-Curie,Sucha Beskidzka,100,100,90,91,100,481
+43,Mateusz,Skowron,1,V LO im. A. Witkowskiego,Kraków,100,100,90,91,100,481
+44,Bartłomiej,Wiśniewski,1,III LO im. Marynarki Wojennej RP,Gdynia,100,100,80,100,100,480
+45,Marcin,Koscielnicki,3,I LO im. Juliusza Słowackiego,Chorzów,100,100,87,90,100,477
+46,Damian,Straszak,2,I Liceum Ogólnokształcące,Racibórz,100,100,77,100,100,477
+47,Jakub,Konieczny,1,V LO im. A. Witkowskiego,Kraków,100,100,100,73,99,472
+48,Roman,Janusz,3,II LO im. Marii Konopnickiej,Nowy Sącz,100,100,90,81,100,471
+49,Marcin,Kolarczyk,3,VIII LO im. Marii Skłodowskiej-Curie,Katowice,90,100,90,91,100,471
+50,Maciej,Andrejczuk,3,I LO im. Adama Mickiewicza,Białystok,100,100,70,100,100,470
+51,Robert,Hoeft,3,III LO im. Marynarki Wojennej RP,Gdynia,80,100,90,100,100,470
+52,Adam,Iwaniuk,2,VI Liceum Ogólnokształcące,Białystok,100,100,70,100,100,470
+53,Robert,Kozikowski,2,I LO im. Adama Mickiewicza,Białystok,100,100,70,100,100,470
+54,Jakub,Tlałka,1,XIV LO im. Stanisława Staszica,Warszawa,100,100,70,100,100,470
+55,Maciej,Borsz,3,Gimnazjum nr 50,Bydgoszcz,100,100,67,100,100,467
+56,Andrzej,Dąbrowski,3,IV Liceum Ogólnokształcące,Olsztyn,100,100,64,100,100,464
+57,Paweł,Przytuła,3,III LO im. Marynarki Wojennej RP,Gdynia,100,100,80,91,93,464
+58,Michał,Bejda,2,V LO im. A. Witkowskiego,Kraków,100,100,60,100,100,460
+59,Bartosz,Lewiński,2,III LO im. Marynarki Wojennej RP,Gdynia,100,100,60,100,100,460
+60,Łukasz,Marszał,2,V LO im. A. Witkowskiego,Kraków,100,100,60,100,100,460
+61,Jakub,Oćwieja,3,V Liceum Ogólnokształcące,Bielsko-Biała,100,100,60,100,100,460
+62,Wojciech,Sirko,2,XIV LO im. Stanisława Staszica,Warszawa,100,100,60,100,100,460
+63,Jan,Rudol,3,II LO im. Jana III Sobieskiego,Kraków,100,100,100,55,100,455
+64,Jan,Kwaśniak,1,LO im. Św. Jadwigi Królowej,Kielce,100,100,54,100,100,454
+65,Damian,Rusak,3,I Liceum Ogólnokształcące,Legnica,100,100,90,100,64,454
+66,Marcin,Andrychowicz,2,XIV LO im. Stanisława Staszica,Warszawa,70,100,90,100,93,453
+67,Tomasz,Kłeczek,2,V LO im. A. Witkowskiego,Kraków,100,100,97,63,92,452
+68,Mateusz,Matejczyk,1,II LO im. Stanisława Staszica,Tarnowskie Góry,100,100,52,100,100,452
+69,Marcin,Ryciuk,3,XIV LO im. Stanisława Staszica,Warszawa,100,100,60,91,100,451
+70,Artur,Kotyrba,3,XXVII LO im. T. Czackiego,Warszawa,100,100,40,100,100,440
+71,Wojciech,Szkutnik,1,V LO im. A. Witkowskiego,Kraków,100,100,40,100,100,440
+72,Marcin,Drużkowski,3,III LO im. Adama Mickiewicza,Tarnów,100,100,60,63,100,423
+73,Michał Jerzy,Karpiński,3,I LO im. Kr. St. Leszczyńskiego,Jasło,100,100,60,63,100,423
+74,Benedykt,Błaszkiewicz,3,V Liceum Ogólnokształcące,Bielsko-Biała,100,100,22,100,100,422
+75,Jarosław,Błasiok,2,VIII LO im. Marii Skłodowskiej-Curie,Katowice,100,100,30,91,100,421
+76,Jacek,Jendrej,2,III LO im. Unii Lubelskiej,Lublin,100,100,20,100,100,420
+77,Rafał,Rychcicki,3,X Liceum Ogólnokształcące,Szczecin,98,100,30,91,100,419
+78,Łukasz,Karbowski,3,XIV LO im. Stanisława Staszica,Warszawa,100,100,90,27,100,417
+79,Karol,Konaszyński,2,XIV LO im. Polonii Belgijskiej,Wrocław,100,100,38,100,75,413
+80,Michał,Makarewicz,1,I Liceum Ogolnokształcące,Białystok,100,100,30,100,81,411
+81,Maciej,Nowakiewicz,2,XIV LO im. Stanisława Staszica,Warszawa,60,100,74,100,74,408
+82,Jan,Burka,3,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,100,100,400
+83,Dawid,Dąbrowski,1,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,100,100,400
+84,Andrzej,Dorobisz,1,V LO im. A. Witkowskiego,Kraków,100,100,0,100,100,400
+85,Wiktor,Janas,2,XIV LO im. Polonii Belgijskiej,Wrocław,100,100,0,100,100,400
+86,Szymon,Kitowski,2,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,100,100,400
+87,Michał,Kurtys,2,I Liceum Ogólnokształcące,Głogów,100,100,0,100,100,400
+88,Grzegorz,Marcinkowski,3,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,100,100,400
+89,Łukasz,Mazurek,3,XIV LO im. Stanisława Staszica,Warszawa,100,100,0,100,100,400
+90,Jonasz,Pamuła,3,V LO im. A. Witkowskiego,Kraków,0,100,100,100,100,400
+91,Aleksandra,Rzemyk,2,V LO im. A. Witkowskiego,Kraków,100,100,0,100,100,400
+92,Filip,Stachura,1,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,100,100,400
+93,Łukasz,Stankiewicz,2,I LO im. Adama Mickiewicza,Białystok,100,100,0,100,100,400
+94,Piotr,Szcześniak,2,I LO im. Stefana Żeromskiego,Kielce,100,100,0,100,100,400
+95,Jakub,Tarnawski,1,XIV LO im. Polonii Belgijskiej,Wrocław,100,100,0,100,100,400
+96,Paweł,Wanat,2,V LO im. A. Witkowskiego,Kraków,100,100,0,100,100,400
+97,Dorota,Wąs,2,V LO im. A. Witkowskiego,Kraków,100,100,100,100,0,400
+98,Zbigniew,Wojna,3,XiV LO im. Stanisława Staszica,Warszawa,100,100,0,100,100,400
+99,Łukasz,Wołochowski,3,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,100,100,400
+100,Piotr,Wójcik,1,I LO im. Marcina Kromera,Gorlice,100,100,0,100,100,400
+101,Patryk,Zaryjewski,2,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,100,100,400
+102,Maciej,Zgliczyński,2,V LO im. A. Witkowskiego,Kraków,100,100,0,100,100,400
+103,Tomasz,Put,2,V LO im. A. Witkowskiego,Kraków,100,100,0,100,98,398
+104,Kamil,Korolkiewicz,3,XI LO im. Mikołaja Reja,Warszawa,100,100,67,100,29,396
+105,Michał,Iwaniuk,2,XIV LO im. Stanisława Staszica,Warszawa,100,100,90,100,0,390
+106,Adrian,Jaskółka,1,I LO im. Adama Mickiewicza,Białystok,100,100,0,90,100,390
+107,Wojciech,Marczenko,2,Gimnazjum nr 13 ,Warszawa,100,100,50,36,100,386
+108,Mateusz,Bożyk,3,I LO im. Mikołaja Kopernika,Gdańsk,100,100,30,82,72,384
+109,Zofia,Flasińska,3,V LO im. A. Witkowskiego,Kraków,100,100,60,93,29,382
+110,Przemysław,Mazur,3,II LO im. Jana III Sobieskiego,Kraków,100,100,0,82,100,382
+111,Mateusz,Nowak,3,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,82,100,382
+112,Paweł,Grynienko,3,Zespół Szkół Ogólnokształcącyc,Strzegom,100,100,0,100,80,380
+113,Sławomir,Fraś,2,I LO im. K. Miarki,Żory,100,100,37,41,100,378
+114,Radosław,Dembkowski,1,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,91,85,376
+115,Michał,Czerski,2,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,73,100,373
+116,Marcin,Koźniewski,3,KLO MBM,Białystok,100,100,71,100,0,371
+117,Artur,Goździkowski,2,XXVII LO im. T. Czackiego,Warszawa,100,100,70,100,0,370
+118,Paweł,Gołąb,2,XIV LO im. Stanisława Staszica,Warszawa,100,100,40,100,29,369
+119,Adam,Chrabąszcz,3,I LO im. B. Nowodworskiego,Kraków,100,100,68,100,0,368
+120,Piotr,Godlewski,2,VI LO im. Jana Kochanowskiego,Radom,10,100,58,100,100,368
+121,Łukasz,Zatorski,3,X Liceum Ogólnokształcące,Wrocław,100,100,77,91,0,368
+122,Karol,Grodzicki,1,Gdańskie Liceum Autonomiczne,Gdańsk,100,100,20,45,100,365
+123,Mirosław,Michalski,3,III LO im. Marynarki Wojennej RP,Gdynia,100,100,61,100,0,361
+124,Karol,Pokorski,3,Publiczne Gimnazjum,Skórcz,100,100,60,100,0,360
+125,Tomasz,Rzepecki,2,I Liceum Ogólnokształcące,Legnica,100,0,60,100,100,360
+126,Jakub,Woyke,1,XIII Liceum Ogólnokształcące,Szczecin,100,100,60,100,0,360
+127,Paweł,Banasiak,3,XIII Liceum Ogólnokształcące,Szczecin,100,100,65,90,0,355
+128,Paweł,Stobiecki,2,VIII Liceum Ogólnokształcące,Kraków,70,100,40,45,100,355
+129,Grzegorz,Graczyk,3,I Liceum Ogólnokształcące,Łódź,100,100,30,45,79,354
+130,Szymon,Pałka,3,V LO im. A. Witkowskiego,Kraków,0,100,90,100,64,354
+131,Alan,Kutniewski,3,XIII Liceum Ogólnokształcące,Szczecin,100,100,50,100,0,350
+132,Przemysław,Bągard,3,Zespół Szkół,Strzyżów,100,100,20,100,29,349
+133,Marcin,Cyran,2,I LO Ogólnokształcące,Bełchatów,100,100,49,100,0,349
+134,Jakub,Osika,2,I LO im. Marcina Kromera,Gorlice,90,100,20,45,93,348
+135,Paweł,Zawal,2,Zespół Szkół nr 3,Lublin,10,100,38,100,100,348
+136,Mariusz,Karwat,2,V LO im. A. Witkowskiego,Kraków,100,100,20,27,100,347
+137,Bartłomiej,Kaliszewski,3,VI Liceum Ogólnokształcące,Białystok,100,100,50,91,0,341
+138,Konrad,Baumgart,2,VI LO im. J. i J. Śniadeckich,Bydgoszcz,100,100,49,91,0,340
+139,Karol,Kalinowski,3,V LO im. Jana III Sobieskiego,Białystok,100,100,40,100,0,340
+140,Łukasz,Piotrowski,2,V LO im. A. Witkowskiego,Kraków,100,100,30,100,10,340
+141,Piotr,Timoszuk,2,I LO im. Adama Mickiewicza,Białystok,40,100,0,100,100,340
+142,Konrad,Zabłocki,1,XIII Liceum Ogólnokształcące,Szczecin,100,100,40,100,0,340
+143,Paweł,Żuk,1,I Liceum Ogólnokształcące,Słupsk,100,100,20,90,29,339
+144,Michał,Adamczyk,2,I L.O. im. Stanisława Staszica,Lublin,100,100,10,27,100,337
+145,Kajetan,Kochański,1,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,82,50,332
+146,Zbigniew,Chlebicki,3,XIV LO im. Stanisława Staszica,Warszawa,80,100,60,91,0,331
+147,Jacek,Tomaszewski,3,XII LO im. St. Wyspiańskiego,Łódź,100,100,30,72,29,331
+148,Wiktor,Jakubiuk,2,Dulwich College,London,0,100,30,100,100,330
+149,Paweł,Murias,2,V LO Krzysztofa Kieślowskiego,Zielona Góra,10,100,90,30,100,330
+150,Anna,Piekarska,1,XIV LO im. Polonii Belgijskiej,Wrocław,0,100,30,100,100,330
+151,Grzegorz,Swatowski,3,II LO im. Marii Skłodowskiej-Curie,Gorzów Wlkp.,100,100,0,100,30,330
+152,Mateusz,Dzwonek,2,I LO Ogólnokształcące,Bełchatów,100,100,0,100,29,329
+153,Sebastian,Łach,1,V LO im. A. Witkowskiego,Kraków,100,100,0,100,29,329
+154,Andrzej,Kotulski,12:00 AM,XIV LO im. Polonii Belgijskiej,Wrocław,100,100,0,100,24,324
+155,Jakub,Pawłowski,3,III LO im. Adama Mickiewicza,Tarnów,60,100,63,100,0,323
+156,Przemysław,Jedynak,2,LO Zakonu Pijarów ,Kraków,100,100,20,100,0,320
+157,Konrad,Kras,3,II LO ,Tarnów,100,100,0,91,29,320
+158,Jan,Marcinkowski,3,XIV LO im. Polonii Belgijskiej,Wrocław,20,100,0,100,100,320
+159,Konrad,Żołna,2,V LO im. A. Witkowskiego,Kraków,20,100,0,100,100,320
+160,Marcin,Niestrój,2,II LO im. Marii Konopnickiej,Opole,20,100,54,45,100,319
+161,Konrad,Gądek,2,II LO im. Jana III Sobieskiego,Kraków,100,100,0,18,100,318
+162,Paweł,Żelazko,3,Zespół Szkół ,Pasłęk,100,100,73,45,0,318
+163,Mateusz,Kwapich,2,VIII LO im. Marii Skłodowskiej-Curie,Katowice,90,100,0,27,100,317
+164,Artur,Menc,3,I Liceum Ogólnokształcące,Pabianice,97,100,30,89,0,316
+165,Tomasz,Służalec,3,II LO im. Romualda Traugutta,Częstochowa,10,100,90,100,16,316
+166,Przemysław,Piechota,3,I LO im. E. Dembowskiego,Gliwice,80,90,72,73,0,315
+167,Jakub,Ćwikliński,2,I LO im. Adama Mickiewicza,Białystok,40,100,0,100,71,311
+168,Dominik,Borowiec,3,I Społeczne LO,Warszawa,100,100,0,10,100,310
+169,Paweł,Kubiak,2,Gimnazjum nr 24,Katowice,50,100,60,100,0,310
+170,Szymon,Majewski,3,XIV LO im. Stanisława Staszica,Warszawa,100,100,0,9,100,309
+171,Dominik,Rusak,3,I Liceum Ogólnokształcące,Legnica,100,100,0,9,100,309
+172,Marcin,Nazimek,3,VI LO im. Jana Kochanowskiego,Radom,0,100,30,82,95,307
+173,Paweł,Kowalczyk,12:00 AM,II LO im. Hetmana Zamoyskiego,Lublin,100,100,68,36,0,304
+174,Paweł,Tarasiuk,3,I LO im. Mikołaja Kopernika,Łódź,80,100,55,41,28,304
+175,Mateusz,Wieloch,3,I LO im. Jana Długosza,Nowy Sącz,98,100,69,36,0,303
+176,Grzegorz,Łoś,3,I LO im. C.K. Norwida,Bydgoszcz,100,100,10,91,0,301
+177,Maciej,Piekarz,1,V LO im. A. Witkowskiego,Kraków,10,100,0,91,100,301
+178,Kamil,Androsiuk,2,Ogólnokształcące Liceum Jezuitów,Gdynia,100,100,0,100,0,300
+179,Izabela,Biczysko,3,XIV LO im. Polonii Belgijskiej,Wrocław,100,100,0,100,0,300
+180,Jan,Borowski,2,VI LO im. J. i J. Śniadeckich,Bydgoszcz,100,100,0,100,0,300
+181,Damian,Drzymalski,2,V LO im. A. Witkowskiego,Kraków,100,100,0,100,0,300
+182,Jakub,Gorczyca,2,III Liceum Ogólnokształcące,Zabrze,100,100,0,100,0,300
+183,Dawid,Gozdowski,2,Ogólnokształcące Liceum Jezuitów,Gdynia,100,100,0,100,0,300
+184,Marcin,Jarczewski,2,I LO im. Adama Mickiewicza,Białystok,100,100,0,100,0,300
+185,Mateusz,Jurczyk,3,Gimnazjum nr 1 ,Mysłowice,100,100,0,100,0,300
+186,Grzegorz,Kawka,2,ZSO nr 1 im. KEN ,Puławy,100,100,0,0,100,300
+187,Szymon,Kiebzak,3,V LO im. A. Witkowskiego,Kraków,100,100,0,100,0,300
+188,Bartosz,Koniński,2,II LO im. K. K. Baczyńskiego,Konin,100,100,0,100,0,300
+189,Leszek,Kopeć,3,I LO im. Mikołaja Kopernika,Krosno,100,100,0,100,0,300
+190,Marcin,Marzyński,1,LO Zakonu Pijarów ,Kraków,100,100,0,100,0,300
+191,Tomasz,Obuchowski,1,I LO im. Adama Mickiewicza,Białystok,100,100,0,100,0,300
+192,Agnieszka,Pachuta,3,XIV LO im. Stanisława Staszica,Warszawa,100,100,0,100,0,300
+193,Robert,Pohnke,2,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,0,100,300
+194,Jakub,Przychodzeń,2,XIII Liceum Ogólnokształcące,Szczecin,100,100,0,100,0,300
+195,Dawid,Pustułka,2,V LO im. A. Witkowskiego,Kraków,0,100,0,100,100,300
+196,Grzegorz,Rynkowski,3,I LO im. Adama Mickiewicza,Białystok,100,100,0,100,0,300
+197,Wojciech,Stasiak,1,XIV LO im. Polonii Belgijskiej,Wrocław,100,100,0,100,0,300
+198,Karol,Trzcionka,2,VIII LO im. Marii Skłodowskiej-Curie,Katowice,100,100,0,100,0,300
+199,Jakub,Tyrcha,2,V LO im. A. Witkowskiego,Kraków,100,100,0,100,0,300
+200,Piotr,Zdunek,2,VIII LO im. Władysława IV,Warszawa,100,100,0,100,0,300
+201,Sylwester,Zieliński,1,XXVIII LO Jana Kochanowskiego,Warszawa,100,100,0,100,0,300
+202,Karol,Żebrowski,3,XIV LO im. Stanisława Staszica,Warszawa,100,100,0,100,0,300
+203,Tomasz,Boczkowski,3,VIII LO im. Adama Mickiewicza,Poznań,0,100,60,36,100,296
+204,Krzysztof,Zawadzki,2,V LO im. A. Witkowskiego,Kraków,100,100,0,18,77,295
+205,Łukasz,Michalski,1,V LO im. A. Witkowskiego,Kraków,100,100,0,91,0,291
+206,Krzysztof,Wróbel,3,I LO im. Stanisława Staszica,Jastrzębie Zdrój,10,100,53,100,28,291
+207,Krzysztof,Galias,0,V LO im. A. Witkowskiego,Kraków,90,100,0,100,0,290
+208,Adam,Mizerski,3,XIV LO im. Stanisława Staszica,Warszawa,90,100,0,100,0,290
+209,Martyna,Gibka,2,LO im. Bogusława X,Białogard,98,100,0,91,0,289
+210,Krzysztof,Chrobak,1,I LO im. Juliusza Słowackiego,Chorzów,0,100,0,91,93,284
+211,Paweł,Banaszewski,1,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,82,0,282
+212,Piotr,Kraska,2,IV LO im. Hanki Sawickiej,Kielce,100,100,0,82,0,282
+213,Konrad,Średziński,3,I LO im. Adama Mickiewicza,Białystok,100,100,0,82,0,282
+214,Bartłomiej,Ryniec,1,I Liceum Ogólnokształcące,Łańcut,100,100,0,81,0,281
+215,Konrad,Kozera,2,XIV LO im. Stanisława Staszica,Warszawa,80,100,0,100,0,280
+216,Adam,Obuchowicz,1,I LO ,Zielona Góra,10,0,70,100,100,280
+217,Karol,Badowski,3,III LO im. Marynarki Wojennej RP,Gdynia,0,100,50,27,100,277
+218,Łukasz,Łęczycki,2,XIV LO im. Polonii Belgijskiej,Wrocław,100,100,0,63,14,277
+219,Kajetan,Zaziemski,3,XIII Liceum Ogólnokształcące,Szczecin,100,100,30,45,0,275
+220,Marcin,Fatyga,2,I LO im. Stefana Żeromskiego,Kielce,80,100,40,54,0,274
+221,Tomasz,Szatkowski,3,ZSOiP ,Nowy Tomyśl,100,100,30,34,10,274
+222,Maciej,Pacut,3,III LO im. Stefana Żeromskiego,Bielsko-Biała,10,100,60,100,0,270
+223,Bartłomiej,Kośla,2,VI LO im. Jana Kochanowskiego,Radom,100,100,30,39,0,269
+224,Wojciech,Żółtak,2,XIV LO im. Stanisława Staszica,Warszawa,10,100,30,27,100,267
+225,Marcin,Radecki,2,I LO im. Jana Długosza,Nowy Sącz,0,87,72,100,7,266
+226,Szymon,Cofalik,2,II LO im. A. Frycza-Modrzewskiego,Rybnik,0,90,54,91,29,264
+227,Bartłomiej,Dudek,2,Gimnazjum Dwujęzyczne nr 49,Wrocław,100,100,0,63,0,263
+228,Krzysztof,Pieprzak,2,XIV LO im. Polonii Belgijskiej,Wrocław,0,100,0,63,100,263
+229,Wojciech,Langiewicz,3,XIII Liceum Ogólnokształcące,Szczecin,100,100,30,31,0,261
+230,Kamil,Balwierz,3,VI LO im. J. i J. Śniadeckich,Bydgoszcz,0,100,60,100,0,260
+231,Tomasz,Sikorski,2,XIV LO im. Polonii Belgijskiej,Wrocław,10,100,50,100,0,260
+232,Piotr,Suwara,1,XIV LO im. Stanisława Staszica,Warszawa,20,100,0,47,93,260
+233,Kosma,Dunikowski,2,I LO im. Mikołaja Kopernika,Łódź,100,100,30,29,0,259
+234,Marcin,Baczyński,1,VIII LO im. Władysława IV,Warszawa,100,100,30,27,0,257
+235,Marcin,Filar,3,V LO im. A. Witkowskiego,Kraków,20,100,10,27,100,257
+236,Damian,Hałas,2,I L.O. im. Stanisława Staszica,Lublin,80,100,49,27,0,256
+237,Michał,Pietraś,3,LO im. Jana III Sobieskiego,Lublin,100,100,0,55,0,255
+238,Paweł,Pieniążek,3,I LO im. Mikołaja Kopernika,Gdańsk,53,100,0,100,0,253
+239,Dawid,Jurczak,4,Zespół Szkół Elektronicznych,Radom,100,40,30,82,0,252
+240,Tomasz,Młocek,3,V LO im. A. Witkowskiego,Kraków,100,100,0,52,0,252
+241,Michał,Zimniewicz,3,VIII LO im. Adama Mickiewicza,Poznań,100,100,34,18,0,252
+242,Bartosz,Gąsowski,2,XIII Liceum Ogólnokształcące,Szczecin,100,100,50,0,0,250
+243,Piotr,Wałaszek,2,I LO im. K. Brodzińskiego,Tarnów,60,100,0,90,0,250
+244,Grzegorz,Skowiński,3,XIV LO im. Stanisława Staszica,Warszawa,20,100,61,68,0,249
+245,Dawid,Żakowski,2,I LO im. Powstańców Wlkp.,Wągrowiec,50,100,20,79,0,249
+246,Sylwester,Koncewicz,3,I LO im. Stefana Żeromskiego,Ełk,100,100,30,18,0,248
+247,Piotr,Bejda,2,VI Publiczne Gimnazjum Akademickie,Kraków,100,100,10,36,0,246
+248,Maciej,Malarz,2,V LO im. A. Witkowskiego,Kraków,100,100,0,46,0,246
+249,Tomasz,Chabinka,1,XIV LO im. Polonii Belgijskiej,Wrocław,100,100,0,45,0,245
+250,Paweł,Jastrzębski,1,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,45,0,245
+251,Aleksander,Kubica,3,V Liceum Ogólnokształcące,Bielsko-Biała,100,100,0,45,0,245
+252,Krystian,Lieber,3,XVII Liceum Ogólnokształcące,Warszawa,0,100,40,73,29,242
+253,Mariusz,Draszczuk,1,II LO im. Marii Konopnickiej,Opole,100,40,0,100,0,240
+254,Piotr,Stankowski,3,XIV LO im. Stanisława Staszica,Warszawa,100,100,0,40,0,240
+255,Mateusz,Szczerba,3,Liceum Ogólnokształcące,Strzegom,100,100,0,40,0,240
+256,Norbert,Tusiński,3,ZSM-E ,Żywiec,80,100,40,18,0,238
+257,Damian,Rodziewicz,2,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,27,10,237
+258,Wojciech,Mazurek,3,I LO im. Adama Mickiewicza,Białystok,100,100,0,35,0,235
+259,Agata,Wiatrowska,2,III LO im. Marynarki Wojennej RP,Gdynia,60,100,20,45,10,235
+260,Kamil,Jaworski,2,II LO,Ostrowiec Św.,30,100,0,100,0,230
+261,Wojciech,Sidor,3,Gimnazjum nr 24 przy III LO,Gdynia,100,30,0,100,0,230
+262,Artur,Dmowski,1,Stuyvesant HS,New York, USA,100,100,0,27,0,227
+263,Marcin,Dziaduś,2,I LO im. Mikołaja Kopernika,Jarosław,100,100,0,27,0,227
+264,Michał,Flendrich,1,I Liceum Ogólnokształcące,Legnica,0,100,0,27,100,227
+265,Maciej,Górnicki,3,I LO im. Adama Mickiewicza,Białystok,100,100,0,27,0,227
+266,Konrad,Madej,2,V LO im. A. Witkowskiego,Kraków,100,100,0,27,0,227
+267,Marek,Milowski,2,V LO im. A. Witkowskiego,Kraków,100,100,0,27,0,227
+268,Filip,Pacanowski,3,Gimnazjum nr 4,Bielsko-Biała,100,100,0,27,0,227
+269,Michał,Skoczylas,2,I Liceum Ogólnokształcące,Słupsk,30,100,0,97,0,227
+270,Michał,Sosnowski,2,XIII Liceum Ogólnokształcące,Szczecin,100,100,0,27,0,227
+271,Konrad,Strack,2,V Liceum Ogólnokształcące,Bielsko-Biała,60,91,40,36,0,227
+272,Piotr,Bryk,1,VIII LO im. St. Wyspiańskiego,Kraków,0,100,69,27,29,225
+273,Rafał,Rawicki,3,I LO im. E. Dembowskiego,Gliwice,0,100,80,45,0,225
+274,Krzysztof,Opolski,2,III LO im. M. Dąbrowskiej,Płock,40,100,0,82,0,222
+275,Konrad,Popławski,3,II LO im. K. K. Baczyńskiego,Konin,50,100,0,72,0,222
+276,Jakub,Białek,3,LO WSIiZ,Rzeszów,20,100,0,100,0,220
+277,Maciej,Kukła,1,XIV LO im. Polonii Belgijskiej,Wrocław,0,100,20,100,0,220
+278,Andrzej,Skrodzki,2,I LO im. Adama Mickiewicza,Białystok,10,100,0,100,10,220
+279,Adam,Głowacki,2,VIII LO im. Marii Skłodowskiej-Curie,Katowice,90,100,0,27,0,217
+280,Artur,Pietrzyk,2,XII Liceum Ogólnokształcące,Szczecin,57,100,30,30,0,217
+281,Wojciech,Gawroński,4,ZSEEiM, Technikum nr 3,Bielsko-Biała,20,100,0,82,13,215
+282,Adam,Folwarczny,4,Zespół Szkół Zawodowych,Wodzisław Śląski,0,100,87,27,0,214
+283,Łukasz,Krakowiak,3,IV Liceum Ogólnokształcące,Toruń,40,100,43,0,29,212
+284,Marek,Rogalski,3,XXXII LO im. H. Poświatowskiej,Łódź,0,100,0,11,100,211
+285,Amadeusz,Ciok,3,V LO im. A. Witkowskiego,Kraków,10,100,0,100,0,210
+286,Mateusz,Karpina,3,Liceum Ogólnokształcące,Nowa Sól,100,100,10,0,0,210
+287,Paweł,Lipkowski,3,II LO im. Adama Mickiewicza,Słupsk,40,100,70,0,0,210
+288,Paweł,Mechliński,1,III LO im. Marynarki Wojennej RP,Gdynia,90,100,20,0,0,210
+289,Mariusz,Szczepańczyk,3,Liceum STSG,Świnoujście,0,100,10,100,0,210
+290,Adam,Śpiewak,1,Ogólnokształcące Liceum Jezuitów,Gdynia,10,100,0,100,0,210
+291,Krzysztof,Zielonka,3,IX Liceum Ogólnokształcące,Wrocław,100,100,10,0,0,210
+292,Magdalena,Bojarska,1,XIV LO im. Stanisława Staszica,Warszawa,100,100,0,9,0,209
+293,Hygin,Delimat,2,XIV LO im. Polonii Belgijskiej,Wrocław,100,100,0,9,0,209
+294,Grzegorz,Kołakowski,2,I LO im. T. Kościuszki ,Łomża,100,100,0,9,0,209
+295,Bartosz,Wróblewski,3,II LO im. Mieszka I,Szczecin,100,100,0,9,0,209
+296,Szymon,Gut,2,V Liceum Ogólnokształcące,Gliwice,0,100,0,89,16,205
+297,Jakub,Skiepko,3,III LO im. K. K. Baczyńskiego,Białystok,10,100,20,45,29,204
+298,Jarosław,Janik,2,I LO im. Mikołaja Kopernika,Krosno,100,40,0,33,29,202
+299,Radosław,Rykowski,1,LO WSIiZ,Rzeszów,10,100,0,91,0,201
+300,Krzysztof,Bar,3,V LO im. A. Witkowskiego,Kraków,80,100,0,20,0,200
+301,Grzegorz,Cholewa,2,V Liceum Ogólnokształcące,Lublin,100,100,0,0,0,200
+302,Krzysztof,Dąbrowski,3,IX LO,Wrocław,0,100,0,100,0,200
+303,Maciej,Dębski,3,Gimnazjum nr 59 ,Warszawa,0,100,0,100,0,200
+304,Krzysztof,Górnowicz,2,Gimnazjum nr 7 ,Gdańsk,0,100,0,100,0,200
+305,Mateusz,Halicki,3,I LO im. Adama Mickiewicza,Białystok,0,100,0,100,0,200
+306,Kamil,Kalandyk,1,LO WSIiZ,Rzeszów,0,100,0,100,0,200
+307,Jakub,Kałużny,1,V LO im. A. Witkowskiego,Kraków,0,100,0,100,0,200
+308,Piotr,Karasiński,2,I LO Ogólnokształcące,Bełchatów,0,100,0,100,0,200
+309,Szymon,Knop,2,II LO im. Stanisława Staszica,Tarnowskie Góry,0,100,0,100,0,200
+310,Michał,Krysiewicz,2,XIII Liceum Ogólnokształcące,Szczecin,100,100,0,0,0,200
+311,Mateusz,Lewandowski,1,II Liceum Ogólnokształcące,Inowrocław,0,40,50,89,21,200
+312,Remigiusz,Marcinkiewicz,3,XIV LO im. Polonii Belgijskiej,Wrocław,0,100,0,100,0,200
+313,Paweł,Maryniak,3,XIV LO im. Polonii Belgijskiej,Wrocław,0,100,0,100,0,200
+314,Szymon,Migacz,3,V Liceum Ogólnokształcące,Bielsko-Biała,0,100,0,100,0,200
+315,Jan,Milczek,3,Gimnazjum nr 24 przy III LO,Gdynia,100,100,0,0,0,200
+316,Dariusz,Mokwa,2,LO im. Marii Skłodowskiej,Piła,0,100,0,100,0,200
+317,Arkadiusz,Olek,3,III LO im. Stefana Żeromskiego,Bielsko-Biała,0,100,0,100,0,200
+318,Szymon,Pańczyk,1,V LO im. S. Żeromskiego,Gdańsk,100,100,0,0,0,200
+319,Grzegorz,Prusak,1,II Liceum Ogólnokształcące,Poznań,100,0,0,100,0,200
+320,Szymon,Sobczak,3,V LO im. A. Witkowskiego,Kraków,100,100,0,0,0,200
+321,Piotr,Szefler,3,Gimnazjum i Liceum Akademickie,Toruń,100,100,0,0,0,200
+322,Martyna,Wałaszewska,1,III LO im. Marynarki Wojennej RP,Gdynia,100,100,0,0,0,200
+323,Eryk,Wieliczko,1,III LO im. Marynarki Wojennej RP,Gdynia,0,100,0,100,0,200
+324,Martin,Witczak,2,VI LO im. J. i J. Śniadeckich,Bydgoszcz,0,100,0,100,0,200
+325,Janusz,Wróbel,1,XIV LO im. Polonii Belgijskiej,Wrocław,0,100,0,100,0,200
+326,Krzysztof,Zając,2,I LO im. Mikołaja Kopernika,Łódź,0,100,0,46,54,200
+327,Szymon,Ząbkiewicz,2,V LO im. A. Witkowskiego,Kraków,0,100,0,100,0,200
+328,Agnieszka,Żukowska,2,I LO im. Adama Mickiewicza,Białystok,100,100,0,0,0,200
+329,Łukasz,Gajownik,3,XIV LO im. Stanisława Staszica,Warszawa,80,100,0,18,0,198
+330,Bartosz,Marcinkowski,3,Gimnazjum nr 16,Szczecin,80,40,20,27,29,196
+331,Adam,Stankiewicz,1,LO im. H. Sienkiewicza,Nowa Ruda,40,100,10,33,13,196
+332,Artur,Kraska,2,I LO im. C. K. Norwida,Bydgoszcz,0,100,50,45,0,195
+333,Przemysław,Pastuszka,2,IV LO im. H. Sienkiewicza,Częstochowa,10,100,40,45,0,195
+334,Jakub,Jaśkowiec,3,I LO im. B. Nowodworskiego,Kraków,60,40,0,70,23,193
+335,Krzysztof,Nowicki,2,XIV LO im. Polonii Belgijskiej,Wrocław,90,40,0,63,0,193
+336,Paweł,Seta,1,VI LO im. Jana Kochanowskiego,Radom,0,100,0,18,75,193
+337,Maciej,Kruczkowski,2,VI LO im. J. i J. Śniadeckich,Bydgoszcz,10,100,0,82,0,192
+338,Bartłomiej,Szczepanik,1,II LO im. Marii Konopnickiej,Nowy Sącz,0,100,10,82,0,192
+339,Piotr,Lewandowski,3,LO im. Bolesława Prusa,Skierniewice,100,91,0,0,0,191
+340,Błażej,Saladra,3,VII LO im. Mikołaja Kopernika,Częstochowa,80,40,0,45,26,191
+341,Michał,Janiec,1,III LO im. Adama Mickiewicza,Tarnów,90,100,0,0,0,190
+342,Tomasz,Kisielewski,2,V LO im. A. Witkowskiego,Kraków,90,100,0,0,0,190
+343,Igor,Adamski,1,V LO im. A. Witkowskiego,Kraków,50,99,0,40,0,189
+344,Adam,Modrzejewski,2,III LO im. Marynarki Wojennej RP,Gdynia,100,70,0,18,0,188
+345,Maciej,Ciemski,2,XLV LO im. Romualda Traugutta,Warszawa,60,100,0,27,0,187
+346,Weronika,Czerniawska,3,V LO im. A. Witkowskiego,Kraków,60,100,0,27,0,187
+347,Wiktor,Pilewski,2,IV Liceum Ogólnokształcące,Toruń,0,100,40,18,29,187
+348,Paweł,Pikuła,3,I LO im. Mikołaja Kopernika,Jarosław,0,100,50,36,0,186
+349,Sławomir,Pruchnik,2,VII Liceum Ogólnokształcące,Gliwice,100,40,0,45,0,185
+350,Karol,Rynio,3,IV LO im. Hanki Sawickiej,Kielce,40,100,0,45,0,185
+351,Tomasz,Czarnik,3,VIII LO im. St. Wyspiańskiego,Kraków,50,100,0,18,15,183
+352,Radosław,Warzocha,3,I LO im. C.K. Norwida,Bydgoszcz,0,100,0,82,0,182
+353,Robert,Bogucki,2,VI LO im. J. i J. Śniadeckich,Bydgoszcz,0,100,0,81,0,181
+354,Bartosz,Maciurak,3,V Liceum Ogólnokształcące,Szczecin,50,40,50,41,0,181
+355,Rafał,Ochtera,3,VIII LO im. Władysława IV,Warszawa,40,100,30,9,0,179
+356,Mateusz,Kołaczek,1,Liceum Ogólnokształcące,Ustka,90,40,20,27,0,177
+357,Karol,Wysokiński,3,III LO im. Marynarki Wojennej RP,Gdynia,50,100,0,27,0,177
+358,Tomasz,Brzoskwinia,2,V LO im. A. Witkowskiego,Kraków,0,100,20,45,10,175
+359,Rafał,Chrabąszcz,3,I LO im. Władysława Jagiełły,Dębica,10,100,0,36,29,175
+360,Wojciech,Daniło,3,II LO im. Jana III Sobieskiego,Kraków,0,100,20,45,7,172
+361,Maciej,Szeptuch,3,Gimnazjum Dwujęzyczne nr 49,Wrocław,0,100,0,72,0,172
+362,Piotr,Gołofit,3,II LO im. Marii Konopnickiej,Opole,0,100,50,18,0,168
+363,Janusz,Jankowski,1,VI LO im. W. Sierpińskiego,Gdynia,50,100,0,18,0,168
+364,Rafał,Broll,2,Technikum Komunikacji,Poznań,40,100,0,27,0,167
+365,Michał,Grzywna,2,II Liceum Ogólnokształcące,Chełm,100,40,0,27,0,167
+366,Mateusz,Juźwiak,1,LO im. H. Sienkiewicza,Nowa Ruda,40,100,0,27,0,167
+367,Tomasz,Pawłowski,2,XIV LO im. Stanisława Staszica,Warszawa,55,40,50,9,13,167
+368,Piotr,Sokólski,2,I LO im. C. K. Norwida,Bydgoszcz,82,40,0,45,0,167
+369,Sebastian,Jodłowski,1,V Liceum Ogólnokształcące,Bielsko-Biała,10,100,0,55,0,165
+370,Anna,Polańska,1,LO,Warszawa,0,100,20,45,0,165
+371,Bartosz,Głowinkowski,1,XIV Liceum Ogólnokształcące ,Wrocław,10,100,0,54,0,164
+372,Mariusz,Hudziak,2,XIV Liceum Ogólnokształcące ,Wrocław,0,100,0,63,0,163
+373,Tomasz,Kalbarczyk,2,XIV Liceum Ogólnokształcące ,Wrocław,0,100,0,63,0,163
+374,Tomasz,Krakowiak,3,/,Kraków,0,50,30,82,0,162
+375,Artur,Iwan,3,Zespół Szkół Technicznych,Wodzisław Śląski,0,40,60,45,16,161
+376,Adam,Kunysz,2,XII LO im. Bolesława Chrobrego,Wrocław,0,40,30,90,0,160
+377,Kacper,Szurek,2,I LO im. Marcina Kromera,Gorlice,50,100,10,0,0,160
+378,Tomasz,Główka,2,XXVII LO im. T. Czackiego,Warszawa,100,30,0,0,29,159
+379,Mateusz,Kowalewski,2,II LO im. Adama Mickiewicza,Słupsk,0,100,30,0,29,159
+380,Wiktor,Teleżyński,1,Gimnazjum nr 24 przy III LO,Gdynia,50,100,0,9,0,159
+381,Wojciech,Jurczyk,02 I,VI LO im. Tadeusza Reytana,Warszawa,0,100,30,27,0,157
+382,Mateusz,Zgierski,3,LO im. Komisji Edukacji Narodowej,Stalowa Wola,47,40,29,27,13,156
+383,Piotr,Walkowiak,3,VI LO im.Wacława Sierpińskiego,Gdynia,10,40,0,74,29,153
+384,Paweł,Rzymski,3,II Liceum Ogólnokształcące,Grudziądz,0,100,0,35,16,151
+385,Maciej,Siwek,1,V LO im. A. Witkowskiego,Kraków,50,100,0,0,0,150
+386,Kamil,Pękala,3,V LO im. A. Witkowskiego,Kraków,0,100,0,27,22,149
+387,Krzysztof,Ciomek,2,I LO im. J. Kasprowicza,Inowrocław,0,40,62,18,28,148
+388,Piotr,Dudziński,3,LO im. Bogusława X,Białogard,12,100,0,36,0,148
+389,Marek,Bartniczak,2,LO im. Marii Curie-Skłodowskiej,Maków Mazowiecki,40,40,20,18,29,147
+390,Michał,Barciś,1,XIV LO im. Polonii Belgijskiej,Wrocław,0,100,0,45,0,145
+391,Bartłomiej,Kądzielawa,2,VIII LO im. Marii Skłodowskiej-Curie,Katowice,0,100,0,45,0,145
+392,Wojciech,Łopata,1,V LO im. A. Witkowskiego,Kraków,48,40,10,18,29,145
+393,Miłosz,Pacholczyk,2,XIV LO im. Stanisława Staszica,Warszawa,0,100,0,45,0,145
+394,Paweł,Wawruch,1,LO,Milanówek,0,100,0,45,0,145

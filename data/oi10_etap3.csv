@@ -1,0 +1,45 @@
+lp.,imię i nazwisko,szkoła,miejscowość,gra*,ska,sum,kry,mal,tas,suma
+1,Marcin Michalski, III L. O. im. Marynarki Wojennej RP, Gdynia,100,100,100,10,100,100,410
+2,Bartosz Walczak, V L. O. im. Augusta Witkowskiego, Kraków,100,60,50,0,100,100,310
+3,Filip Wolski, Gimnazjum nr 24, Gdynia,100,50,100,10,100,20,280
+4,Michał Brzozowski, III L. O. im. Marynarki Wojennej RP, Gdynia,100,60,60,0,100,30,250
+5,Andrzej Chodor, IV L. O. im. Hanki Sawickiej, Kielce,90,60,53,0,100,30,243
+6,Łukasz Krupa, L. O. im. Króla Wł. Jagiełły, Dębica,100,60,60,0,100,0,220
+7,Michał Jaszczyk, XIII L. O., Szczecin,100,60,40,20,100,0,220
+8,Szymon Acedański, VIII L. O. im. Marii Skłodowskiej-Curie, Katowice,100,68,65,10,70,0,213
+9,Michał Bartoszkiewicz, XIV L. O. im. Polonii Belgijskiej, Wrocław,100,94,50,10,10,30,194
+10,Bartłomiej Romański, XIV L. O. im. Stanisława Staszica, Warszawa,100,50,0,10,100,20,180
+11,Marcin Wielgus, 1 L. O. im. B. Nowodworskiego, Kraków,100,60,60,20,0,30,170
+12,Adam Narkiewicz, XIV L. O. im. Stanisława Staszica, Warszawa,100,70,40,10,40,0,160
+13,Marcin Pilipczuk, XIV L. O. im. Stanisława Staszica, Warszawa,100,70,80,0,0,0,150
+14,Paweł Gosztyła, I L. O. im. Leona Kruczkowskiego, Tychy,100,60,40,10,40,0,150
+15,Andrzej Grzywocz, III L. O. im. Marynarki Wojennej RP, Gdynia,100,36,60,10,40,0,146
+16,Dawid Sieradzki, VIII L. O. im. Adama Mickiewicza, Poznań,75,40,62,0,40,0,142
+17,Piotr Hołubowicz, VIII L. O. im. Adama Mickiewicza, Poznań,99,90,40,10,0,0,140
+18,Jan Prażuch, V L. O. im. Augusta Witkowskiego, Kraków,100,36,100,0,0,0,136
+19,Jakub Łącki, III L. O. im. Marynarki Wojennej RP, Gdynia,100,10,45,10,40,30,135
+20,Szymon Wąsik, VIII L. O. im. Adama Mickiewicza, Poznań,100,20,70,10,20,0,120
+21,Adam Slaski, III L. O. im. Marynarki Wojennej RP, Gdynia,100,20,40,20,40,0,120
+22,Krzysztof Ślusarski, III L. O. im. Marynarki Wojennej RP, Gdynia,40,60,30,10,0,20,120
+23,Jan Kaczmarczyk, V L. O. im. Augusta Witkowskiego, Kraków,80,0,60,0,40,20,120
+24,Tomasz Uliński, III L. O. im. Marynarki Wojennej RP, Gdynia,10,62,18,0,40,0,120
+25,Jarosław Apelski, XIV L. O. im. Stanisława Staszica, Warszawa,0,0,0,0,0,0,0
+26,Piotr Danilewski, V L. O. im. Augusta Witkowskiego, Kraków,0,0,0,0,0,0,0
+27,Piotr Drajski, VI Liceum Ogólnokształcące, Gdynia,0,0,0,0,0,0,0
+28,Adrian Galewski, Zespół Szkół Technicznych, Wodzisław Śląski,0,0,0,0,0,0,0
+29,Adam Iwanicki, I L. O. im. Marii Konopnickiej, Suwałki,0,0,0,0,0,0,0
+30,Maciej Kalbarczyk, L. L. O. im. Ruy Barbosa, Warszawa,0,0,0,0,0,0,0
+31,Damian Klata, XXXI L. O., Łódź,0,0,0,0,0,0,0
+32,Tomasz Kłos, III L. O. im. Marynarki Wojennej RP, Gdynia,0,0,0,0,0,0,0
+33,Piotr Kucharski, V L. O. im. Ks. J. Poniatowskiego, Warszawa,0,0,0,0,0,0,0
+34,Tomasz Łakota, VIII L. O. im. Marii Skłodowskiej-Curie, Katowice,0,0,0,0,0,0,0
+35,Piotr Mikulski, XIII L. O., Szczecin,0,0,0,0,0,0,0
+36,Adam Nowacki, I L. O. im. Adama Mickiewicza, Białystok,0,0,0,0,0,0,0
+37,Jarosław Osmański, IV L. O. im. Tadeusza Kościuszki, Toruń,0,0,0,0,0,0,0
+38,Paweł Papis, VI Liceum Ogólnokształcące, Gdynia,0,0,0,0,0,0,0
+39,Krzysztof Pawłowski, XIV L. O. im. Stanisława Staszica, Warszawa,0,0,0,0,0,0,0
+40,Aleksander Piotrowski, VI L. O. im. J. i J. Śniadeckich, Bydgoszcz,0,0,0,0,0,0,0
+41,Maciej Popowicz, II L. O. im. Piastów Śląskich, Wrocław,0,0,0,0,0,0,0
+42,Krzysztof Porczyk, V L. O. im. Ks. J. Poniatowskiego, Warszawa,0,0,0,0,0,0,0
+43,Maciej Taczuk, V L. O. im. Augusta Witkowskiego, Kraków,0,0,0,0,0,0,0
+44,Rafał Wojtak, Zespół Szkół Elektronicznych, Rzeszów,0,0,0,0,0,0,0

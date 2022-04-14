@@ -1,0 +1,404 @@
+lp.,imię,nazwisko,klasa,szkoła,miejscowość,kon,liz,pio,prz,wyk,suma
+1,Stanisław,Barzowski,3gm,Gimnazjum nr 24 (Zespół Szkól Ogólnokształcących nr 1),Gdynia,100,100,100,100,100,500
+2,Aleksander,Kramarz,2,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,100,100,100,100,100,500
+3,Bartosz,Tarnawski,2,Katolickie Liceum Ogólnokształcące,Katowice,100,100,100,99,92,491
+4,Bartłomiej,Dudek,2A,Zespół Szkół Nr 14,Wrocław,100,100,100,88,100,488
+5,Maciej,Borsz,3a,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,100,100,100,100,84,484
+6,Artur,Kozak,IIImi,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,100,100,100,100,84,484
+7,Jakub,Sygnowski,3a,Zespół Szkół nr 1 im Jana Pawła II,Przysucha,100,100,100,100,76,476
+8,Krzysztof,Pszeniczny,1D,Gimnazjum i Liceum im. Jana Pawła II Sióstr Prezentek,Rzeszów,100,100,100,59,100,459
+9,Krzysztof,Lis,3F,XIV Liceum Ogólnokształcące,Warszawa,90,100,100,100,68,458
+10,Adam,Nieżurawski,3,XIV Liceum Ogólnokształcące,Warszawa,70,100,91,100,92,453
+11,Piotr,Bejda,2,V Liceum Ogólnokształcące,Kraków,100,100,100,88,54,442
+12,Michał,Zając,2,V Liceum Ogólnokształcące,Kraków,100,100,45,100,92,437
+13,Marcin,Smulewicz,2,Liceum Ogólnokształcące im Bolesława Prusa,Skierniewice,100,100,100,100,36,436
+14,Paweł,Lipski,3,"Liceum ""Filomata""",Gliwice,100,100,100,100,8,408
+15,Radosław,Kotowski,IIIB,VI Liceum Ogólnokształcące im. Króla Zygmunta Augusta,Białystok,100,100,100,100,7,407
+16,Mateusz,Bałasz,2b,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,100,100,100,100,0,400
+17,Rafał,Bielenia,3B,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,100,100,100,100,0,400
+18,Konrad,Cichy,2A,Liceum Ogólnokształcące nr III,Wrocław,100,100,100,100,0,400
+19,Adam,Czapliński,IF,IV Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie,Olsztyn,100,100,100,100,0,400
+20,Maciej,Kisiel,3F,IV Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie,Olsztyn,100,100,100,100,0,400
+21,Michał,Kosnowski,3,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,100,100,100,100,0,400
+22,Michał,Kowalczyk,1a,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,100,100,100,100,0,400
+23,Tomek,Laskowski,II,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,100,100,100,100,0,400
+24,Michał,Łowicki,2,Liceum Ogólnokształcące nr III,Wrocław,100,100,100,100,0,400
+25,Miłosz,Makowski,2,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,100,100,100,100,0,400
+26,Sebastian Daniel,Nowak,2,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,100,100,100,100,0,400
+27,Damian,Orlef,III,III Liceum Ogólnokształcące,Zabrze,100,100,100,100,0,400
+28,Maciej,Poleski,3,V Liceum Ogólnokształcące,Kraków,100,100,100,100,0,400
+29,Piotr,Szefler,3,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,100,100,100,100,0,400
+30,Marcel,Zięba,II D,II Liceum Ogólnokształcące,Jaworzno,100,100,100,100,0,400
+31,Marcin,Regdos,3,V Liceum Ogólnokształcące,Kraków,100,100,100,99,0,399
+32,Michał,Dyrek,2,V Liceum Ogólnokształcące,Kraków,100,100,91,100,0,391
+33,Wojciech,Kruk,2E,V Liceum Ogólnokształcące,Kraków,100,93,45,100,53,391
+34,Bartłomiej,Gajewski,3A,XIV Liceum Ogólnokształcące,Warszawa,90,100,100,100,0,390
+35,Filip,Pacanowski,3,V Liceum Ogólnokształcące,Bielsko-Biała,100,100,100,88,0,388
+36,Tomasz,Zakrzewski,IIF,Zespół Szkół Ogólnokształcących nr 2,Olsztyn,90,100,45,100,52,387
+37,Konrad,Kraszewski,2 E,V Liceum Ogólnokształcące,Kraków,100,100,27,96,60,383
+38,Michał,Seweryn,2e,V Liceum Ogólnokształcące,Kraków,100,100,100,78,0,378
+39,Kamil,Łukasz,3,V Liceum Ogólnokształcące,Kraków,100,100,72,100,0,372
+40,Maciej,Matraszek,3,XIV Liceum Ogólnokształcące,Warszawa,100,100,72,100,0,372
+41,Robert,Błaszkiewicz,2,XIII LICEUM OGÓLNOKSZTAŁCĄCE,Szczecin,100,100,71,100,0,371
+42,Krzysztof,Kulig,2e,V Liceum Ogólnokształcące,Kraków,100,100,71,100,0,371
+43,Łukasz,Nędza,3E,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,100,100,71,100,0,371
+44,Kamil,Pawluczuk,3,I Liceum Ogólnokształcące  im. Cypriana Kamila Norwida,Bydgoszcz,80,100,91,100,0,371
+45,Witold,Jędrzejewski,3,XIV Liceum Ogólnokształcące,Warszawa,70,100,100,100,0,370
+46,Wojtek,Staszkiewicz,3c,V Liceum Ogólnokształcące,Bielsko-Biała,90,100,88,92,0,370
+47,Janusz,Kukla,3,Zespół Szkół Ogólnokształcących Nr 1,Nowy Sącz,80,100,87,100,0,367
+48,Łukasz,Wałejko,3B,I Liceum Ogólnokształcące im. Marii Konopnickiej,Suwałki,100,100,65,100,0,365
+49,Jakub,Kołodziej,IIa,Liceum Ogólnokształcące,Giżycko,80,100,84,100,0,364
+50,Teodor,Jerzak,2,Ponadgimnazjalne IV Liceum Ogólnokształcące,Rzeszów,2,100,100,63,100,363
+51,Karol,Różycki,III,V Liceum Ogólnokształcące,Kraków,100,100,63,100,0,363
+52,Michał,Adamczyk,3a,XIV Liceum Ogólnokształcące,Warszawa,100,100,62,100,0,362
+53,Kacper,Kula,3,XIV Liceum Ogólnokształcące,Warszawa,90,100,69,100,0,359
+54,Krzysztof,Trzepla,3,V Liceum Ogólnokształcące,Kraków,100,100,71,88,0,359
+55,Szymon,Stankiewicz,1C,VI Liceum Ogólnokształcące,Radom,100,100,69,88,0,357
+56,Patrick,Hess,III,II LICEUM OGÓLNOKSZTAŁCĄCE,Kraków,100,100,64,88,0,352
+57,Jakub,Brzeski,3,V Liceum Ogólnokształcące,Kraków,100,100,63,88,0,351
+58,Bartosz,Marcinkowski,3D,XIII LICEUM OGÓLNOKSZTAŁCĄCE,Szczecin,100,100,63,88,0,351
+59,Krzysztof,Potempa,2G,V Liceum Ogólnokształcące,Kraków,100,90,72,89,0,351
+60,Arkadiusz,Wróbel,1,XIV Liceum Ogólnokształcące,Warszawa,50,100,100,100,0,350
+61,Wiktor,Kuropatwa,2E,V Liceum Ogólnokształcące,Kraków,100,100,59,88,0,347
+62,Katarzyna,Jabłonowska,3,XIV Liceum Ogólnokształcące,Warszawa,100,100,45,100,0,345
+63,Konrad,Kijewski,2B,I Liceum Ogólnokształcące im. Marii Konopnickiej,Suwałki,100,100,45,100,0,345
+64,Grzegorz,Świrski,1,V Liceum Ogólnokształcące,Kraków,100,100,45,100,0,345
+65,Michał,Szostek,IIIc,I Liceum Ogólnokształcące,Łódź,100,100,45,100,0,345
+66,Michał,Wrona,2,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,80,100,63,95,7,345
+67,Norbert,Gregorek,3,Zespół Szkół,Radom,100,100,56,88,0,344
+68,Jakub,Machaj,I,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,90,100,50,100,0,340
+69,Karol,Brzuśkiewicz,3,Zespół Szkół,Biskupiec,90,81,67,100,0,338
+70,Mateusz,Wasilewski,4Tc,Zespół Szkół Elektronicznych i Samochodowych,Zielona Góra,90,100,47,100,0,337
+71,Mateusz,Kopeć,II B,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,50,100,100,85,0,335
+72,Krzysztof,Piwoński,2,XIV Liceum Ogólnokształcące,Warszawa,90,100,45,100,0,335
+73,Tomasz,Syposz,1,Zespół Szkół Nr 14,Wrocław,70,100,68,97,0,335
+74,Patryk,Urbański,2e,V Liceum Ogólnokształcące,Kraków,100,100,34,100,0,334
+75,Piotr,Żurkowski,3A,VIII Liceum Ogólnokształcące im. Adama Mickiewicza,Poznań,80,0,100,88,66,334
+76,Wojciech,Nadara,IIB,XIV Liceum Ogólnokształcące,Warszawa,100,100,45,88,0,333
+77,Radosław,Osten-Sacken,3,Zespół Szkół Ogólnokształcących nr 3,Poznań,100,100,45,88,0,333
+78,Piotr,Chabierski,I MF,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,100,100,70,61,0,331
+79,Franciszek,Boehlke,3,XIII LICEUM OGÓLNOKSZTAŁCĄCE,Szczecin,0,100,45,100,84,329
+80,Karol,Kaszuba,3 gim,Gimnazjum z Oddziałami Dwujęzycznymi Nr 42,Warszawa,100,100,27,100,0,327
+81,Karol,Lisiecki,3,Zespół Szkół Ogólnokształcących nr 3,Poznań,100,100,27,100,0,327
+82,Maciej,Łobodziński,2,V Liceum Ogólnokształcące,Kraków,100,100,27,100,0,327
+83,Szymon,Policht,2e,V Liceum Ogólnokształcące,Kraków,100,100,27,100,0,327
+84,Rafał,Różak,II,V Liceum Ogólnokształcące,Kraków,100,100,27,100,0,327
+85,Aleksander,Surman,2e,V Liceum Ogólnokształcące,Kraków,100,100,27,100,0,327
+86,Marcin,Zbylut,II,II LICEUM OGÓLNOKSZTAŁCĄCE,Kraków,100,100,27,100,0,327
+87,Tomasz,Stelągowski,2,XIV Liceum Ogólnokształcące,Warszawa,80,100,45,100,0,325
+88,Jakub,Cieśla,3,V Liceum Ogólnokształcące,Kraków,100,100,100,24,0,324
+89,Maciej,Dulęba,2A,Zespół Szkół Nr 14,Wrocław,0,81,100,75,68,324
+90,Krzysztof,Foszcz,2e,V Liceum Ogólnokształcące,Kraków,100,100,34,88,0,322
+91,Mateusz,Starzec,II,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,80,100,58,83,0,321
+92,Maciej,Szeptuch,3,Zespół Szkół Nr 14,Wrocław,30,100,90,92,7,319
+93,Antoni,Zawodny,2,XIV Liceum Ogólnokształcące,Warszawa,90,100,27,100,0,317
+94,Anna,Dymek,2e,V Liceum Ogólnokształcące,Kraków,100,100,27,88,0,315
+95,Tomasz,Lichoń,3,V Liceum Ogólnokształcące,Kraków,100,100,27,88,0,315
+96,Mateusz,Twaróg,2,V Liceum Ogólnokształcące,Kraków,80,100,35,100,0,315
+97,Wojciech,Janczewski,1A,I Liceum Ogólnokształcące,Legnica,80,100,71,63,0,314
+98,Paweł,Olszewski,3,XIV Liceum Ogólnokształcące,Warszawa,100,100,27,87,0,314
+99,Krzysztof,Leszczyński,3,I Liceum Ogólnokształcące im. Marii Konopnickiej,Suwałki,100,100,37,50,25,312
+100,Przemysław Jakub,Kozłowski,2,Społeczne Liceum Ogólnokształcące i Społeczne Gimnazjum nr 8 STO,Białystok,10,100,100,100,0,310
+101,Paweł,Michalak,III,Zespół Szkół Ponadgimnazjalnych Nr 1 im.M Kopernika,Kalisz,10,100,100,100,0,310
+102,Piotr,Skrydalewicz,II,XXXI Liceum Ogólnokształcące im.  Ludwika Zamenhofa,Łódź,50,100,72,88,0,310
+103,Dariusz,Sosnowski,2 B,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,10,100,100,100,0,310
+104,Tomasz,Pałys,3,V Liceum Ogólnokształcące,Kraków,100,100,9,100,0,309
+105,Piotr,Stasiewski,3 liceum,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,50,86,73,100,0,309
+106,Michał,Pytel,3,XIV Liceum Ogólnokształcące,Warszawa,100,100,31,75,0,306
+107,Patryk,Hes,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,40,100,63,100,0,303
+108,Kamil Marcin,Sienkiewicz,2B,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,10,100,91,100,0,301
+109,Krzysztof,Żelaśkiewicz,2A,Zespół Szkół Ogólnokształcących Nr 1,Jelenia Góra,90,93,18,100,0,301
+110,Łukasz,Aleksiejew,2E,V Liceum Ogólnokształcące,Kraków,100,100,0,100,0,300
+111,Maciej,Andrearczyk,2a,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,100,100,100,0,0,300
+112,Grzegorz,Białek,2,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,100,100,100,0,0,300
+113,Radosław,Chmielewski,3,Zespół Szkół Technicznych,Chełm,100,100,100,0,0,300
+114,Aleksander,Chrabąszcz,IIIA1,I Liceum Ogólnokształcące,Kraków,0,100,100,100,0,300
+115,Wojciech,Donderowicz,3B,XIV Liceum Ogólnokształcące,Warszawa,0,100,100,100,0,300
+116,Piotr,Kozakowski,1,I Liceum Ogólnokształcące im. Edwarda Dembowskiego,Zielona Góra,100,97,79,24,0,300
+117,Maciej,Kryński,IIIB,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,100,100,0,300
+118,Paweł,Kubiak,3,I Liceum Ogólnokształcące,Katowice,0,100,100,100,0,300
+119,Michał,Łępicki,IIB,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,100,100,0,300
+120,Łukasz,Majcher,2,Ponadgimnazjalne IV Liceum Ogólnokształcące,Rzeszów,2,0,100,100,100,300
+121,Michał,Piekarz,2,V Liceum Ogólnokształcące,Kraków,100,100,0,100,0,300
+122,Piotr,Jagiełło,3e,Zespół Szkół Nr 14,Wrocław,10,100,61,100,28,299
+123,Tomasz,Kuljon,II,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,100,100,72,24,0,296
+124,Piotr,Gawęda,III,XIV Liceum Ogólnokształcące,Warszawa,80,100,27,88,0,295
+125,Krzysztof,Rutkowski,III,XIV Liceum Ogólnokształcące,Warszawa,100,68,27,100,0,295
+126,Kamil,Rychlewicz,3,Publiczne Gimnazjum nr 8 im. Tadeusza Kościuszki,Łódź,80,100,27,88,0,295
+127,Piotr Adam,Galar,3b,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,50,100,45,98,0,293
+128,Piotr,Stefański,II,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,91,100,0,291
+129,Konrad,Zemek,3e,V Liceum Ogólnokształcące,Kraków,0,100,91,98,0,289
+130,Grzegorz,Głuch,2,Liceum Ogólnokształcące nr III,Wrocław,80,100,45,63,0,288
+131,Katarzyna,Janocha,IIe,V Liceum Ogólnokształcące,Kraków,100,100,0,88,0,288
+132,Jan Kanty,Milczek,III,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,100,100,85,0,0,285
+133,Wiktor,Teleżyński,IIM,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,100,100,82,0,0,282
+134,Kamil,Dębowski,1,I Liceum Ogólnokształcące im. Marii Konopnickiej,Suwałki,80,100,0,100,0,280
+135,Łukasz,Patyna,IIIcL,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,80,100,0,100,0,280
+136,Wojciech,Ptak,3A,Zespół Szkół Nr 14,Wrocław,80,100,0,100,0,280
+137,Kacper,Sowa,3,Zespół Szkół Nr 14,Wrocław,10,100,70,100,0,280
+138,Jadwiga,Andryszak,3E,Zespół Szkół Nr 14,Wrocław,0,100,74,100,0,274
+139,Mateusz,Gołębiewski,2A,Zespół Szkół Nr 14,Wrocław,79,93,66,36,0,274
+140,Wojciech,Żółtowski,2,V Liceum Ogólnokształcące,Gdańsk,80,100,45,49,0,274
+141,Andrzej,Białokozowicz,IIB,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,72,100,0,272
+142,Stanisław,Jastrzębski,3g,V Liceum Ogólnokształcące,Kraków,90,100,70,12,0,272
+143,Jakub,Wieczorek,3,II LICEUM OGÓLNOKSZTAŁCĄCE,Kraków,0,17,70,100,84,271
+144,Konrad,Habryn,2,II Liceum Ogólnokształcące,Jaworzno,0,100,70,100,0,270
+145,Sebastian,Jaszczur,3,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,70,100,100,0,0,270
+146,Tom,Macieszczak,2 A,XIV Liceum Ogólnokształcące,Warszawa,100,7,63,100,0,270
+147,Tomasz,Kotarski,2,Zespół Szkół Ogólnokształcących Nr 1,Olsztyn,0,100,69,100,0,269
+148,Damian,Bogel,3,I Liceum Ogólnokształcące,Kutno,0,100,68,100,0,268
+149,Rafał,Stefański,1,XIV Liceum Ogólnokształcące,Warszawa,80,100,0,87,0,267
+150,Anna,Czajka,3mi,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,70,96,0,266
+151,Adam,Mościcki,2,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,100,100,64,0,0,264
+152,Mateusz,Pstruś,1h,X Liceum Ogólnokształcące,Kraków,0,100,64,100,0,264
+153,Krzysztof,Katowicz Kowalewski,3,IX Liceum Ogólnokształcące,Częstochowa,100,100,27,36,0,263
+154,Marek,Rusinowski,1b,II Liceum Ogólnokształcące,Mielec,0,100,63,100,0,263
+155,Mieszko,Kamyczek,III,Autorska Szkoła Samorozwoju ASSA,Wrocław,80,100,45,36,0,261
+156,Wojciech,Marczenko,3,XXVII Liceum Ogólnokształcace im. Tadeusza Czackiego,Warszawa,50,100,27,24,60,261
+157,Piotr,Pakosz,3,Zespół Szkół nr 1 im Jana Pawła II,Przysucha,0,100,61,100,0,261
+158,Wojciech,Sidor,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,69,0,92,261
+159,Łukasz,Kędziorski,Ia,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,0,100,65,93,0,258
+160,Michał,Krawczak,III b,III Liceum Ogólnokształcące,Lublin,0,79,79,100,0,258
+161,Marcin,Moczulski,3 F,IV Liceum Ogólnokształcące im.Cypriana Kamila Norwida,Białystok,0,100,63,94,0,257
+162,Maciej,Foks,3,V Liceum Ogólnokształcące,Bielsko-Biała,0,100,56,100,0,256
+163,Karol,Kosik,2,I Liceum Ogólnokształcące im. Edwarda Dembowskiego,Zielona Góra,0,100,72,84,0,256
+164,Krzysztof,Stopczański,2,I Liceum Ogólnokształcące im. S. Żeromskiego,Kielce,10,100,58,88,0,256
+165,Michał,Woś,2e,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,100,29,77,49,0,255
+166,Wojciech,Kozaczewski,2A,Liceum Ogólnokształcące nr III,Wrocław,0,100,54,100,0,254
+167,Tadeusz,Krassowski,3,XIV Liceum Ogólnokształcące,Warszawa,100,100,54,0,0,254
+168,Filip,Ochnik,2,XIV Liceum Ogólnokształcące,Warszawa,0,100,54,100,0,254
+169,Kajetana,Buczek,3,XXVII Liceum Ogólnokształcące,Kraków,40,30,68,100,14,252
+170,Jan,Darowski,IIB,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,0,100,63,88,0,251
+171,Jacek,Łysiak,II,XIV Liceum Ogólnokształcące,Warszawa,0,100,51,100,0,251
+172,Andrzej,Rumiński,2bl,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,100,0,63,88,0,251
+173,Jakub,Sękowski,2,V Liceum Ogólnokształcące,Bielsko-Biała,0,100,63,88,0,251
+174,Łukasz,Jocz,3b,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,100,50,0,250
+175,Michał,Bartecki,3a,VIII Liceum Ogólnokształcące im. Adama Mickiewicza,Poznań,0,82,66,100,0,248
+176,Konrad,Paluszek,2B,Gimnazjum z Oddziałami Dwujęzycznymi Nr 42,Warszawa,0,100,48,100,0,248
+177,Karol,Pokorski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,40,100,63,0,44,247
+178,Marek,Bardoński,III MIB,I Liceum Ogólnokształcące,Ciechanów,80,100,27,24,15,246
+179,Łukasz,Dubiel,IIIg,V Liceum Ogólnokształcące,Kraków,100,100,45,0,0,245
+180,Tomasz,Madycki,1c,XIV Liceum Ogólnokształcące,Warszawa,0,100,45,100,0,245
+181,Krzysztof,Sakowski,2B,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,45,100,0,245
+182,Robert,Tomkowski,3,IV Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie,Olsztyn,0,100,45,100,0,245
+183,Filip,Loster,3,V Liceum Ogólnokształcące,Kraków,0,81,63,100,0,244
+184,Piotr,Nalewaja,2A,Zespół Szkół Nr 14,Wrocław,0,92,69,83,0,244
+185,Piotr,Jarosz,1MIB,I Liceum Ogólnokształcące,Ciechanów,80,100,63,0,0,243
+186,Paweł,Kubik,2d,XXXVII Liceum Ogólnokształcące,Warszawa,10,100,45,88,0,243
+187,Maciek,Szeszko,II B,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,45,98,0,243
+188,Paweł,Ficek,3,I Liceum Ogólnokształcące im. Edwarda Dembowskiego,Zielona Góra,90,37,27,88,0,242
+189,Piotr,Pluta,2,Zespół Szkół Ogólnokształcących Nr 2,Tarnów,90,100,27,25,0,242
+190,Paweł,Tabaszewski,2,XIV Liceum Ogólnokształcące,Warszawa,100,100,42,0,0,242
+191,Damian,Repke,3,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,0,100,54,87,0,241
+192,Patryk,Osmólski,1 al,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,0,100,65,75,0,240
+193,Łukasz,Kałędek,3ct,Technikum Nr 7,Kielce,0,100,90,49,0,239
+194,Stanisław,Purgał,1,XIV Liceum Ogólnokształcące,Warszawa,100,100,27,12,0,239
+195,Łukasz,Dąbek,3E,Zespół Szkół Nr 14,Wrocław,10,100,27,100,0,237
+196,Maksymilian,Pasek,3,V Liceum Ogólnokształcące,Kraków,0,100,49,88,0,237
+197,Michał,Pacholski,2F,XIV Liceum Ogólnokształcące,Warszawa,0,100,100,36,0,236
+198,Piotr,Siupa,3,Liceum Ogólnokształcące im. Marszałka Józefa Piłsudskiego,Słupca,80,29,27,100,0,236
+199,Artur,Szumaczuk,III,XIII LICEUM OGÓLNOKSZTAŁCĄCE,Szczecin,100,100,36,0,0,236
+200,Maciej,Urbanek,II LO,I Liceum Ogólnokształcące,Krosno,0,91,45,100,0,236
+201,Krzysztof,Drab,II d,Liceum Ogólnokształcące im. Wł. Broniewskiego,Krzepice,40,100,45,50,0,235
+202,Robert,Kozak,1,I Liceum Ogólnokształcące,Legnica,100,8,27,100,0,235
+203,Michalina,Sieradzka,2,Zespół Szkół Nr 14,Wrocław,90,29,27,88,0,234
+204,Mateusz,Skórski,2A,Zespół Szkół Ogólnokształcących Nr 1,Jelenia Góra,100,7,27,100,0,234
+205,Paweł,Szymczyk,IIb,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,45,88,0,233
+206,Paweł,Kura,2,VIII Liceum Ogólnokształcące,Katowice,0,100,32,100,0,232
+207,Arkadiusz,Kwapiszewski,ID,XIII LICEUM OGÓLNOKSZTAŁCĄCE,Szczecin,40,83,85,24,0,232
+208,Agata,Latacz,2,V Liceum Ogólnokształcące,Kraków,100,100,32,0,0,232
+209,Mateusz,Jurczyk,3,VIII Liceum Ogólnokształcące,Katowice,10,100,45,75,0,230
+210,Piotr,Majcherczyk,2,XIV Liceum Ogólnokształcące,Warszawa,0,100,31,99,0,230
+211,Michał,Szmidt,1,Zespół Szkół Nr 14,Wrocław,0,100,34,96,0,230
+212,Jakub,Czarnowicz,3E,V Liceum Ogólnokształcące,Kraków,100,100,29,0,0,229
+213,Krzysztof,Wędrowicz,1,Zespół Szkół Ogólnokształcących nr 3,Poznań,90,100,27,12,0,229
+214,Mateusz,Bruno-Kamiński,3,V Liceum Ogólnokształcące,Kraków,100,100,27,0,0,227
+215,Krzysztof,Kleiner,2,V Liceum Ogólnokształcące,Kraków,0,100,27,100,0,227
+216,Patryk,Kowalczyk,II,I Liceum Ogólnokształcące,Sieradz,0,100,27,100,0,227
+217,Michał,Kowalik,IIIe,V Liceum Ogólnokształcące,Kraków,100,100,27,0,0,227
+218,Mateusz,Lewicz,2,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,100,100,27,0,0,227
+219,Michał,Majewski,1,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,27,100,0,227
+220,Szymon,Makuła,2E,V Liceum Ogólnokształcące,Kraków,100,100,27,0,0,227
+221,Mateusz,Małek,2E,V Liceum Ogólnokształcące,Kraków,100,100,27,0,0,227
+222,Paweł,Nowak,1D,XIII LICEUM OGÓLNOKSZTAŁCĄCE,Szczecin,100,100,27,0,0,227
+223,Tomasz,Pewiński,IIIA,VIII Liceum Ogólnokształcące im. Adama Mickiewicza,Poznań,0,100,27,100,0,227
+224,Paulina,Pietrzyk,1,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,27,100,0,227
+225,Marek,Sommer,1,XIV Liceum Ogólnokształcące,Warszawa,80,15,36,96,0,227
+226,Darek,Szałkowski,1,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,100,100,27,0,0,227
+227,Miłosz,Łakomy,3C,I Liceum Ogólnokształcące im. Stanisława Staszica,Chrzanów,0,100,27,99,0,226
+228,Aleksander,Łukasiewicz,1A,I Liceum Ogólnokształcące,Legnica,90,100,36,0,0,226
+229,Mikołaj,Marciniak,III,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,90,81,27,24,0,222
+230,Jan,Śliżewski,I B,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,27,95,0,222
+231,Marcin,Gregorczyk,3 b,Zespół Szkół Ogólnokształcących nr 2,Olsztyn,30,8,95,88,0,221
+232,Karol,Banyś,3e,V Liceum Ogólnokształcące,Kraków,100,93,27,0,0,220
+233,Tomasz,Chyrowicz,2,VIII Liceum Ogólnokształcące,Katowice,0,100,27,88,0,215
+234,Krzysztof,Imianowski,3d,XIV Liceum Ogólnokształcące,Warszawa,0,100,27,88,0,215
+235,Tomasz,Legutko,2,II LICEUM OGÓLNOKSZTAŁCĄCE,Kraków,0,100,27,88,0,215
+236,Mateusz,Jaśkowiak,2a,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,100,86,27,0,0,213
+237,Filip,Kowalski,II M,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,100,22,82,0,7,211
+238,Piotr,Strzelecki,3,Zespół Szkół Nr 14,Wrocław,0,100,27,84,0,211
+239,Grzegorz,Bochniak,3,II LICEUM OGÓLNOKSZTAŁCĄCE,Kraków,100,82,27,0,0,209
+240,Piotr Michał,Padlewski,I B,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,81,27,100,0,208
+241,Wojciech,Dyżewski,2 C,XIV Liceum Ogólnokształcące,Warszawa,80,100,27,0,0,207
+242,Paweł,Tatarczuk,3,I Liceum Ogólnokształcące im. Edwarda Dembowskiego,Zielona Góra,80,0,27,100,0,207
+243,Grzgorz,Fabiański,1,XIV Liceum Ogólnokształcące,Warszawa,0,76,27,100,0,203
+244,Jakub,Sala,3,XIV Liceum Ogólnokształcące,Warszawa,80,8,27,88,0,203
+245,Łukasz,Hanuszczak,3,I Liceum Ogólnokształcące,Legnica,30,100,71,0,0,201
+246,Michał,Frej,IIIbL,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,100,100,0,0,0,200
+247,Kinga,Gaździńska,2,VI Liceum Ogólnokształcące,Radom,0,100,100,0,0,200
+248,Jerzy,Jankowski,3,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,0,100,0,100,0,200
+249,Piotr,Kruk,III b,Gimnazjum nr 16 im. Króla Stefana Batorego,Kraków,100,100,0,0,0,200
+250,Aleksandra,Orzechowska,2,V Liceum Ogólnokształcące,Kraków,100,100,0,0,0,200
+251,Albert,Sławiński,3,XIV Liceum Ogólnokształcące,Warszawa,0,100,63,37,0,200
+252,Szymon,Śliwa,Ie,V Liceum Ogólnokształcące,Kraków,0,100,0,100,0,200
+253,Tomasz,Sodzawiczny,3,VIII Liceum Ogólnokształcące,Katowice,0,100,0,100,0,200
+254,Wojciech,Szałapski,2,I Liceum Ogólnokształcące,Ozorków,0,100,71,24,0,195
+255,Michał,Urbanek,III,I Liceum Ogólnokształcące,Krosno,0,100,71,24,0,195
+256,Tomasz,Marzec,4,Zespół Szkół Elektrycznych,Kielce,80,29,49,36,0,194
+257,Albert,Baliński,III Mi,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,68,25,0,193
+258,Michał,Zieliński,3C,Gimnazjum nr 2 im. Adama Mickiewicza,Kraków,0,29,63,100,0,192
+259,Adam,Chudziak,3,XIV Liceum Ogólnokształcące,Warszawa,100,29,61,0,0,190
+260,Mateusz,Markiewicz,III,Zespół Szkół Nr 14,Wrocław,10,100,67,12,0,189
+261,Sławomir,Domagała,2,Zespół Szkół im. A. Mickiewicza,Żołynia,80,30,66,12,0,188
+262,Kornel,Jankowski,1aL,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,10,48,42,88,0,188
+263,Alan,Sierakowski,2,I Liceum Ogólnokształcące,Sieradz,0,100,27,61,0,188
+264,Tomasz,Sosnowski,2,Prywatne Liceum Ogólnokształcące Językowo-Informatyczne,Poznań,0,100,27,61,0,188
+265,Marek,Hołyński,3A,Zespół Szkół Ogólnokształcących Nr 1,Jelenia Góra,0,29,70,88,0,187
+266,Mikołaj,Zalewski,3 A,XLVII Liceum Ogólnokształcące,Warszawa,50,0,46,88,0,184
+267,Tomasz,Frydrych,3F,Liceum Ogólnokształcące Nr VIII,Wrocław,90,34,27,25,7,183
+268,Michał,Gajda,3,I Liceum Ogólnokształcące,Krosno,0,100,71,12,0,183
+269,Karol,Farbiś,I,VI Liceum Ogólnokształcące,Radom,20,100,61,0,0,181
+270,Michał,Glapa,3,Gimnazjum FILOMATA,Gliwice,50,15,27,88,0,180
+271,Michał,Szutenberg,2c,Zespół Szkół Ogólnokształcących,Kartuzy,10,100,70,0,0,180
+272,Krystian,Zawistowski,3D,Zespół Szkół Ogólnokształcących Nr  3,Biała Podlaska,100,0,80,0,0,180
+273,Grzegorz,Araminowicz,1b,I Liceum Ogólnokształcące im. Mikołaja Kopernik,Gdańsk,0,29,61,88,0,178
+274,Michał,Janucik,III,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,83,0,92,0,175
+275,Konrad,Kuźmiński,II,VI Liceum Ogólnokształcące,Gdynia,10,38,27,100,0,175
+276,Paweł,Mikołajczyk,3,II Liceum Ogólnokształcące,Mielec,30,100,45,0,0,175
+277,Artur,Cygan,2,I Liceum Ogólnokształcące,Katowice,0,46,27,100,0,173
+278,Piotr,Turek,3B,IV Liceum Ogólnokształcące im. Hanki Sawickiej,Kielce,0,100,73,0,0,173
+279,Maciej,Jonasz,4Ti,Regionalne Centrum Edukacji Zawodowej,Biłgoraj,0,100,71,0,0,171
+280,Jakub,Łabuz,II,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,0,8,63,100,0,171
+281,Damian,Krawiec,3B,IV Liceum Ogólnokształcące im. Hanki Sawickiej,Kielce,0,22,63,85,0,170
+282,Michał,Mierzyński,3,VI Liceum Ogólnokształcące im. Króla Zygmunta Augusta,Białystok,0,91,54,24,0,169
+283,Karol,Sarnecki,1,XIV Liceum Ogólnokształcące,Warszawa,0,100,45,24,0,169
+284,Krzysztof,Story,2,Zespół Szkół Nr 14,Wrocław,0,100,69,0,0,169
+285,Wojciech,Szęszoł,3,I Liceum Ogólnokształcące,Jasło,0,29,52,88,0,169
+286,Stanisław,Dobrowolski,1,XIV Liceum Ogólnokształcące,Warszawa,50,34,72,12,0,168
+287,Jakub,Mamelski,III,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,68,0,0,168
+288,Mateusz,Gawron,3,I LICEUM OGÓLNOKSZTAŁCĄCE,Gliwice,20,32,27,88,0,167
+289,Mateusz,Piecuch,3,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,10,100,45,12,0,167
+290,Kuba,Skałecki,3 C,VI Liceum Ogólnokształcące,Radom,90,0,65,12,0,167
+291,Maciej,Kacprzak,IB,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,0,8,70,88,0,166
+292,Patryk,Mikos,3a,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,80,29,45,12,0,166
+293,Kamil,Wawrzyczek,3,Zespół Szkół Technicznych,Wodzisław Śląski,50,21,27,68,0,166
+294,Dawid,Sroka,2,Zespół Szkół im. Emilii Sczanieckiej,Pniewy,100,7,45,12,0,164
+295,Tomasz,Stęczniewski,2,XIII LICEUM OGÓLNOKSZTAŁCĄCE,Szczecin,0,100,52,12,0,164
+296,Bartłomiej,Wnuk,1 liceum,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,64,0,0,164
+297,Ewa,Glimos,II,II Liceum Ogólnokształcące,Jaworzno,0,100,63,0,0,163
+298,Krzysztof,Górnowicz,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,63,0,0,163
+299,Krzysztof,Kiewicz,2,VIII Liceum Ogólnokształcące i 58 Gimnazjum im. Władysława IV,Warszawa,100,0,63,0,0,163
+300,Michał,Kownacki,2e,Zespół Szkół Nr 14,Wrocław,0,100,63,0,0,163
+301,Krzysztof,Zięba,II,II Liceum Ogólnokształcące,Jaworzno,0,100,63,0,0,163
+302,Kacper,Krętowski,Ib,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,34,27,100,0,161
+303,Adam,Lipiński,2e,I Liceum Ogólnokształcące,Tychy,0,33,27,100,0,160
+304,Kasia,Sobas,1,"Liceum ""Filomata""",Gliwice,0,100,60,0,0,160
+305,Jakub,Pyszka,3,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,0,100,54,5,0,159
+306,Konrad,Szymański,II G,V Liceum Ogólnokształcące,Kraków,80,8,70,0,0,158
+307,Błażej,Magnowski,1,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,30,100,27,0,0,157
+308,Rafał,Sumisławski,3C,Liceum Ogólnokształcące nr III,Wrocław,0,32,36,88,0,156
+309,Przemysław,Tusiński,4,Zespół Szkół Mechaniczno-Elektrycznych,Żywiec,0,29,27,100,0,156
+310,Michał,Kowalewski,3,Gimnazjum nr 24 (Zespół Szkól Ogólnokształcących nr 1),Gdynia,0,100,54,0,0,154
+311,Paweł,Wegner,III mg,Gimnazjum nr 24 (Zespół Szkól Ogólnokształcących nr 1),Gdynia,0,100,54,0,0,154
+312,Paweł,Benetkiewicz,3c,VII Liceum Ogólnokształcące  im. Wandy Szuman,Toruń,50,14,27,61,0,152
+313,Artur,Dobrogowski,1a,XIV Liceum Ogólnokształcące,Warszawa,0,100,27,24,0,151
+314,Jakub,Stanecki,III,Gimnazjum im. Jerzego Andrzeja Helwinga,Węgorzewo,10,8,33,100,0,151
+315,Marcin,Karpiński,3gim,Gimnazjum nr 1 im. św. Jadwigi Królowej,Jasło,0,100,38,12,0,150
+316,Dominik,Tomasiewicz,4 techniku,Zespół Szkół Mechaniczno-Elektrycznych,Tarnów,0,86,27,37,0,150
+317,Marcin,Żukowski,3 B,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,0,50,0,150
+318,Albert,Gutowski,3B,Zespół Szkół nr 7,Lublin,0,2,59,88,0,149
+319,Michał,Gańczorz,3c,II Liceum Ogólnokształcące,Rybnik,0,21,27,100,0,148
+320,Ania,Kubik,2A,Zespół Szkół Nr 14,Wrocław,0,72,27,49,0,148
+321,Grzegorz,Leśko,4,Zespół Szkół Ekonomicznych,Rzeszów,20,100,27,0,0,147
+322,Patryk,Czeczko,3 B,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,45,0,0,145
+323,Marcin,Rapacki,II,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,45,0,0,145
+324,Krzysztof,Skrzynecki,3E,Zespół Szkół Nr 14,Wrocław,0,100,45,0,0,145
+325,Adam,Trzaskowski,3,Społeczne Gimnazjum Dwójka Nr 45,Warszawa,10,29,45,61,0,145
+326,Wiktor,Klonowski,2,Liceum Ogólnokształcące Politechniki Łódzkiej,Łódź,0,29,27,88,0,144
+327,Przemysław,Kuczyński,2,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,41,27,75,0,143
+328,Jakub,Przepiórski,2,I Liceum Ogólnokształcące,Rzeszów,10,33,27,72,0,142
+329,Rafał,Soszyński,2,I Liceum Ogólnokształcące im. B. Prusa,Siedlce,0,0,45,97,0,142
+330,Jacek,Tomaszewski,IIb,I Liceum Ogólnokształcące im. Oskara Kolberga,Kościan,0,7,45,90,0,142
+331,Kacper,Ciepielewski,IIc,III Liceum Ogólnokształcące,Dabrowa Górnicza,0,100,27,13,0,140
+332,Jakub,Król,2,V Liceum Ogólnokształcące,Kraków,100,7,33,0,0,140
+333,Marta,Śmigielska,3,XIII Gimnazjum im. Stanisława Staszica,Warszawa,0,100,27,13,0,140
+334,Grzegorz,Chuchro,3E,X Liceum Ogólnokształcące,Wrocław,0,100,27,12,0,139
+335,Tomasz,Kaszlewicz,2,XIV Liceum Ogólnokształcące,Warszawa,0,100,27,12,0,139
+336,Łukasz,Nośko,2,I Liceum Ogólnokształcące,Rzeszów,0,32,45,61,0,138
+337,Filip,Chmielewski,1,XIII LICEUM OGÓLNOKSZTAŁCĄCE,Szczecin,10,100,27,0,0,137
+338,Marcin,Grzywaczewski,3E,Zespół Szkół Nr 14,Wrocław,10,100,27,0,0,137
+339,Michał,Zezyk,Ia,I Liceum Ogólnokształcące im. Stanisława Staszica,Chrzanów,0,22,27,88,0,137
+340,Rafał,Domański,2,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,36,0,0,136
+341,Artur,Jarocki,3,Zespół Szkół,Sokółka,0,72,64,0,0,136
+342,Jakub,Kuszneruk,3,Zespół Szkół Ogólnokształcących,Biała Podlaska,0,100,36,0,0,136
+343,Radosław,Piliszek,III a,Zespół Szkół Ogólnokształcących nr 2,Białystok,0,22,27,87,0,136
+344,Bartek,Banachewicz,III mi,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,72,63,0,0,135
+345,Konrad,Dymon,2,Zespół Szkół Ogólnokształcących Nr 2,Tarnów,0,7,45,83,0,135
+346,Patryk,Czajka,1,XIV Liceum Ogólnokształcące,Warszawa,0,7,27,100,0,134
+347,Kamil,Harasimowicz,3,I Liceum Ogólnokształcące,Legnica,0,7,27,100,0,134
+348,Kamil,Kwaśny,3,V Liceum Ogólnokształcące,Bielsko-Biała,0,7,27,100,0,134
+349,Aleksandra,Dębska,3C,Liceum Ogólnokształcące nr III,Wrocław,0,29,32,70,0,131
+350,Piotr,Suwała,IIIG,Gimnazjum społeczne nr 333,Warszawa,0,7,36,88,0,131
+351,Krzysztof,Kozłowski,II E,II Liceum Ogólnokształcące,Tarnowskie Góry,0,35,27,68,0,130
+352,Kamil,Grula,IIB,Liceum Ogólnokształcące,Ryki,0,100,29,0,0,129
+353,Michał,Darkowski,3E,V Liceum Ogólnokształcące,Kraków,0,100,27,0,0,127
+354,Karolina,Drobotowicz,2,V Liceum Ogólnokształcące,Gdańsk,0,100,27,0,0,127
+355,Michał,Grzegorczyk,3,XIII Liceum Ogólnokształcące,Kraków,0,100,27,0,0,127
+356,Mateusz,Jaszewski,2A,Zespół Szkół Licealnych,Przasnysz,0,100,27,0,0,127
+357,Leszek,Kania,1e,V Liceum Ogólnokształcące,Kraków,0,100,27,0,0,127
+358,Piotr,Krasuń,I MI,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,27,0,0,127
+359,Aleksander,Książek,D,VIII Liceum Ogólnokształcące,Katowice,0,100,27,0,0,127
+360,Michał,Papierowski,2,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,27,0,0,127
+361,Paweł,Pietrzak,III mi,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,27,0,0,127
+362,Franciszek,Piszcz,3,Zespół Szkół Ogólnokształcących nr 6,Bydgoszcz,0,100,27,0,0,127
+363,Borys,Popławski,3D,I Liceum Ogólnokształcące im. Tadeusza Kościuszki,Łomża,0,34,45,48,0,127
+364,Mateusz,Rogulski,3,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,27,0,0,127
+365,Jadwiga,Słowik,3,Gimnazjum nr 24 (Zespół Szkól Ogólnokształcących nr 1),Gdynia,0,100,27,0,0,127
+366,Adam,Sobczak,3 MI,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,100,27,0,0,127
+367,Magdalena,Stasiewicz,1,I Liceum Ogólnokształcące im. Adama Mickiewicza,Białystok,0,100,27,0,0,127
+368,Juliusz,Straszyński,2b,XIV Liceum Ogólnokształcące,Warszawa,90,37,0,0,0,127
+369,Jakub,Czerwiński,2b,Zespół Szkół Ogólnokształcących Nr 2,Tarnów,80,37,9,0,0,126
+370,Kamil,Grzeszczuk,3,VIII Liceum Ogólnokształcące im. Adama Mickiewicza,Poznań,0,29,36,61,0,126
+371,Karol,Medwecki,3c2,VIII Liceum Ogólnokształcące,Katowice,0,80,45,0,0,125
+372,Radosław,Serafin,1,Liceum Ogólnokształcące nr III,Wrocław,0,74,27,24,0,125
+373,Krzysztof,Mędrela,2G,V Liceum Ogólnokształcące,Kraków,0,100,0,24,0,124
+374,Anna,Szybalska,2,V Liceum Ogólnokształcące,Kraków,0,100,0,24,0,124
+375,Jakub,Cieśliński,3 LO,Salezjański Zespół Szkół Publicznych Don Bosko,Świętochłowice,10,29,27,55,0,121
+376,Wojciech,Zabawa,2A,III Liceum ogólnokształcące im. Adama Mickiewicza,Tarnów,0,29,27,65,0,121
+377,Paweł,Łyżwa,2,II LICEUM OGÓLNOKSZTAŁCĄCE,Kraków,80,0,27,13,0,120
+378,Adam,Szady,I a,III Liceum Ogólnokształcące,Zabrze,50,29,27,0,14,120
+379,Mateusz,Wasilewski,III,Zespół Szkół UMK Gimnazjum i Liceum Akademickie,Toruń,0,93,27,0,0,120
+380,Piotr,Jucha,4,Zespół Szkół Mechaniczno-Elektrycznych,Tarnów,0,92,27,0,0,119
+381,Grzegorz,Opoka,1 J,II Liceum Ogólnokształcące,Nowy Sącz,0,29,27,61,0,117
+382,Aleksander,Domagała,III,VI Liceum Ogólnokształcące im. J. Słowackiego,Kielce,40,31,45,0,0,116
+383,Kacper,Madej,III,II LICEUM OGÓLNOKSZTAŁCĄCE,Kraków,0,89,27,0,0,116
+384,Paweł,Gumny,III D,XIII LICEUM OGÓLNOKSZTAŁCĄCE,Szczecin,0,0,27,87,0,114
+385,Igor,Matuszewski,II,Akademickie Liceum Ogólnokształcące,Warszawa,0,51,27,36,0,114
+386,Jakub,Kmiotek,1,VI Liceum Ogólnokształcące,Radom,0,84,27,0,0,111
+387,Marcin,Rosenhof,2c,II Liceum Ogólnokształcące im. Mikołaja Kopernika,Kędzierzyn-Koźle,0,75,36,0,0,111
+388,Agnieszka,Hejna,II A,Zespół Szkół Nr 14,Wrocław,0,59,27,24,0,110
+389,Adam,Malczewski,3,XIII LICEUM OGÓLNOKSZTAŁCĄCE,Szczecin,10,0,100,0,0,110
+390,Wojciech,Kordalski,3,Gimnazjum nr 9 im. Powstańców Wielkopolski,Bydgoszcz,50,0,59,0,0,109
+391,Konrad,Sikorski,1,VI Liceum Ogólnokształcące,Radom,0,7,27,75,0,109
+392,Kamil,Żyła,1,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,48,61,0,0,109
+393,Michał,Sośnicki,2A,Liceum Ogólnokształcące Politechniki Łódzkiej,Łódź,10,35,63,0,0,108
+394,Kamil,Dubel,3,V Liceum Ogólnokształcące,Bielsko-Biała,80,0,27,0,0,107
+395,Aleksander,Matusiak,1A,XIV Liceum Ogólnokształcące,Warszawa,0,80,27,0,0,107
+396,Przemysław,Miśkowicz,3,I Liceum Ogólnokształcące,Jasło,0,22,36,49,0,107
+397,Łukasz,Korzeniowski,3a,Zespół Szkół Ogólnokształcących,Biała Podlaska,0,76,27,0,0,103
+398,Krzysztof,Kacwin,I A,Zespół Szkół Ogólnokształcących,Nowy Targ,0,14,27,61,0,102
+399,Olaf,Tomalka,1MI,III Liceum Ogólnokształcące im. Marynarki Wojennej RP,Gdynia,0,75,27,0,0,102
+400,Łukasz,Gładczuk,3,XIV Liceum Ogólnokształcące,Warszawa,0,100,0,0,0,100
+401,Bartłomiej,Puget,I,V Liceum Ogólnokształcące,Kraków,0,100,0,0,0,100
+402,Karol Michał,Suszczyński,3A,Zespół Szkół Nr 14,Wrocław,0,100,0,0,0,100
+403,Olga,Traczyk,3B,XIV Liceum Ogólnokształcące,Warszawa,0,100,0,0,0,100
